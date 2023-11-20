@@ -1,0 +1,6 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexado, atividade da congregação, para sua referência.
+
+Atenciosamente,
+[SENDER_NAME]

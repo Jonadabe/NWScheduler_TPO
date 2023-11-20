@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Este é um lembrete de que o seu relatório de serviço de campo para [MISSING_REPORT_DATE] ainda não foi recebido.
+
+Por favor envie o seu relatório de serviço de campo [MISSING_REPORT_DATE] o mais rápido possível.
+
+Atenciosamente,
+[SENDER_NAME]

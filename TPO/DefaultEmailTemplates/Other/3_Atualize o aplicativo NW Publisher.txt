@@ -1,0 +1,14 @@
+Prezado [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+De acordo com nossos registros, você está usando uma versão antiga do aplicativo NW Publisher. Atualize seu aplicativo NW Publisher o mais rápido possível.
+
+Como atualizar?
+1) Usando seu dispositivo móvel, visite a Apple App Store, Google Play Store ou Amazon App Store e procure por "NW Publisher"
+
+2) Toque em Atualizar
+
+Se você tiver dúvidas ou problemas, entre em contato com o Supervisor do Grupo de Serviço de Campo.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

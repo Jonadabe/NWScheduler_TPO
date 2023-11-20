@@ -1,0 +1,6 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexado que mostra quais os territórios, que estão atualmente por DEVOLVER, de publicadores do seu grupo de serviço de campo.
+
+Atenciosamente,
+[SENDER_NAME]

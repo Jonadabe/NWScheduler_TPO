@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o ficheiro [ATTACHMENT_NAME] anexado.
+
+Por favor, verifique este relatório e providêncie ajuda se e quando necessária.
+
+Atenciosamente,
+[SENDER_NAME]

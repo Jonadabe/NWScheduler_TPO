@@ -1,0 +1,29 @@
+Prezado [TO_NAME],
+
+Informamos foi convidado a fazer o download do NW Scheduler em seu computador e, em seguida, ligar-se à nossa congregação.
+
+NW Scheduler é um programa de software projetado para as Testemunhas de Jeová. Seu objetivo é simplificar e unificar a programação e a organização da congregação.
+
+Como baixar o NW Scheduler e ligar-se?
+1) Usando seu computador, visite https://www.nwscheduler.com e clique em Download NW Scheduler
+a) Nota: Se você tiver um Apple Mac, consulte https://nwscheduler.com/jw-scheduler-for-mac/
+
+2) Instale e abra o NW Scheduler no seu computador
+a) Nota: Se tiver problemas na instalação, consulte https://nwscheduler.com/how-to/getting-started/installing-jw-scheduler
+
+3) Em Welcome to NW Scheduler, selecione o idioma do programa, digite seu nome e e-mail e clique em Iniciar
+
+4) Em Começar, clique em  Abrir Congregação do Compartilhamento e use as seguintes informações para se ligar:
+Região de Compartilhamento da Congregação: [CONGREGATION_REGION]
+ID da congregação: [CONGREGATION_ID]
+Senha de Compartilhamento da Congregação:<SENT SEPARATELY>
+
+Se tiver problemas para se ligar, consulte https://nwscheduler.com/how-to/congregation/how-to-open-a-congregation-from-sharing/
+
+Para saber mais sobre o NW Scheduler, visite https://www.nwscheduler.com
+
+Se tiver outras dúvidas ou problemas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

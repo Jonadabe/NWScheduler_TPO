@@ -1,0 +1,11 @@
+Caro [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+Este é um lembrete amigável de que a Hospitalidade foi organizada para este fim de semana. Entre em contato diretamente para obter os detalhes deste acordo.
+
+[HOSPITALITY]
+
+Se você tiver dúvidas ou problemas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

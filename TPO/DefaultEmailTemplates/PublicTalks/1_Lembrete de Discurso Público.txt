@@ -1,0 +1,13 @@
+Prezado [TO_NAME],
+
+Este é um lembrete de que está convidado para dar o seguinte Discurso Público na Congregação [CONGREGATION_NAME] :
+
+[PUBLIC_TALK]
+
+[KINGDOM_HALL_ADDRESS]
+
+Se tiver dúvidas ou problemas sobre este discurso público, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

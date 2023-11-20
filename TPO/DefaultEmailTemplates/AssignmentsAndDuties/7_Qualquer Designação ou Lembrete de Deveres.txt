@@ -1,0 +1,10 @@
+Prezado [TO_NAME],
+
+Este é um lembrete de que tem as seguintes Designações e Deveres na Congregação:
+
+[ANY_ASSIGNMENTS_DUTIES]
+
+Se tiver dúvidas ou problemas sobre essas designações ou deveres, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]

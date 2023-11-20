@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor, veja o [ATTACHMENT_NAME] anexado. Por favor, verifique essas informações, incluindo todos os Contatos de Emergência, e se necessário faça as alterações, atualizando os dados.
+
+Depois de terminar de verificar e fazer as alterações, agradeço que me envie.
+
+Atenciosamente,
+[SENDER_NAME]

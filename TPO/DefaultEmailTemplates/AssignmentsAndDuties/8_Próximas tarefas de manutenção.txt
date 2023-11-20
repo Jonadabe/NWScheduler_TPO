@@ -1,0 +1,10 @@
+Caro [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+Este é um lembrete amigável de que você tem próximas Tarefas de Manutenção.
+
+Localize o [ATTACHMENT_NAME] em anexo.
+
+Se você tiver dúvidas ou problemas sobre essas tarefas de manutenção, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]

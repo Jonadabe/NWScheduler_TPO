@@ -1,0 +1,13 @@
+Prezado [TO_NAME],
+
+Gostaríamos de trocar Oradores Públicos com sua congregação. Solicito, por favor, que me informe quais os oradores públicos que estão disponíveis nas seguintes datas:
+
+[PUBLIC_TALK_EMPTY_DATES]
+
+Temos também os seguintes Oradores Públicos disponíveis:
+
+[AVAILABLE_SPEAKERS]
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

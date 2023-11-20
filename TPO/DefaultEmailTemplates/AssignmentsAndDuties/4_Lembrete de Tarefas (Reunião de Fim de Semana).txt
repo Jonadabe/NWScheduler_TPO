@@ -1,0 +1,10 @@
+Prezado [TO_NAME],
+
+Este é um lembrete de que tem as seguintes Tarefas de Fim de Semana:
+
+[WEEKEND_ASSIGNMENTS]
+
+Se tiver dúvidas ou problemas sobre essas tarefas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]

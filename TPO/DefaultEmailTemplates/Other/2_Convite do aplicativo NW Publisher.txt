@@ -1,0 +1,31 @@
+Prezado [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+O corpo de anciãos gostaria de convidá-lo a baixar o aplicativo gratuito NW Publisher em seu dispositivo móvel e depois conectar-se à nossa congregação.
+
+O aplicativo NW Publisher permite que você:
+- Ver Vida Cristã e Reunião de Ministério, Palestra Pública e Tarefas de Fim de Semana
+- Veja Anúncios e Eventos da Congregação
+- Visualize Agendas de reuniões e serviços de campo
+- Ver Deveres da Congregação
+- e mais
+
+Como baixar e conectar?
+1) Usando seu dispositivo móvel, visite a Apple App Store, Google Play Store ou Amazon App Store e procure por "NW Publisher"
+
+2) Instale e abra o NW Publisher em seu dispositivo móvel
+
+3) Em Conecte-se à sua Congregação, use as seguintes informações:
+ID da congregação: [CONGREGATION_ID]
+PIN da congregação: [CONGREGATION_PIN]
+
+4) Em Identifique-se, use as seguintes informações:
+Nome: [FIRST_NAME]
+PIN da pessoa: [PERSON_PIN]
+
+Para saber mais sobre o aplicativo NW Publisher, visite https://www.nwpublisher.com
+
+Se você tiver dúvidas ou problemas, entre em contato com o Supervisor do Grupo de Serviço de Campo.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

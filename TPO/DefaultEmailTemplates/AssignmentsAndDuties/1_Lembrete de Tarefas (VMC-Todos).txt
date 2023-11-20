@@ -1,0 +1,10 @@
+Prezado [TO_NAME],
+
+Este é um lembrete de que tem as seguintes Designações na Reunião Vida e Ministério:
+
+[CLM_ASSIGNMENTS_ALL]
+
+Se tiver dúvidas ou problemas sobre essas designações, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]

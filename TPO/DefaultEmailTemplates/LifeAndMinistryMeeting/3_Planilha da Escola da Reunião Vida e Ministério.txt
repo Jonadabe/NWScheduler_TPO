@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor, encontre o anexo [ATTACHMENT_NAME] para a Reunião de Vida e Ministério Cristão.
+
+Esta planilha pode ajudá-lo a conduzir efetivamente a escola naquela semana.
+
+Atenciosamente,
+[SENDER_NAME]

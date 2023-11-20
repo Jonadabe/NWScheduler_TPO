@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Song>
+    <Number>1</Number>
+    <Title>As Qualidades de Jeová</Title>
+  </Song>
+  <Song>
+    <Number>2</Number>
+    <Title>O Teu Nome É Jeová</Title>
+  </Song>
+  <Song>
+    <Number>3</Number>
+    <Title>Jeová, Minha Força e Esperança</Title>
+  </Song>
+  <Song>
+    <Number>4</Number>
+    <Title>“Jeová É o Meu Pastor”</Title>
+  </Song>
+  <Song>
+    <Number>5</Number>
+    <Title>As Obras Maravilhosas de Deus</Title>
+  </Song>
+  <Song>
+    <Number>6</Number>
+    <Title>“Os Céus Declaram a Glória de Deus”</Title>
+  </Song>
+  <Song>
+    <Number>7</Number>
+    <Title>Jeová, Nossa Força e Poder</Title>
+  </Song>
+  <Song>
+    <Number>8</Number>
+    <Title>Jeová É Um Refúgio</Title>
+  </Song>
+  <Song>
+    <Number>9</Number>
+    <Title>Jeová É o Nosso Rei!</Title>
+  </Song>
+  <Song>
+    <Number>10</Number>
+    <Title>A Jeová Vou Agradecer!</Title>
+  </Song>
+  <Song>
+    <Number>11</Number>
+    <Title>A Criação Dá Louvor a Jeová</Title>
+  </Song>
+  <Song>
+    <Number>12</Number>
+    <Title>O Nosso Grandioso Deus, Jeová</Title>
+  </Song>
+  <Song>
+    <Number>13</Number>
+    <Title>Cristo, o Nosso Exemplo</Title>
+  </Song>
+  <Song>
+    <Number>14</Number>
+    <Title>O Novo Rei da Terra</Title>
+  </Song>
+  <Song>
+    <Number>15</Number>
+    <Title>Louva o Filho de Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>16</Number>
+    <Title>Jeová Escolheu o Nosso Rei</Title>
+  </Song>
+  <Song>
+    <Number>17</Number>
+    <Title>“Eu Quero!”</Title>
+  </Song>
+  <Song>
+    <Number>18</Number>
+    <Title>Obrigado Pelo Resgate!</Title>
+  </Song>
+  <Song>
+    <Number>19</Number>
+    <Title>A Ceia do Senhor</Title>
+  </Song>
+  <Song>
+    <Number>20</Number>
+    <Title>Jeová Deu-nos o Seu Melhor</Title>
+  </Song>
+  <Song>
+    <Number>21</Number>
+    <Title>Vou Buscar Primeiro o Reino</Title>
+  </Song>
+  <Song>
+    <Number>22</Number>
+    <Title>“Venha o Teu Reino!”</Title>
+  </Song>
+  <Song>
+    <Number>23</Number>
+    <Title>Jeová Começou a Reinar!</Title>
+  </Song>
+  <Song>
+    <Number>24</Number>
+    <Title>Venham Para o Monte de Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>25</Number>
+    <Title>Os Filhos Ungidos de Jeová</Title>
+  </Song>
+  <Song>
+    <Number>26</Number>
+    <Title>‘Fizeste-o por Mim’</Title>
+  </Song>
+  <Song>
+    <Number>27</Number>
+    <Title>A Vitória dos Filhos de Deus</Title>
+  </Song>
+  <Song>
+    <Number>28</Number>
+    <Title>Quem Pode Ser Amigo de Jeová?</Title>
+  </Song>
+  <Song>
+    <Number>29</Number>
+    <Title>Que a Nossa Vida Dê Glória ao Teu Nome!</Title>
+  </Song>
+  <Song>
+    <Number>30</Number>
+    <Title>Meu Deus, Meu Amigo e Pai</Title>
+  </Song>
+  <Song>
+    <Number>31</Number>
+    <Title>Anda Sempre com Jeová</Title>
+  </Song>
+  <Song>
+    <Number>32</Number>
+    <Title>Escolhe o Lado de Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>33</Number>
+    <Title>Lança Sobre Deus o Teu Fardo</Title>
+  </Song>
+  <Song>
+    <Number>34</Number>
+    <Title>Vou Andar em Integridade</Title>
+  </Song>
+  <Song>
+    <Number>35</Number>
+    <Title>O Que É Mais Importante</Title>
+  </Song>
+  <Song>
+    <Number>36</Number>
+    <Title>Protege o Teu Coração</Title>
+  </Song>
+  <Song>
+    <Number>37</Number>
+    <Title>Amo a Jeová de Todo o Coração</Title>
+  </Song>
+  <Song>
+    <Number>38</Number>
+    <Title>Jeová Vai Dar-te Força</Title>
+  </Song>
+  <Song>
+    <Number>39</Number>
+    <Title>Um Bom Nome</Title>
+  </Song>
+  <Song>
+    <Number>40</Number>
+    <Title> A Quem Pertencerás?</Title>
+  </Song>
+  <Song>
+    <Number>41</Number>
+    <Title>“Ouve a Minha Oração”</Title>
+  </Song>
+  <Song>
+    <Number>42</Number>
+    <Title>A Minha Oração a Jeová</Title>
+  </Song>
+  <Song>
+    <Number>43</Number>
+    <Title>Uma Oração de Agradecimento</Title>
+  </Song>
+  <Song>
+    <Number>44</Number>
+    <Title>Oração de Um Servo Aflito</Title>
+  </Song>
+  <Song>
+    <Number>45</Number>
+    <Title>Os Pensamentos do Meu Coração</Title>
+  </Song>
+  <Song>
+    <Number>46</Number>
+    <Title>Obrigado, Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>47</Number>
+    <Title>Vou Sempre Orar a Deus</Title>
+  </Song>
+  <Song>
+    <Number>48</Number>
+    <Title>Caminhamos Sempre com Jeová</Title>
+  </Song>
+  <Song>
+    <Number>49</Number>
+    <Title>Vou Alegrar a Jeová</Title>
+  </Song>
+  <Song>
+    <Number>50</Number>
+    <Title>A Minha Oração de Dedicação</Title>
+  </Song>
+  <Song>
+    <Number>51</Number>
+    <Title>Dedicámos a Nossa Vida a Jeová</Title>
+  </Song>
+  <Song>
+    <Number>52</Number>
+    <Title>A Nossa Dedicação</Title>
+  </Song>
+  <Song>
+    <Number>53</Number>
+    <Title>Pronto Para Ir Pregar</Title>
+  </Song>
+  <Song>
+    <Number>54</Number>
+    <Title>“Este É o Caminho”</Title>
+  </Song>
+  <Song>
+    <Number>55</Number>
+    <Title>Nada Temam, Meus Amados!</Title>
+  </Song>
+  <Song>
+    <Number>56</Number>
+    <Title>Faz da Verdade a Tua Vida</Title>
+  </Song>
+  <Song>
+    <Number>57</Number>
+    <Title>Pregar a Todo o Tipo de Pessoas</Title>
+  </Song>
+  <Song>
+    <Number>58</Number>
+    <Title>Vamos Procurar os Amigos da Paz</Title>
+  </Song>
+  <Song>
+    <Number>59</Number>
+    <Title>Vamos Louvar a Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>60</Number>
+    <Title>A Mensagem de Vida</Title>
+  </Song>
+  <Song>
+    <Number>61</Number>
+    <Title>Avancem, Testemunhas!</Title>
+  </Song>
+  <Song>
+    <Number>62</Number>
+    <Title>‘O Novo Cântico’</Title>
+  </Song>
+  <Song>
+    <Number>63</Number>
+    <Title>Somos Testemunhas de Jeová!</Title>
+  </Song>
+  <Song>
+    <Number>64</Number>
+    <Title>Participamos com Alegria na Colheita</Title>
+  </Song>
+  <Song>
+    <Number>65</Number>
+    <Title>Confiantes, Nós Vamos Continuar!</Title>
+  </Song>
+  <Song>
+    <Number>66</Number>
+    <Title>Vamos Declarar as Boas Novas</Title>
+  </Song>
+  <Song>
+    <Number>67</Number>
+    <Title>Eu Vou Pregar!</Title>
+  </Song>
+  <Song>
+    <Number>68</Number>
+    <Title>Semear a Semente do Reino</Title>
+  </Song>
+  <Song>
+    <Number>69</Number>
+    <Title>Continua a Pregar!</Title>
+  </Song>
+  <Song>
+    <Number>70</Number>
+    <Title>Procurem os Merecedores</Title>
+  </Song>
+  <Song>
+    <Number>71</Number>
+    <Title>Marchamos com Jeová</Title>
+  </Song>
+  <Song>
+    <Number>72</Number>
+    <Title>Pregar as Verdades do Reino</Title>
+  </Song>
+  <Song>
+    <Number>73</Number>
+    <Title>Dá-nos Coragem</Title>
+  </Song>
+  <Song>
+    <Number>74</Number>
+    <Title>A Canção do Reino</Title>
+  </Song>
+  <Song>
+    <Number>75</Number>
+    <Title>‘Estou Aqui!’</Title>
+  </Song>
+  <Song>
+    <Number>76</Number>
+    <Title>Um Sentimento Especial</Title>
+  </Song>
+  <Song>
+    <Number>77</Number>
+    <Title>Luz Num Mundo Sombrio</Title>
+  </Song>
+  <Song>
+    <Number>78</Number>
+    <Title>Ensinamos a Verdade com Amor</Title>
+  </Song>
+  <Song>
+    <Number>79</Number>
+    <Title>Ensina-os a Manterem-se Firmes</Title>
+  </Song>
+  <Song>
+    <Number>80</Number>
+    <Title>“Provem e Vejam Que Jeová É Bom”</Title>
+  </Song>
+  <Song>
+    <Number>81</Number>
+    <Title>A Vida de Um Pioneiro</Title>
+  </Song>
+  <Song>
+    <Number>82</Number>
+    <Title>‘Deixa a Luz Brilhar’</Title>
+  </Song>
+  <Song>
+    <Number>83</Number>
+    <Title>“De Casa em Casa”</Title>
+  </Song>
+  <Song>
+    <Number>84</Number>
+    <Title>Vou Dar o Meu Melhor</Title>
+  </Song>
+  <Song>
+    <Number>85</Number>
+    <Title>Sejam Bem-Vindos!</Title>
+  </Song>
+  <Song>
+    <Number>86</Number>
+    <Title>As Reuniões São o Nosso Lugar</Title>
+  </Song>
+  <Song>
+    <Number>87</Number>
+    <Title>As Reuniões Encorajam-nos</Title>
+  </Song>
+  <Song>
+    <Number>88</Number>
+    <Title>Os Teus Caminhos Quero Entender</Title>
+  </Song>
+  <Song>
+    <Number>89</Number>
+    <Title>Ouve, Obedece e Vais Ser Abençoado</Title>
+  </Song>
+  <Song>
+    <Number>90</Number>
+    <Title>‘Encorajemo-nos Uns aos Outros’</Title>
+  </Song>
+  <Song>
+    <Number>91</Number>
+    <Title>Construímos com Amor</Title>
+  </Song>
+  <Song>
+    <Number>92</Number>
+    <Title>Um Lugar Que Leva o Teu Nome</Title>
+  </Song>
+  <Song>
+    <Number>93</Number>
+    <Title>Abençoa as Nossas Reuniões</Title>
+  </Song>
+  <Song>
+    <Number>94</Number>
+    <Title>Muito Obrigado Pela Bíblia</Title>
+  </Song>
+  <Song>
+    <Number>95</Number>
+    <Title>“A Luz Clareia Mais e Mais”</Title>
+  </Song>
+  <Song>
+    <Number>96</Number>
+    <Title>O Livro de Deus É Um Tesouro</Title>
+  </Song>
+  <Song>
+    <Number>97</Number>
+    <Title>A Palavra de Deus Ajuda-nos a Viver</Title>
+  </Song>
+  <Song>
+    <Number>98</Number>
+    <Title>A Bíblia, Um Presente de Deus</Title>
+  </Song>
+  <Song>
+    <Number>99</Number>
+    <Title>Muitos Irmãos ao Meu Lado</Title>
+  </Song>
+  <Song>
+    <Number>100</Number>
+    <Title>Vamos Ser Hospitaleiros!</Title>
+  </Song>
+  <Song>
+    <Number>101</Number>
+    <Title>Servimos a Jeová em União</Title>
+  </Song>
+  <Song>
+    <Number>102</Number>
+    <Title>Ajuda Os Que Estão Fracos</Title>
+  </Song>
+  <Song>
+    <Number>103</Number>
+    <Title>Os Anciãos São Um Presente de Jeová</Title>
+  </Song>
+  <Song>
+    <Number>104</Number>
+    <Title>Espírito Santo – Um Presente de Deus</Title>
+  </Song>
+  <Song>
+    <Number>105</Number>
+    <Title>“Deus É Amor”</Title>
+  </Song>
+  <Song>
+    <Number>106</Number>
+    <Title>Amor – Uma Qualidade sem Igual</Title>
+  </Song>
+  <Song>
+    <Number>107</Number>
+    <Title>Jeová, o Exemplo Perfeito de Amor</Title>
+  </Song>
+  <Song>
+    <Number>108</Number>
+    <Title>O Amor Leal de Jeová</Title>
+  </Song>
+  <Song>
+    <Number>109</Number>
+    <Title>Demonstra Verdadeiro Amor</Title>
+  </Song>
+  <Song>
+    <Number>110</Number>
+    <Title>“A Alegria Que Vem de Jeová”</Title>
+  </Song>
+  <Song>
+    <Number>111</Number>
+    <Title>Os Nossos Motivos de Alegria</Title>
+  </Song>
+  <Song>
+    <Number>112</Number>
+    <Title>Jeová, Deus de Paz</Title>
+  </Song>
+  <Song>
+    <Number>113</Number>
+    <Title>A Paz Que Vem de Deus</Title>
+  </Song>
+  <Song>
+    <Number>114</Number>
+    <Title>Sê Paciente</Title>
+  </Song>
+  <Song>
+    <Number>115</Number>
+    <Title>A Paciência de Deus É Salvação</Title>
+  </Song>
+  <Song>
+    <Number>116</Number>
+    <Title>A Força da Bondade</Title>
+  </Song>
+  <Song>
+    <Number>117</Number>
+    <Title>A Qualidade da Bondade</Title>
+  </Song>
+  <Song>
+    <Number>118</Number>
+    <Title>Jeová, Pedimos-te Mais Fé</Title>
+  </Song>
+  <Song>
+    <Number>119</Number>
+    <Title>Temos de Ter Fé</Title>
+  </Song>
+  <Song>
+    <Number>120</Number>
+    <Title>Sejamos Humildes Como Jesus</Title>
+  </Song>
+  <Song>
+    <Number>121</Number>
+    <Title>Precisamos de Ter Autodomínio</Title>
+  </Song>
+  <Song>
+    <Number>122</Number>
+    <Title>Vamos Continuar Firmes!</Title>
+  </Song>
+  <Song>
+    <Number>123</Number>
+    <Title>Obedecemos a Jeová e à Sua Organização</Title>
+  </Song>
+  <Song>
+    <Number>124</Number>
+    <Title>Sempre Leais</Title>
+  </Song>
+  <Song>
+    <Number>125</Number>
+    <Title>“Felizes os Misericordiosos”</Title>
+  </Song>
+  <Song>
+    <Number>126</Number>
+    <Title>Sempre Fortes, Firmes e Despertos</Title>
+  </Song>
+  <Song>
+    <Number>127</Number>
+    <Title>Que Tipo de Pessoa Devo Ser?</Title>
+  </Song>
+  <Song>
+    <Number>128</Number>
+    <Title>Persevera Até ao Fim</Title>
+  </Song>
+  <Song>
+    <Number>129</Number>
+    <Title>Eu Vou Perseverar</Title>
+  </Song>
+  <Song>
+    <Number>130</Number>
+    <Title>Vamos Perdoar-nos Uns aos Outros</Title>
+  </Song>
+  <Song>
+    <Number>131</Number>
+    <Title>O Que Jeová Uniu</Title>
+  </Song>
+  <Song>
+    <Number>132</Number>
+    <Title>Nós Somos Um</Title>
+  </Song>
+  <Song>
+    <Number>133</Number>
+    <Title>Quero Ser Um Jovem Leal</Title>
+  </Song>
+  <Song>
+    <Number>134</Number>
+    <Title>Os Filhos São Uma Herança de Deus</Title>
+  </Song>
+  <Song>
+    <Number>135</Number>
+    <Title>“Sê Sábio, Meu Filho”</Title>
+  </Song>
+  <Song>
+    <Number>136</Number>
+    <Title>Jeová Vai Recompensar-te</Title>
+  </Song>
+  <Song>
+    <Number>137</Number>
+    <Title>Mulheres Fiéis</Title>
+  </Song>
+  <Song>
+    <Number>138</Number>
+    <Title>A Beleza dos Cabelos Brancos</Title>
+  </Song>
+  <Song>
+    <Number>139</Number>
+    <Title>Imagina-te no Paraíso</Title>
+  </Song>
+  <Song>
+    <Number>140</Number>
+    <Title>Vida Eterna, Enfim!</Title>
+  </Song>
+  <Song>
+    <Number>141</Number>
+    <Title>O Milagre da Vida</Title>
+  </Song>
+  <Song>
+    <Number>142</Number>
+    <Title>A Esperança Que Nos Dá Coragem</Title>
+  </Song>
+  <Song>
+    <Number>143</Number>
+    <Title>Continua Ativo e Desperto!</Title>
+  </Song>
+  <Song>
+    <Number>144</Number>
+    <Title>Pensa nas Bênçãos de Jeová</Title>
+  </Song>
+  <Song>
+    <Number>145</Number>
+    <Title>Deus Prometeu Um Paraíso</Title>
+  </Song>
+  <Song>
+    <Number>146</Number>
+    <Title>“Faço Novas Todas as Coisas”</Title>
+  </Song>
+  <Song>
+    <Number>147</Number>
+    <Title>A Vida Eterna – Que Bela Promessa!</Title>
+  </Song>
+  <Song>
+    <Number>148</Number>
+    <Title>Jeová É o Nosso Salvador</Title>
+  </Song>
+  <Song>
+    <Number>149</Number>
+    <Title>Um Cântico de Vitória</Title>
+  </Song>
+  <Song>
+    <Number>150</Number>
+    <Title>Procurem a Deus Para Obter Livramento</Title>
+  </Song>
+  <Song>
+    <Number>151</Number>
+    <Title>Ele Chamará</Title>
+  </Song>
+</ArrayOfSong>

@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexado, que mostra todos os Discursos, Tarefas e Deveres para aquela semana.
+
+Se tiver dúvidas ou problemas sobre qualquer uma dessas designações, tarefas ou deveres, responda a este e-mail ou entre em contato com o superintendente responsável.
+
+Atenciosamente,
+[SENDER_NAME]

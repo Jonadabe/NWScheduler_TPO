@@ -1,0 +1,13 @@
+Prezado [TO_NAME],
+
+Temos o prazer de convidá-lo para proferir um Discurso Público na Congregação [CONGREGATION_NAME] .
+
+[PUBLIC_TALK]
+
+[KINGDOM_HALL_ADDRESS]
+
+Por favor responda a este e-mail e informe-nos se pode aceitar nosso convite para proferir este discurso público.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

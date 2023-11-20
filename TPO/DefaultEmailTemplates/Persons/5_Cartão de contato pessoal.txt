@@ -1,0 +1,8 @@
+Caro [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+Encontre o vCard de contato pessoal anexado, que pode ser aberto em seu dispositivo móvel.
+
+[ATTACHMENT_NAME]
+
+Atenciosamente,
+[SENDER_NAME]

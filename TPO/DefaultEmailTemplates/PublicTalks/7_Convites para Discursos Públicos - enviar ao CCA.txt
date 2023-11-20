@@ -1,0 +1,11 @@
+Prezado [TO_NAME],
+
+Por favor veja o anexo [ATTACHMENT_NAME] que contém convites para todos os irmãos de sua congregação que têm um próximo discurso público em [CONGREGATION_NAME] .
+
+Por favor, dê estes convites a estes irmãos.
+
+Se tiver dúvidas ou problemas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

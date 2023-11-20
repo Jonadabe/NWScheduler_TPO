@@ -1,0 +1,15 @@
+Prezado [TO_NAME],
+
+Este e-mail é para confirmar que está convidado para dar um Discurso Público na Congregação [CONGREGATION_NAME] .
+
+[PUBLIC_TALK]
+
+[KINGDOM_HALL_ADDRESS]
+
+Se tiver dúvidas ou problemas sobre este discurso público, responda a este e-mail.
+
+Aguardamos com expectativa a sua visita e o proferimento do discurso!
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

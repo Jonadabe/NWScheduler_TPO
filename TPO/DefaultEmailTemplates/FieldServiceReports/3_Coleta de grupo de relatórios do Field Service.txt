@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Encontre o [ATTACHMENT_NAME] anexado para seu grupo.
+
+Reúna todos os dados do relatório e retorne até o dia 10.
+
+Atenciosamente,
+[SENDER_NAME]

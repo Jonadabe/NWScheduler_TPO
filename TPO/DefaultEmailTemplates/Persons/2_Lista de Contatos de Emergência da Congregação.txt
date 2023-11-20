@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o anexo [ATTACHMENT_NAME] .
+
+Por favor, imprima ou salve-o num local seguro para uso durante uma emergência.
+
+Atenciosamente,
+[SENDER_NAME]

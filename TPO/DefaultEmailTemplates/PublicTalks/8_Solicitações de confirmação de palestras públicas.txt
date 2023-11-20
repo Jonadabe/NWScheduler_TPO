@@ -1,0 +1,11 @@
+Prezado [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+Por favor, veja a seguinte lista de Palestras Públicas que estão agendadas em nossa congregação, mas ainda não confirmadas.
+
+[PUBLIC_TALKS_NOT_CONFIRMED]
+
+Por favor, providencie para que essas Palestras Públicas sejam confirmadas o mais rápido possível.
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

@@ -1,0 +1,10 @@
+Caro [TO_GENDER_TITLE] [TO_LAST_NAME],
+
+No momento, estamos coletando informações sobre pessoas desaparecidas ou contatos de emergência. Você pode, por favor, reunir qualquer informação perdida de pessoas em seu Grupo de Serviço de Campo e depois enviá-la de volta para mim.
+
+[PERSONS_MISSING_INFORMATION]
+
+Obrigado pela ajuda.
+
+Atenciosamente,
+[SENDER_NAME]

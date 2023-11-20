@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLiteratureItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiteratureItem>
+    <ID>100001</ID>
+    <CategoryName>AnnualItems</CategoryName>
+    <ItemNumber>6922TPO</ItemNumber>
+    <Symbol>es</Symbol>
+    <Title>Examine as Escrituras Diariamente</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100002</ID>
+    <CategoryName>AnnualItems</CategoryName>
+    <ItemNumber>7022TPO</ItemNumber>
+    <Symbol>eslp</Symbol>
+    <Title>Examine as Escrituras Diariamente — Letra Grande</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100003</ID>
+    <CategoryName>Bibles</CategoryName>
+    <ItemNumber>5140TPO</ItemNumber>
+    <Symbol>nwt</Symbol>
+    <Title>Tradução do Novo Mundo da Bíblia Sagrada</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100004</ID>
+    <CategoryName>Bibles</CategoryName>
+    <ItemNumber>5141TPO</ItemNumber>
+    <Symbol>nwtls</Symbol>
+    <Title>Tradução do Novo Mundo da Bíblia Sagrada (tamanho grande)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100005</ID>
+    <CategoryName>Bibles</CategoryName>
+    <ItemNumber>5142TPO</ItemNumber>
+    <Symbol>nwtpkt</Symbol>
+    <Title>Tradução do Novo Mundo da Bíblia Sagrada (edição de bolso)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100006</ID>
+    <CategoryName>Bibles</CategoryName>
+    <ItemNumber>5144</ItemNumber>
+    <Symbol>nwtsty1</Symbol>
+    <Title>Tradução do Novo Mundo das Escrituras Sagradas (Edição de Estudo) (Mateus até Atos)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100007</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5445TPO</ItemNumber>
+    <Symbol>lff</Symbol>
+    <Title>Seja Feliz Para Sempre! – Curso Interativo da Bíblia</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100008</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5341TPO</ItemNumber>
+    <Symbol>sjj</Symbol>
+    <Title>”Cantemos com Alegria” a Jeová</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100009</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5441TPO</ItemNumber>
+    <Symbol>sjjls</Symbol>
+    <Title>”Cantemos com Alegria” a Jeová (tamanho grande)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100010</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5442</ItemNumber>
+    <Symbol>sjjyls</Symbol>
+    <Title>“Cante com alegria” a Jeová — apenas letras</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100011</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5331</ItemNumber>
+    <Symbol>cl</Symbol>
+    <Title>Achegue-se a Jeová</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100012</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5422</ItemNumber>
+    <Symbol>kr</Symbol>
+    <Title>O Reino de Deus Governa!</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100013</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5411</ItemNumber>
+    <Symbol>it</Symbol>
+    <Title>Perspicácia nas Escrituras (conjunto completo)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100014</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5419</ItemNumber>
+    <Symbol>ia</Symbol>
+    <Title>Imite a fé deles</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100015</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5413</ItemNumber>
+    <Symbol>jv</Symbol>
+    <Title>Testemunhas de Jeová — Proclamadores do Reino de Deus</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100016</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5425</ItemNumber>
+    <Symbol>jy</Symbol>
+    <Title>Jesus - O Caminho, a Verdade, a Vida</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100017</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5415TPO</ItemNumber>
+    <Symbol>lr</Symbol>
+    <Title>Aprende do Grande Instrutor</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100018</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5427</ItemNumber>
+    <Symbol>lfb</Symbol>
+    <Title>Lições que você pode aprender da Bíblia</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100019</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5332TPO</ItemNumber>
+    <Symbol>od</Symbol>
+    <Title>Organizados Para Fazer a Vontade de Jeová</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100020</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5435TPO</ItemNumber>
+    <Symbol>rr</Symbol>
+    <Title>A Adoração Pura de Jeová É Restaurada!</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100021</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5444TPO</ItemNumber>
+    <Symbol>rrlp</Symbol>
+    <Title>A Adoração Pura de Jeová É Restaurada! – Letra Grande</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100022</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5339TPO</ItemNumber>
+    <Symbol>yp1</Symbol>
+    <Title>Os Jovens Perguntam – Respostas Práticas, Volume 1</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100023</ID>
+    <CategoryName>Books</CategoryName>
+    <ItemNumber>5336TPO</ItemNumber>
+    <Symbol>yp2</Symbol>
+    <Title>Os Jovens Perguntam – Respostas Práticas, Volume 2</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100024</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>65445TPO</ItemNumber>
+    <Symbol>lffi</Symbol>
+    <Title>Seja Feliz Para Sempre! – Uma Introdução ao Que a Bíblia Ensina</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100025</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6657TPO</ItemNumber>
+    <Symbol>ll</Symbol>
+    <Title>Escute a Deus e Viva para Sempre</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100026</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6647</ItemNumber>
+    <Symbol>la</Symbol>
+    <Title>Uma vida satisfatória — como alcançá-la</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100027</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6684TPO</ItemNumber>
+    <Symbol>ypq</Symbol>
+    <Title>Respostas a 10 Perguntas Que os Jovens Fazem</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100028</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6667TPO</ItemNumber>
+    <Symbol>th</Symbol>
+    <Title>Melhore a Sua Leitura e o Seu Ensino</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100029</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6658</ItemNumber>
+    <Symbol>ld</Symbol>
+    <Title>Ouça a Deus</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100030</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6663TPO</ItemNumber>
+    <Symbol>mb</Symbol>
+    <Title>As Minhas Primeiras Lições da Bíblia</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100031</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6671TPO</ItemNumber>
+    <Symbol>rj</Symbol>
+    <Title>Volte para Jeová</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100032</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6630</ItemNumber>
+    <Symbol>sp</Symbol>
+    <Title>Espíritos dos mortos — eles podem ajudá-lo ou prejudicá-lo? Eles realmente existem?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100033</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6655TPO</ItemNumber>
+    <Symbol>lf</Symbol>
+    <Title>A Origem da Vida – Cinco Perguntas Que Merecem Resposta</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100034</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6654TPO</ItemNumber>
+    <Symbol>lc</Symbol>
+    <Title>Será Que a Vida Teve Um Criador?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100035</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6665TPO</ItemNumber>
+    <Symbol>hf</Symbol>
+    <Title>A Sua Família Pode Ser Feliz!</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100036</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6648</ItemNumber>
+    <Symbol>ol</Symbol>
+    <Title>A estrada para a vida eterna — você já a encontrou? (para africanos)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100037</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6653</ItemNumber>
+    <Symbol>ph</Symbol>
+    <Title>O Caminho para a Paz e a Felicidade (Para Budistas) (</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100038</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6639</ItemNumber>
+    <Symbol>pc</Symbol>
+    <Title>Paz e felicidade duradouras - como encontrá-las (para chinês)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100039</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6662</ItemNumber>
+    <Symbol>hl</Symbol>
+    <Title>Como você pode ter uma vida feliz? (para judeus)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100040</ID>
+    <CategoryName>BrochuresAndBooklets</CategoryName>
+    <ItemNumber>6656</ItemNumber>
+    <Symbol>rk</Symbol>
+    <Title>Fé Real — Sua Chave para uma Vida Feliz (Para Muçulmanos)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100041</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7130TPO</ItemNumber>
+    <Symbol>T-30</Symbol>
+    <Title>O que acha da Bíblia?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100042</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7131TPO</ItemNumber>
+    <Symbol>T-31</Symbol>
+    <Title>O que espera do futuro?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100043</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7132TPO</ItemNumber>
+    <Symbol>T-32</Symbol>
+    <Title>Qual é o segredo para ter uma família feliz?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100044</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7133TPO</ItemNumber>
+    <Symbol>T-33</Symbol>
+    <Title>Quem controla o mundo?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100045</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7134TPO</ItemNumber>
+    <Symbol>T-34</Symbol>
+    <Title>Será que o sofrimento vai acabar algum dia?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100046</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7135TPO</ItemNumber>
+    <Symbol>T-35</Symbol>
+    <Title>Será que as pessoas que já morreram podem voltar a viver?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100047</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7136TPO</ItemNumber>
+    <Symbol>T-36</Symbol>
+    <Title>O que é o Reino de Deus?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100048</ID>
+    <CategoryName>Tracts</CategoryName>
+    <ItemNumber>7137TPO</ItemNumber>
+    <Symbol>T-37</Symbol>
+    <Title>Onde encontrar respostas às perguntas mais importantes da vida?</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100049</ID>
+    <CategoryName>Other</CategoryName>
+    <ItemNumber>TPO</ItemNumber>
+    <Symbol />
+    <Title>Sentinela (Estudo)</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100050</ID>
+    <CategoryName>Other</CategoryName>
+    <ItemNumber>TPO</ItemNumber>
+    <Symbol />
+    <Title>Manual de Actividades</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100051</ID>
+    <CategoryName>Other</CategoryName>
+    <ItemNumber />
+    <Symbol />
+    <Title>A Sentinela (Estudo) - Letras Grandes</Title>
+  </LiteratureItem>
+  <LiteratureItem>
+    <ID>100052</ID>
+    <CategoryName>Other</CategoryName>
+    <ItemNumber />
+    <Symbol />
+    <Title>Apostila de Reunião - Letras Grandes</Title>
+  </LiteratureItem>
+</ArrayOfLiteratureItem>

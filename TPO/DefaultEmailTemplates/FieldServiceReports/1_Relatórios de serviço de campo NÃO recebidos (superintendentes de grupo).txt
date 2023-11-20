@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexado.
+
+Por favor entre em contato com os publicadores em seu Grupo de Serviço de Campo que ainda não enviaram seu relatório, para que o enviem o mais rápido possível.
+
+Atenciosamente,
+[SENDER_NAME]

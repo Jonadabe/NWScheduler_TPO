@@ -1,0 +1,6 @@
+Prezado [TO_NAME],
+
+Por favor veja o anexo [ATTACHMENT_NAME] que informa sobre a cobertura do território.
+
+Atenciosamente,
+[SENDER_NAME]

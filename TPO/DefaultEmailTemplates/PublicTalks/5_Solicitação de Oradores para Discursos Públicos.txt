@@ -1,0 +1,9 @@
+Prezado [TO_NAME],
+
+Gostaríamos de solicitar aos seguintes Oradores Públicos, para proferir Discurso Públicos em nossa congregação nas seguintes datas:
+
+
+
+Atenciosamente,
+[SENDER_NAME]
+[CONGREGATION_NAME]

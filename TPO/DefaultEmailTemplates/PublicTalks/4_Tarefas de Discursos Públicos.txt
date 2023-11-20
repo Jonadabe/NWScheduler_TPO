@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexo que lista suas próximas Tarefas de Palestras Públicas.
+
+Se você tiver dúvidas ou problemas sobre essas tarefas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]

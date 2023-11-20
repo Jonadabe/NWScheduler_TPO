@@ -1,0 +1,8 @@
+Prezado [TO_NAME],
+
+Por favor veja o [ATTACHMENT_NAME] anexado.
+
+Se tiver dúvidas ou problemas com qualquer uma dessas tarefas, responda a este e-mail.
+
+Atenciosamente,
+[SENDER_NAME]
