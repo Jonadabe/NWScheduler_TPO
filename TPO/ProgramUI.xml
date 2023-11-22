@@ -1256,16 +1256,16 @@
   <RefreshingMeetingData>Atualizando dados da reunião...</RefreshingMeetingData>
   <RefundPolicy>Politica de reembolso</RefundPolicy>
   <Region>Região</Region>
-  <Register>Registo</Register>
-  <RegisterTo>Registre-se para</RegisterTo>
-  <Registered>Registado</Registered>
-  <Registration>Registrar-se</Registration>
-  <RegistrationCost>Custo de registo</RegistrationCost>
-  <RegistrationError>Erro de Registo</RegistrationError>
-  <RegistrationHelp>Ajuda Para Registo</RegistrationHelp>
-  <RegistrationKey>Chave de Registo</RegistrationKey>
-  <RegistrationStatus>Situação de Registo</RegistrationStatus>
-  <RegistrationTypes>Tipos de registo</RegistrationTypes>
+  <Register>Licença</Register>
+  <RegisterTo>Licenciar para</RegisterTo>
+  <Registered>Licenciado</Registered>
+  <Registration>Licenciamento</Registration>
+  <RegistrationCost>Custo da licença</RegistrationCost>
+  <RegistrationError>Erro no licenciamento</RegistrationError>
+  <RegistrationHelp>Ajuda Para Licenciar</RegistrationHelp>
+  <RegistrationKey>Chave da Licença</RegistrationKey>
+  <RegistrationStatus>Situação do Licenciamento</RegistrationStatus>
+  <RegistrationTypes>Tipos de licença</RegistrationTypes>
   <Reinstated>Readmissão</Reinstated>
   <Relationship>Relacionamento</Relationship>
   <ReleaseNotes>Notas de lançamento</ReleaseNotes>
