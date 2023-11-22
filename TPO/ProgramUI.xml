@@ -1260,12 +1260,12 @@
   <RegisterTo>Licenciar para</RegisterTo>
   <Registered>Licenciado</Registered>
   <Registration>Licenciamento</Registration>
-  <RegistrationCost>Custo da licença</RegistrationCost>
+  <RegistrationCost>Custo do licenciamento</RegistrationCost>
   <RegistrationError>Erro no licenciamento</RegistrationError>
-  <RegistrationHelp>Ajuda Para Licenciar</RegistrationHelp>
+  <RegistrationHelp>Ajuda para o Licenciamento</RegistrationHelp>
   <RegistrationKey>Chave da Licença</RegistrationKey>
   <RegistrationStatus>Situação do Licenciamento</RegistrationStatus>
-  <RegistrationTypes>Tipos de licença</RegistrationTypes>
+  <RegistrationTypes>Tipos de Licença</RegistrationTypes>
   <Reinstated>Readmissão</Reinstated>
   <Relationship>Relacionamento</Relationship>
   <ReleaseNotes>Notas de lançamento</ReleaseNotes>
