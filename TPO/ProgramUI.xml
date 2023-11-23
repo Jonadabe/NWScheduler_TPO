@@ -341,7 +341,7 @@
   <S89HeadingLine1>DESIGNAÇÃO PARA A REUNIÃO</S89HeadingLine1>
   <S89HeadingLine2>VIDA E MINISTÉRIO CRISTÃOS</S89HeadingLine2>
   <S140ReviewText>Revisão / Antevisão / Anúncios (3 min.)</S140ReviewText>
-  <SampleCongregation>Amostra de Congregação</SampleCongregation>
+  <SampleCongregation>Congregação Exemplo</SampleCongregation>
   <SampleCongregationOnly>Apenas Exemplo de Congregação</SampleCongregationOnly>
   <School>Escola</School>
   <SchoolPart>Parte escolar</SchoolPart>
@@ -1905,7 +1905,7 @@
   <ImportMeetingWorkbookEPUB>Importar Manual de Atividades da reunião EPUB</ImportMeetingWorkbookEPUB>
   <ImportMeetingWorkbookFilenameIncorrect>O nome do arquivo EPUB está incorreto. Deve ser 'mwb_E_202207.epub' ou similar.</ImportMeetingWorkbookFilenameIncorrect>
   <ImportMeetingWorkbookDateInvalid>Nome do arquivo EPUB Data inválida. Deve ser 'mwb_E_202207.epub' ou similar.</ImportMeetingWorkbookDateInvalid>
-  <ImportMeetingWorkbookEnglishNotExist>Os dados da Manual de Atividades da reunião em inglês não existem para esta semana. Você deve primeiro adicionar o EPUB da Manual de Atividades da Reunião em Inglês e, em seguida, adicionar o Idioma da Congregação.</ImportMeetingWorkbookEnglishNotExist>
+  <ImportMeetingWorkbookEnglishNotExist>Os dados do Manual de Atividades da reunião em inglês não existem para esta semana. Deve primeiro adicionar o EPUB do Manual de Atividades da Reunião em Inglês e, em seguida, adicionar o Idioma da Congregação.</ImportMeetingWorkbookEnglishNotExist>
   <ImportMeetingWorkbookNotMatchLanguage>Este Manual de Atividades da reunião EPUB não corresponde ao idioma selecionado.</ImportMeetingWorkbookNotMatchLanguage>
   <ImportNamesMatch>Se o Nome e o Apelido corresponderem * exatamente * para qualquer membro existente, os dados do membro existente serão fundidos. Caso contrário, um novo membro será criado.</ImportNamesMatch>
   <ImportPersonsMessage>Você está prestes a importar X Pessoas de sua congregação.</ImportPersonsMessage>
