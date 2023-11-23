@@ -1204,7 +1204,7 @@
   <Printed>Impresso</Printed>
   <PrintedBy>Impresso por</PrintedBy>
   <PrintedStudyWatchtower>Estudo Impresso Sentinela</PrintedStudyWatchtower>
-  <PrintedMeetingWorkbook>Pasta de Trabalho de Reunião Impressa</PrintedMeetingWorkbook>
+  <PrintedMeetingWorkbook>Manual de Atividades de Reunião Impressa</PrintedMeetingWorkbook>
   <Printing>Imprimir</Printing>
   <PrivacyPolicy>Política de Privacidade</PrivacyPolicy>
   <Privilege>Privilégio</Privilege>
@@ -1902,11 +1902,11 @@
   <ImportedEPUBMeetingDataFound>Encontrados dados de reunião EPUB importados</ImportedEPUBMeetingDataFound>
   <ImportIntoNWSchedulerStep1>1. Selecione seu arquivo de dados KHS exportado (na área de trabalho)</ImportIntoNWSchedulerStep1>
   <ImportIntoNWSchedulerStep2>2. Escolha os dados que deseja importar</ImportIntoNWSchedulerStep2>
-  <ImportMeetingWorkbookEPUB>Importar pasta de trabalho da reunião EPUB</ImportMeetingWorkbookEPUB>
+  <ImportMeetingWorkbookEPUB>Importar Manual de Atividades da reunião EPUB</ImportMeetingWorkbookEPUB>
   <ImportMeetingWorkbookFilenameIncorrect>O nome do arquivo EPUB está incorreto. Deve ser 'mwb_E_202207.epub' ou similar.</ImportMeetingWorkbookFilenameIncorrect>
   <ImportMeetingWorkbookDateInvalid>Nome do arquivo EPUB Data inválida. Deve ser 'mwb_E_202207.epub' ou similar.</ImportMeetingWorkbookDateInvalid>
-  <ImportMeetingWorkbookEnglishNotExist>Os dados da pasta de trabalho da reunião em inglês não existem para esta semana. Você deve primeiro adicionar o EPUB da Pasta de Trabalho da Reunião em Inglês e, em seguida, adicionar o Idioma da Congregação.</ImportMeetingWorkbookEnglishNotExist>
-  <ImportMeetingWorkbookNotMatchLanguage>Esta pasta de trabalho da reunião EPUB não corresponde ao idioma selecionado.</ImportMeetingWorkbookNotMatchLanguage>
+  <ImportMeetingWorkbookEnglishNotExist>Os dados da Manual de Atividades da reunião em inglês não existem para esta semana. Você deve primeiro adicionar o EPUB da Manual de Atividades da Reunião em Inglês e, em seguida, adicionar o Idioma da Congregação.</ImportMeetingWorkbookEnglishNotExist>
+  <ImportMeetingWorkbookNotMatchLanguage>Este Manual de Atividades da reunião EPUB não corresponde ao idioma selecionado.</ImportMeetingWorkbookNotMatchLanguage>
   <ImportNamesMatch>Se o Nome e o Apelido corresponderem * exatamente * para qualquer membro existente, os dados do membro existente serão fundidos. Caso contrário, um novo membro será criado.</ImportNamesMatch>
   <ImportPersonsMessage>Você está prestes a importar X Pessoas de sua congregação.</ImportPersonsMessage>
   <IncludeNotHomeAndHomeColumns>Inclua as colunas 'Fora da casa' e 'Casa'</IncludeNotHomeAndHomeColumns>
@@ -1953,14 +1953,14 @@
   <LoggedInSuccesfully>Ligado com sucesso!</LoggedInSuccesfully>
   <MajorProblemsPleaseReplyOrContactUs>Se houver grandes problemas, responda ao nosso e-mail de Instruções de importação ou entre em contato conosco. Você DEVE incluir o Log de Importação ao responder ou entrar em contato conosco.</MajorProblemsPleaseReplyOrContactUs>
   <ManuallyCreateMeetingData1>Inserir dados para a reunião manualmente (não recomendado)</ManuallyCreateMeetingData1>
-  <ManuallyCreateMeetingWarning>Se inserir manualmente os dados para a reunião e posteriormente a Pasta de trabalho da reunião ficar disponível, ela NÃO será atualizada automaticamente!</ManuallyCreateMeetingWarning>
+  <ManuallyCreateMeetingWarning>Se inserir manualmente os dados para a reunião e posteriormente o Manual de Atividades da reunião ficar disponível, ela NÃO será atualizada automaticamente!</ManuallyCreateMeetingWarning>
   <MapCacheEnabledMessage>Recomendamos vivamente habilitar o Map Cache.</MapCacheEnabledMessage>
   <MapDownloadFailedMessage>Falha no download do mapa. Verifique sua conexão com a Internet e tente novamente. Se o problema persistir, você precisará remover e adicionar novamente o mapa.</MapDownloadFailedMessage>
   <MapFileTooBig>Desculpe, este arquivo é muito grande. Os mapas devem ter 200 KB ou menos.</MapFileTooBig>
   <MaximumDelegatesMessage>Desculpe, esta pessoa já tem 5 delegados.</MaximumDelegatesMessage>
-  <MeetingWorkbookDataNotAvailable>Os dados da pasta de trabalho da reunião ainda não estão disponíveis para este idioma</MeetingWorkbookDataNotAvailable>
+  <MeetingWorkbookDataNotAvailable>Os dados do Manual de Atividades da reunião ainda não estão disponíveis para este idioma</MeetingWorkbookDataNotAvailable>
   <MeetingWorkbookDataNotAvailableOptions>Você tem 4 opções:</MeetingWorkbookDataNotAvailableOptions>
-  <MeetingWorkbookDataNotAvailableOption11>1. Aguarde pacientemente até que os dados da pasta de trabalho para a reunião estejam disponíveis (recomendado)</MeetingWorkbookDataNotAvailableOption11>
+  <MeetingWorkbookDataNotAvailableOption11>1. Aguarde pacientemente até que os dados do Manual de Atividades para a reunião estejam disponíveis (recomendado)</MeetingWorkbookDataNotAvailableOption11>
   <MissingPersonInformation>Informações de publicadores em falta</MissingPersonInformation>
   <MoreInformationPleaseVisitDownload>Para obter mais informações, visite NWScheduler.com&gt; Download</MoreInformationPleaseVisitDownload>
   <MoreInformationPleaseSee>Para mais informações, consulte</MoreInformationPleaseSee>
