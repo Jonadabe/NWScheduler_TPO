@@ -1952,7 +1952,7 @@
   <LogFileSavedSuccessfully>Ficheiro de registo guardado com sucesso!</LogFileSavedSuccessfully>
   <LoggedInSuccesfully>Ligado com sucesso!</LoggedInSuccesfully>
   <MajorProblemsPleaseReplyOrContactUs>Se houver grandes problemas, responda ao nosso e-mail de Instruções de importação ou entre em contato conosco. Você DEVE incluir o Log de Importação ao responder ou entrar em contato conosco.</MajorProblemsPleaseReplyOrContactUs>
-  <ManuallyCreateMeetingData1>Inserir dados para a reunião manualmente (não recomendado)</ManuallyCreateMeetingData>
+  <ManuallyCreateMeetingData1>Inserir dados para a reunião manualmente (não recomendado)</ManuallyCreateMeetingData1>
   <ManuallyCreateMeetingWarning>Se inserir manualmente os dados para a reunião e posteriormente a Pasta de trabalho da reunião ficar disponível, ela NÃO será atualizada automaticamente!</ManuallyCreateMeetingWarning>
   <MapCacheEnabledMessage>Recomendamos vivamente habilitar o Map Cache.</MapCacheEnabledMessage>
   <MapDownloadFailedMessage>Falha no download do mapa. Verifique sua conexão com a Internet e tente novamente. Se o problema persistir, você precisará remover e adicionar novamente o mapa.</MapDownloadFailedMessage>
