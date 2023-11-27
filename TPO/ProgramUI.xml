@@ -514,9 +514,9 @@
   <Available>Disponível</Available>
   <Availability>Disponibilidade</Availability>
   <AvailableForHospitality>Disponível para Hospitalidade</AvailableForHospitality>
-  <AvailableFrom>disponível a partir de</AvailableFrom>
+  <AvailableFrom>Disponível desde</AvailableFrom>
   <AvailableTerritories>Territórios Disponíveis</AvailableTerritories>
-  <AvailableTo>Disponível para</AvailableTo>
+  <AvailableTo>Disponível até</AvailableTo>
   <Average>Média</Average>
   <AverageAttendanceEachWeek>Assistência média por semana</AverageAttendanceEachWeek>
   <AverageAttendanceEachMonth>Assistência média por mês</AverageAttendanceEachMonth>
