@@ -202,6 +202,7 @@
   <LanguageGroupInformation>Informações do Grupo de Idiomas</LanguageGroupInformation>
   <LanguageGroupOnly>Somente grupo de idiomas</LanguageGroupOnly>
   <LDCVolunteer>Voluntário do LDC</LDCVolunteer>
+  <LDCVolunteers>Voluntários do LDC</LDCVolunteers>		
   <LifeAndMinistryMeeting>Reunião Vida e Ministério</LifeAndMinistryMeeting>
   <LifeAndMinistryMeetingAssignments>Designação Reunião Vida e Ministério</LifeAndMinistryMeetingAssignments>
   <LifeAndMinistryMeetingNotScheduled>Reunião Vida e Ministério não agendada</LifeAndMinistryMeetingNotScheduled>
@@ -294,6 +295,7 @@
   <PublicTalk>Discurso Público</PublicTalk>
   <PublicTalks>Discursos Públicos</PublicTalks>
   <PublicTalkAssignments>Atribuição de Discursos Públicos</PublicTalkAssignments>
+  <PublicTalkAvailability>Disponibilidade para palestras públicas</PublicTalkAvailability>
   <PublicTalkCoordinator>Coordenador de Discursos Públicos</PublicTalkCoordinator>
   <PublicTalkCoordinators>Coordenadores de Discursos Públicos</PublicTalkCoordinators>
   <PublicTalkCoordinatorsInReport>Coordenadores de Discursos Públicos no relatório</PublicTalkCoordinatorsInReport>
@@ -894,6 +896,7 @@
   <ImproveAppTranslation>Melhorar a tradução da aplicação</ImproveAppTranslation>
   <InactivePublishers>Publicadores Inativos</InactivePublishers>
   <Incarcerated>Preso</Incarcerated>
+  <IncarceratedPublishers>Publicadores presos</IncarceratedPublishers>											
   <Include>Incluir</Include>
   <IncludeAddresses>Incluir endereços</IncludeAddresses>
   <IncludeAssign>Incluir Designação</IncludeAssign>
@@ -1218,6 +1221,7 @@
   <ProgramStatus>Status do Programa</ProgramStatus>
   <ProgramVersion>Versão do Programa</ProgramVersion>
   <PublicNotes>Notas Públicas</PublicNotes>
+  <PublicSpeakersAvailability>Disponibilidade de oradores públicos</PublicSpeakersAvailability>																								
   <PublicSpeakersList>Lista de Oradores Públicos</PublicSpeakersList>
   <PublishersFieldServiceSummary>Resumo do serviço de campo dos publicadores</PublishersFieldServiceSummary>
   <PullData>Extrair dados</PullData>
@@ -1501,6 +1505,7 @@
   <TotalAreas>Áreas Totais</TotalAreas>
   <TotalAttendance>Assistência Total</TotalAttendance>
   <TotalNumberOfTerritories>Número Total de Territórios</TotalNumberOfTerritories>
+  <TotalPublishers>Total de publicadores</TotalPublishers>													  
   <TotalRecords>Total de Registos</TotalRecords>
   <TotalStudents>Total de Estudantes</TotalStudents>
   <TotalTerritories>Territórios Totais</TotalTerritories>
@@ -1512,6 +1517,7 @@
   <Type>Tipo</Type>
   <UnableToDecrypt>Não foi possível descriptografar</UnableToDecrypt>
   <Unassigned>Não Designado</Unassigned>
+  <Unavailable>Indisponível</Unavailable>									  
   <UnavailablePeriod>Período Indisponível</UnavailablePeriod>
   <UnavailablePeriods>Períodos Indisponíveis</UnavailablePeriods>
   <UndoSubmit>Anular Enviado</UndoSubmit>
@@ -2164,7 +2170,9 @@
   <TerritoryAssignmentsPublisherMaxMessage>Este Editor já possui no máximo 10 Territórios Atribuídos de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsPublisherMaxMessage>
   <TerritoryAssignmentsFieldServiceGroupMaxMessage>Este Grupo de Field Service já possui no máximo 10 Territórios Designados de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsFieldServiceGroupMaxMessage>
   <TerritoryExceedAddressLimit>Desculpe, cada território pode ter no máximo 250 endereços.</TerritoryExceedAddressLimit>
+  <TerritoryExceedAddressLimitFreeTrial>Desculpe, durante o teste gratuito só pode adicionar até 40 endereços. Isso deve ser suficiente para testar completamente o recurso endereços de território.</TerritoryExceedAddressLimitFreeTrial>																																																											  
   <TerritoryExceedAddressAndApartmentLimit>Desculpe, cada território pode ter no máximo 500 endereços e apartamentos combinados.</TerritoryExceedAddressAndApartmentLimit>
+  <TerritoryExceedBoundaryLimitFreeTrial>Desculpe, durante a avaliação gratuita só pode adicionar até 10 limites do território. Isso deve ser suficiente para testar completamente o recurso limites de território.</TerritoryExceedBoundaryLimitFreeTrial>																																																																 
   <TerritoryFirstAddTerritoryBoundary>Primeiro, adicione o limite do território antes de adicionar endereços.</TerritoryFirstAddTerritoryBoundary>
   <TerritoryNotFindAddress>Desculpe, não foi possível encontrar um endereço neste local</TerritoryNotFindAddress>
   <TerritoryNotReset>Este território não foi redefinido. Recomendamos clicar em Endereços &gt; Redefinir endereços.</TerritoryNotReset>
@@ -2243,7 +2251,7 @@
   <TaskCOBEOneYearAfterBaptism>Providencie para que dois anciãos se reúnam com o publicador que completou um ano batizado(sfl 3.3.6)</TaskCOBEOneYearAfterBaptism>
   <TaskCOBEArrangeAudit>Organizar Auditoria das Contas (sfl 3.3.20)</TaskCOBEArrangeAudit>
   <TaskSecretaryOneYearAfterBaptism>Notifique o coordenador do corpo de anciãos que um publicador fez um ano de batizado (sfl 4.2.7)</TaskSecretaryOneYearAfterBaptism>
-  <TaskSecretaryDPANewlyBaptised>Forneça cartões DPA e materiais relacionados ao publicador recém-batizado​ (sfl 4.2.6)</TaskSecretaryDPANewlyBaptised>
+  <TaskSecretaryDPANewlyBaptised>Forneça cartões DPA e materiais relacionados ao publicador recém-batizado (sfl 4.2.6)</TaskSecretaryDPANewlyBaptised>
   <TaskSecretaryServiceOverseerReviewRPActivity>Recapitule a atividade dos pioneiros regulares perto da metade do ano de serviço (sfl 9.15)</TaskSecretaryServiceOverseerReviewRPActivity>
   <TaskServiceOverseerVisitFSGroup>Visite um grupo de serviço de campo diferente a cada mês (sfl 5.2.5)</TaskServiceOverseerVisitFSGroup>
   <TaskServiceCommitteeReviewRPActivity>Analíse a atividade de quaisquer pioneiros regulares que não atingiram o requisito de horas anuais (sfl 9.16)</TaskServiceCommitteeReviewRPActivity>
