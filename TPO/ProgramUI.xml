@@ -30,10 +30,10 @@
   <AudioVideoSupportCoordinator>Coordenador do Audiovisual</AudioVideoSupportCoordinator>
   <Auxiliary1Short>Sala 1</Auxiliary1Short>
   <Auxiliary2Short>Sala 2</Auxiliary2Short>
-  <AuxiliaryClassroom>Sala Adicional</AuxiliaryClassroom>
-  <AuxiliaryClassroom1>Sala adicional 1</AuxiliaryClassroom1>
-  <AuxiliaryClassroom2>Sala adicional 2</AuxiliaryClassroom2>
-  <AuxiliaryClassroomCounselor>Conselheiro Sala Adicional 1</AuxiliaryClassroomCounselor>
+  <AuxiliaryClassroom>Sala Auxiliar</AuxiliaryClassroom>
+  <AuxiliaryClassroom1>Sala Auxiliar 1</AuxiliaryClassroom1>
+  <AuxiliaryClassroom2>Sala Auxiliar 2</AuxiliaryClassroom2>
+  <AuxiliaryClassroomCounselor>Conselheiro Sala Auxiliar 1</AuxiliaryClassroomCounselor>
   <AuxiliaryClassroomCounselorShort>Conselheiro Sala Aux.</AuxiliaryClassroomCounselorShort>
   <AuxiliaryCounselor>Conselheiro Assistente</AuxiliaryCounselor>
   <AuxiliaryPioneer>Pioneiro Auxiliar</AuxiliaryPioneer>
@@ -1334,7 +1334,7 @@
   <SaveToTerritory>Salvar no território</SaveToTerritory>
   <SeparateByGroup>Separado por Grupo</SeparateByGroup>
   <Schedule>Agendar</Schedule>
-  <Schedules>Agendar</Schedules>
+  <Schedules>Tabelas</Schedules>
   <ScheduleVersion>Versão do programa</ScheduleVersion>
   <Search>Procurar</Search>
   <Seconds>segundos</Seconds>
