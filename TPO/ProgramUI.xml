@@ -501,7 +501,7 @@
   <Assignment>Designação</Assignment>
   <Assignments>Designações</Assignments>
   <AssignmentsOtherPersonList>Designações - Lista de Outros</AssignmentsOtherPersonList>
-  <AssignPrivilegesAndDuties>Atribuir Privilégios e Deveres</AssignPrivilegesAndDuties>
+  <AssignPrivilegesAndDuties>Atribuir Privilégios e Tarefas</AssignPrivilegesAndDuties>
   <Assistant>Ajudante</Assistant>
   <AssistantCLM>Ajudante RVMC</AssistantCLM>
   <AtHome>Em casa</AtHome>
@@ -790,7 +790,7 @@
   <EstimatedTimeToCompleteTerritory>Tempo estimado para completar todo o território</EstimatedTimeToCompleteTerritory>
   <Everyone>Todos</Everyone>
   <EveryoneInReport>Todos no relatório</EveryoneInReport>
-  <EveryoneWithAnyAssignmentsDuties>Todos com quaisquer Designações ou Deveres</EveryoneWithAnyAssignmentsDuties>
+  <EveryoneWithAnyAssignmentsDuties>Todos com quaisquer Designações ou Tarefas</EveryoneWithAnyAssignmentsDuties>
   <EveryoneWithCLMAssignments>Todos com designações de VMC</EveryoneWithCLMAssignments>
   <EveryoneWithWeekendAssignments>Todos com designaões de fim de semana</EveryoneWithWeekendAssignments>
   <EveryoneWithFieldServiceAssignments>Todos com designações de serviço de campo</EveryoneWithFieldServiceAssignments>
@@ -1001,7 +1001,7 @@
   <Maintenance>Manutenção Salão do Reino</Maintenance>
   <MaintenanceCalendar>Calendário de manutenção</MaintenanceCalendar>
   <MaintenanceCoordinator>Coordenador de Manutenção</MaintenanceCoordinator>
-  <MaintenanceDutiesByPerson>Deveres de manutenção por pessoa</MaintenanceDutiesByPerson>
+  <MaintenanceDutiesByPerson>Tarefas de manutenção por pessoa</MaintenanceDutiesByPerson>
   <MaintenanceScheduleMonthly>Cronograma de Manutenção (Mensal)</MaintenanceScheduleMonthly>
   <MaintenanceScheduleYearly>Cronograma de Manutenção (Anual)</MaintenanceScheduleYearly>
   <MaintenanceTask>Tarefa de Manutenção</MaintenanceTask>
@@ -1021,8 +1021,8 @@
   <Microphone>Microfone</Microphone>
   <Microphones>Microfones</Microphones>
   <MiddleName>Nome do Meio</MiddleName>
-  <MinimumTimeBetweenCLMNonSchoolParts>Tempo mínimo entre as designações,excepto as de estudante,na reunião VMC</MinimumTimeBetweenCLMNonSchoolParts>
-  <MinimumTimeBetweenCLMSchoolParts>Tempo mínimo entre as designações de estudante da reunião VMC</MinimumTimeBetweenCLMSchoolParts>
+  <MinimumTimeBetweenCLMNonSchoolParts>Tempo mínimo entre as designações - VMC</MinimumTimeBetweenCLMNonSchoolParts>
+  <MinimumTimeBetweenCLMSchoolParts>Tempo mínimo entre as designações de estudante - VMC</MinimumTimeBetweenCLMSchoolParts>
   <Minutes>min.</Minutes>
   <MinutesAgo>minutos atrás</MinutesAgo>
   <MinutesLeft>minutos restantes</MinutesLeft>
@@ -1207,8 +1207,8 @@
   <Print>Imprimir</Print>
   <Printed>Impresso</Printed>
   <PrintedBy>Impresso por</PrintedBy>
-  <PrintedStudyWatchtower>Estudo Impresso Sentinela</PrintedStudyWatchtower>
-  <PrintedMeetingWorkbook>Manual de Atividades de Reunião Impressa</PrintedMeetingWorkbook>
+  <PrintedStudyWatchtower>Sentinela em papel</PrintedStudyWatchtower>
+  <PrintedMeetingWorkbook>Manual de Atividades em papel</PrintedMeetingWorkbook>
   <Printing>Imprimir</Printing>
   <PrivacyPolicy>Política de Privacidade</PrivacyPolicy>
   <Privilege>Privilégio</Privilege>
@@ -1333,7 +1333,7 @@
   <SaveToFile>Salvar em ficheiro</SaveToFile>
   <SaveToTerritory>Salvar no território</SaveToTerritory>
   <SeparateByGroup>Separado por Grupo</SeparateByGroup>
-  <Schedule>Programar</Schedule>
+  <Schedule>Agendar</Schedule>
   <Schedules>Agendar</Schedules>
   <ScheduleVersion>Versão do programa</ScheduleVersion>
   <Search>Procurar</Search>
@@ -1572,7 +1572,7 @@
   <WeekendOf>Fim de semana de</WeekendOf>
   <WeekendAssignmentsPersonList>Lista de Designados para o Fim de Semana</WeekendAssignmentsPersonList>
   <WeekendAssignmentsNotScheduled>Designações de fim de semana não programadas</WeekendAssignmentsNotScheduled>
-  <WeekendDuties>Deveres de fim de semana</WeekendDuties>
+  <WeekendDuties>Tarefas de fim de semana</WeekendDuties>
   <Weeks>Semanas</Weeks>
   <WeekTemplate>Modelo de Semana</WeekTemplate>
   <WeeklyOverview>Visão Geral da Semana</WeeklyOverview>
@@ -1825,7 +1825,7 @@
   <DisablePublicSpeakerSharingMessage>Isso fará com que a sua congregação e oradores públicos sejam removidos de todas as Congregações Partilhadas no seu circuito.</DisablePublicSpeakerSharingMessage>
   <DownloadFailedPleaseTryAgain>Falha na Transferência. Por favor tente novamente ou visite</DownloadFailedPleaseTryAgain>
   <DoYouWantToDownload>Você quer descarregar agora?</DoYouWantToDownload>
-  <DutiesNotScheduled>Deveres não programadas</DutiesNotScheduled>
+  <DutiesNotScheduled>Tarefas não programadas</DutiesNotScheduled>
   <EmailLooksWrong>Seu endereço de e-mail parece errado</EmailLooksWrong>
   <EmailLooksWrongMessage1>O formato correto geralmente é:</EmailLooksWrongMessage1>
   <EmailLooksWrongMessage2>Você digitou:</EmailLooksWrongMessage2>
@@ -1927,7 +1927,7 @@
   <IsYourCongregationInCircuitMessage1>Se sim, o seu pedido de adesão será como uma Congregação neste circuito.</IsYourCongregationInCircuitMessage1>
   <IsYourCongregationInCircuitMessage2>Se não, o seu pedido de adesão será como uma Congregação Convidada de outro circuito.</IsYourCongregationInCircuitMessage2>
   <JoinedMaximumCircuits>Desculpe, você já se juntou ao número máximo de Circuitos.</JoinedMaximumCircuits>
-  <NWPublisherAppExplanation1>O NW Publisher é uma aplicação gratuita que pode ser instalada em dispositivos Apple iOS, Google Android e Amazon, permitindo que os publicadores vejam horários, desinações, deveres,tarefas e eventos e anúncios da congregação, enviem relatórios de serviço de campo e muito mais.</NWPublisherAppExplanation1>
+  <NWPublisherAppExplanation1>O NW Publisher é uma aplicação gratuita que pode ser instalada em dispositivos Apple iOS, Google Android e Amazon, permitindo que os publicadores vejam horários, desinações, tarefas e eventos e anúncios da congregação, enviem relatórios de serviço de campo e muito mais.</NWPublisherAppExplanation1>
   <NWPublisherAppExplanation2>Os dados da aplicação NW Publisher chegam e saem apenas de sua congregação local do NW Scheduler.</NWPublisherAppExplanation2>
   <NWPublisherAppExplanation3>Antes de ativar, clique em Ajuda &gt; aplicação NW Publisher e certifique-se de entender como a aplicação funciona, como configurar e como resolver quaisquer problemas.</NWPublisherAppExplanation3>
   <NWPublisherAppExplanation4>Não podemos oferecer suporte individual para publicadores.</NWPublisherAppExplanation4>
@@ -2236,7 +2236,7 @@
   <QuickStepSendWeekendMeetingAssignmentReminders>Enviar lembretes de Tarefa na Reunião de fim de semana</QuickStepSendWeekendMeetingAssignmentReminders>
   <QuickStepSendPublicSpeakerHospitalityReminder>Enviar lembrete de hospitalidade de orador público</QuickStepSendPublicSpeakerHospitalityReminder>
   <QuickStepSendFieldServiceAssignmentReminders>Enviar lembretes de Designação na Reunião de Serviço de Campo</QuickStepSendFieldServiceAssignmentReminders>
-  <QuickStepSendCongregationDutiesReminders>Enviar Lembretes dos Deveres da Congregação</QuickStepSendCongregationDutiesReminders>
+  <QuickStepSendCongregationDutiesReminders>Enviar Lembretes das Tarefas da Congregação</QuickStepSendCongregationDutiesReminders>
   <QuickStepSendPublicTalkReminder>Enviar lembrete de Discurso Público</QuickStepSendPublicTalkReminder>
   <QuickStepSendPublicTalkReminderConfirmationOrInvitation>Enviar lembrete, confirmação ou convite</QuickStepSendPublicTalkReminderConfirmationOrInvitation>
   <QuickStepSendPublishersReportNotReceivedReminders>Enviar lembrete a publicador - relatórios de serviço de campo ainda não recebidos</QuickStepSendPublishersReportNotReceivedReminders>
@@ -2245,7 +2245,7 @@
   <QuickStepSendAppInvitationEmailToCO>Enviar e-mail de convite de aplicação para o superintendente de circuito</QuickStepSendAppInvitationEmailToCO>
   <QuickStepSendAppInvitationEmailToNotConnectedAppPersons>Enviar e-mail de convite da aplicação para pessoas não ligadas à aplicação</QuickStepSendAppInvitationEmailToNotConnectedAppPersons>
   <QuickStepSendEmailToAppPersonsWithOldVersion>Enviar e-mail para pessoas da aplicação com versão antiga</QuickStepSendEmailToAppPersonsWithOldVersion>
-  <QuickStepSendCongregationDutiesScheduleToThoseWithDuties>Envie a Agenda de Trabalhos da Congregação para Todos com deveres</QuickStepSendCongregationDutiesScheduleToThoseWithDuties>
+  <QuickStepSendCongregationDutiesScheduleToThoseWithDuties>Envie a Agenda de Trabalhos da Congregação para Todos com tarefas</QuickStepSendCongregationDutiesScheduleToThoseWithDuties>
   <QuickStepSendCleaningAndGardenCareSchedule>Enviar Programa de Manutenção do Jardim</QuickStepSendCleaningAndGardenCareSchedule>
   <QuickStepSendUpcomingMaintenanceTasks>Enviar próximas trabalhos de manutenção</QuickStepSendUpcomingMaintenanceTasks>
   <TaskCOBEOneYearAfterBaptism>Providencie para que dois anciãos se reúnam com o publicador que completou um ano batizado(sfl 3.3.6)</TaskCOBEOneYearAfterBaptism>
