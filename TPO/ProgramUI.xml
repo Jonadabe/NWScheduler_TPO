@@ -189,8 +189,8 @@
   <Irregular>Irregular</Irregular>
   <IrregularPublishers>Publicadores Irregulares</IrregularPublishers>
   <JWorgRequested>JW.org solicitado</JWorgRequested>
-  <Key>Chave</Key>
-  <KeyPerson>Pessoa com chave</KeyPerson>
+  <Key>Capitães</Key>
+  <KeyPerson>Capitão de Equipa</KeyPerson>
   <KingdomHall>Salão do Reino</KingdomHall>
   <KingdomHallAddress>Endereço do Salão do Reino</KingdomHallAddress>
   <KingdomHallKey>Chave do Salão do Reino</KingdomHallKey>
@@ -775,7 +775,7 @@
   <EnableLimitedFinancialMeans>Ativar meios financeiros limitados</EnableLimitedFinancialMeans>
   <EnablePublicSpeakerSharing>Habilitar Partilha de Oradores Públicos</EnablePublicSpeakerSharing>
   <EnableUserAccess>Ativar Acesso do Utilizador</EnableUserAccess>
-  <End>Fim</End>
+  <End>Termina às</End>
   <EndDate>Data final</EndDate>
   <EndTime>Fim do tempo</EndTime>
   <Enter>Entrar</Enter>
@@ -850,7 +850,7 @@
   <General>Geral</General>
   <GenerateS88>Gerar S-88</GenerateS88>
   <GettingDownload>A obter o Download</GettingDownload>
-  <GettingStarted>Começar</GettingStarted>
+  <GettingStarted>Início às</GettingStarted>
   <GettingStartedWithNWScheduler>Introdução ao NW Scheduler</GettingStartedWithNWScheduler>
   <Gold>Ouro</Gold>
   <GoToRequest>Ir para o Pedido</GoToRequest>
