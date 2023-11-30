@@ -50,7 +50,7 @@
   <BibleReading>Leitura Bíblia</BibleReading>
   <BibleReadingShort>Leitura</BibleReadingShort>
   <Bibles>Bíblias</Bibles>
-  <BibleStudy>Estudo bíblico</BibleStudy>
+  <BibleStudy>Estudo Bíblico</BibleStudy>
   <BibleStudies>Estudos Bíblicos</BibleStudies>
   <Books>Livros</Books>
   <BrochuresAndBooklets>Brochuras e Folhetos</BrochuresAndBooklets>
@@ -141,7 +141,7 @@
   <DiggingForSpiritualGemsShort>Pérolas</DiggingForSpiritualGemsShort>
   <Discussion>Discurso com participação</Discussion>
   <Disfellowshipped>Desassociado</Disfellowshipped>
-  <DoesNotReportHere>Não relata aqui</DoesNotReportHere>
+  <DoesNotReportHere>Não reporta aqui</DoesNotReportHere>
   <DoNotCalls>Não Visitar</DoNotCalls>
   <Elder>Ancião</Elder>
   <Elders>Anciãos</Elders>
@@ -202,7 +202,7 @@
   <LanguageGroupInformation>Informações do Grupo de Idiomas</LanguageGroupInformation>
   <LanguageGroupOnly>Somente grupo de idiomas</LanguageGroupOnly>
   <LDCVolunteer>Voluntário do LDC</LDCVolunteer>
-  <LDCVolunteers>Voluntários do LDC</LDCVolunteers>		
+  <LDCVolunteers>Voluntários do LDC</LDCVolunteers>
   <LifeAndMinistryMeeting>Reunião Vida e Ministério</LifeAndMinistryMeeting>
   <LifeAndMinistryMeetingAssignments>Designação Reunião Vida e Ministério</LifeAndMinistryMeetingAssignments>
   <LifeAndMinistryMeetingNotScheduled>Reunião Vida e Ministério não agendada</LifeAndMinistryMeetingNotScheduled>
@@ -225,7 +225,7 @@
   <Main>Principal</Main>
   <MainHall>Auditório Principal</MainHall>
   <MainOnly>Apenas Principal</MainOnly>
-  <MakingDisciples>Fazer discípulos</MakingDisciples>
+  <MakingDisciples>Fazer Discípulos</MakingDisciples>
   <Meeting>Reunião</Meeting>
   <Meetings>Reuniões</Meetings>
   <MeetingAttendance>Assistência às Reuniões</MeetingAttendance>
@@ -370,7 +370,7 @@
   <SpecialPioneer>Pioneiro Especial</SpecialPioneer>
   <SpecialPioneers>Pioneiros Especiais</SpecialPioneers>
   <SpecialTalk>Discurso Especial</SpecialTalk>
-  <StartingAConversation>Iniciar conversas</StartingAConversation>
+  <StartingAConversation>Iniciar uma conversa</StartingAConversation>
   <Student>Estudante</Student>
   <Students>Estudantes</Students>
   <StudentSlips>Folhas de Designação de Estudante</StudentSlips>
@@ -491,7 +491,7 @@
   <Area>Área</Area>
   <Areas>Áreas</Areas>
   <As>Como</As>
-  <Assign>Designações</Assign>
+  <Assign>Designar</Assign>
   <AssignByMeeting>Designar por Reunião</AssignByMeeting>
   <AssignByMonth>Designar por mês</AssignByMonth>
   <AssignByWeek>Designar por semana</AssignByWeek>
@@ -503,7 +503,7 @@
   <AssignmentsOtherPersonList>Designações - Lista de Outros</AssignmentsOtherPersonList>
   <AssignPrivilegesAndDuties>Atribuir Privilégios e Tarefas</AssignPrivilegesAndDuties>
   <Assistant>Ajudante</Assistant>
-  <AssistantCLM>Ajudante</AssistantCLM>
+  <AssistantCLM>Ajudante RVMC</AssistantCLM>
   <AtHome>Em casa</AtHome>
   <Attachment>Anexo</Attachment>
   <Attachments>Anexos</Attachments>
@@ -775,7 +775,7 @@
   <EnableLimitedFinancialMeans>Ativar meios financeiros limitados</EnableLimitedFinancialMeans>
   <EnablePublicSpeakerSharing>Habilitar Partilha de Oradores Públicos</EnablePublicSpeakerSharing>
   <EnableUserAccess>Ativar Acesso do Utilizador</EnableUserAccess>
-  <End>Termina às</End>
+  <End>Fim</End>
   <EndDate>Data final</EndDate>
   <EndTime>Fim do tempo</EndTime>
   <Enter>Entrar</Enter>
@@ -850,7 +850,7 @@
   <General>Geral</General>
   <GenerateS88>Gerar S-88</GenerateS88>
   <GettingDownload>A obter o Download</GettingDownload>
-  <GettingStarted>Início às</GettingStarted>
+  <GettingStarted>Começar</GettingStarted>
   <GettingStartedWithNWScheduler>Introdução ao NW Scheduler</GettingStartedWithNWScheduler>
   <Gold>Ouro</Gold>
   <GoToRequest>Ir para o Pedido</GoToRequest>
@@ -896,7 +896,7 @@
   <ImproveAppTranslation>Melhorar a tradução da aplicação</ImproveAppTranslation>
   <InactivePublishers>Publicadores Inativos</InactivePublishers>
   <Incarcerated>Preso</Incarcerated>
-  <IncarceratedPublishers>Publicadores presos</IncarceratedPublishers>											
+  <IncarceratedPublishers>Publicadores presos</IncarceratedPublishers>
   <Include>Incluir</Include>
   <IncludeAddresses>Incluir endereços</IncludeAddresses>
   <IncludeAssign>Incluir Designação</IncludeAssign>
@@ -1169,7 +1169,7 @@
   <Paste>Colar</Paste>
   <PercentageCompleted>% Percentagem Concluída</PercentageCompleted>
   <Person>Publicador</Person>
-  <Persons>Pessoas</Persons>
+  <Persons>Publicadores</Persons>
   <PersonAlreadyShared>Publicador já compartilhado.</PersonAlreadyShared>
   <PersonAssignments>Designações do Publicador</PersonAssignments>
   <PersonData>Dados Pessoais</PersonData>
@@ -1221,7 +1221,7 @@
   <ProgramStatus>Status do Programa</ProgramStatus>
   <ProgramVersion>Versão do Programa</ProgramVersion>
   <PublicNotes>Notas Públicas</PublicNotes>
-  <PublicSpeakersAvailability>Disponibilidade de oradores públicos</PublicSpeakersAvailability>																								
+  <PublicSpeakersAvailability>Disponibilidade de oradores públicos</PublicSpeakersAvailability>
   <PublicSpeakersList>Lista de Oradores Públicos</PublicSpeakersList>
   <PublishersFieldServiceSummary>Resumo do serviço de campo dos publicadores</PublishersFieldServiceSummary>
   <PullData>Extrair dados</PullData>
@@ -1505,7 +1505,7 @@
   <TotalAreas>Áreas Totais</TotalAreas>
   <TotalAttendance>Assistência Total</TotalAttendance>
   <TotalNumberOfTerritories>Número Total de Territórios</TotalNumberOfTerritories>
-  <TotalPublishers>Total de publicadores</TotalPublishers>													  
+  <TotalPublishers>Total de publicadores</TotalPublishers>
   <TotalRecords>Total de Registos</TotalRecords>
   <TotalStudents>Total de Estudantes</TotalStudents>
   <TotalTerritories>Territórios Totais</TotalTerritories>
@@ -1517,7 +1517,7 @@
   <Type>Tipo</Type>
   <UnableToDecrypt>Não foi possível descriptografar</UnableToDecrypt>
   <Unassigned>Não Designado</Unassigned>
-  <Unavailable>Indisponível</Unavailable>									  
+  <Unavailable>Indisponível</Unavailable>
   <UnavailablePeriod>Período Indisponível</UnavailablePeriod>
   <UnavailablePeriods>Períodos Indisponíveis</UnavailablePeriods>
   <UndoSubmit>Anular Enviado</UndoSubmit>
@@ -2170,9 +2170,9 @@
   <TerritoryAssignmentsPublisherMaxMessage>Este Editor já possui no máximo 10 Territórios Atribuídos de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsPublisherMaxMessage>
   <TerritoryAssignmentsFieldServiceGroupMaxMessage>Este Grupo de Field Service já possui no máximo 10 Territórios Designados de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsFieldServiceGroupMaxMessage>
   <TerritoryExceedAddressLimit>Desculpe, cada território pode ter no máximo 250 endereços.</TerritoryExceedAddressLimit>
-  <TerritoryExceedAddressLimitFreeTrial>Desculpe, durante o teste gratuito só pode adicionar até 40 endereços. Isso deve ser suficiente para testar completamente o recurso endereços de território.</TerritoryExceedAddressLimitFreeTrial>																																																											  
+  <TerritoryExceedAddressLimitFreeTrial>Desculpe, durante o teste gratuito só pode adicionar até 40 endereços. Isso deve ser suficiente para testar completamente o recurso endereços de território.</TerritoryExceedAddressLimitFreeTrial>
   <TerritoryExceedAddressAndApartmentLimit>Desculpe, cada território pode ter no máximo 500 endereços e apartamentos combinados.</TerritoryExceedAddressAndApartmentLimit>
-  <TerritoryExceedBoundaryLimitFreeTrial>Desculpe, durante a avaliação gratuita só pode adicionar até 10 limites do território. Isso deve ser suficiente para testar completamente o recurso limites de território.</TerritoryExceedBoundaryLimitFreeTrial>																																																																 
+  <TerritoryExceedBoundaryLimitFreeTrial>Desculpe, durante a avaliação gratuita só pode adicionar até 10 limites do território. Isso deve ser suficiente para testar completamente o recurso limites de território.</TerritoryExceedBoundaryLimitFreeTrial>
   <TerritoryFirstAddTerritoryBoundary>Primeiro, adicione o limite do território antes de adicionar endereços.</TerritoryFirstAddTerritoryBoundary>
   <TerritoryNotFindAddress>Desculpe, não foi possível encontrar um endereço neste local</TerritoryNotFindAddress>
   <TerritoryNotReset>Este território não foi redefinido. Recomendamos clicar em Endereços &gt; Redefinir endereços.</TerritoryNotReset>
