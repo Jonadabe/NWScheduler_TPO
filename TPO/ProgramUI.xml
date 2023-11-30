@@ -50,7 +50,7 @@
   <BibleReading>Leitura Bíblia</BibleReading>
   <BibleReadingShort>Leitura</BibleReadingShort>
   <Bibles>Bíblias</Bibles>
-  <BibleStudy>Estudo Bíblico</BibleStudy>
+  <BibleStudy>Estudo bíblico</BibleStudy>
   <BibleStudies>Estudos Bíblicos</BibleStudies>
   <Books>Livros</Books>
   <BrochuresAndBooklets>Brochuras e Folhetos</BrochuresAndBooklets>
@@ -141,7 +141,7 @@
   <DiggingForSpiritualGemsShort>Pérolas</DiggingForSpiritualGemsShort>
   <Discussion>Discurso com participação</Discussion>
   <Disfellowshipped>Desassociado</Disfellowshipped>
-  <DoesNotReportHere>Não reporta aqui</DoesNotReportHere>
+  <DoesNotReportHere>Não relata aqui</DoesNotReportHere>
   <DoNotCalls>Não Visitar</DoNotCalls>
   <Elder>Ancião</Elder>
   <Elders>Anciãos</Elders>
@@ -189,8 +189,8 @@
   <Irregular>Irregular</Irregular>
   <IrregularPublishers>Publicadores Irregulares</IrregularPublishers>
   <JWorgRequested>JW.org solicitado</JWorgRequested>
-  <Key>Chave</Key>
-  <KeyPerson>Pessoa chave</KeyPerson>
+  <Key>Capitães</Key>
+  <KeyPerson>Capitão de Equipa</KeyPerson>
   <KingdomHall>Salão do Reino</KingdomHall>
   <KingdomHallAddress>Endereço do Salão do Reino</KingdomHallAddress>
   <KingdomHallKey>Chave do Salão do Reino</KingdomHallKey>
@@ -225,7 +225,7 @@
   <Main>Principal</Main>
   <MainHall>Auditório Principal</MainHall>
   <MainOnly>Apenas Principal</MainOnly>
-  <MakingDisciples>Fazer Discípulos</MakingDisciples>
+  <MakingDisciples>Fazer discípulos</MakingDisciples>
   <Meeting>Reunião</Meeting>
   <Meetings>Reuniões</Meetings>
   <MeetingAttendance>Assistência às Reuniões</MeetingAttendance>
@@ -370,7 +370,7 @@
   <SpecialPioneer>Pioneiro Especial</SpecialPioneer>
   <SpecialPioneers>Pioneiros Especiais</SpecialPioneers>
   <SpecialTalk>Discurso Especial</SpecialTalk>
-  <StartingAConversation>Iniciar uma conversa</StartingAConversation>
+  <StartingAConversation>Iniciar conversas</StartingAConversation>
   <Student>Estudante</Student>
   <Students>Estudantes</Students>
   <StudentSlips>Folhas de Designação de Estudante</StudentSlips>
@@ -491,7 +491,7 @@
   <Area>Área</Area>
   <Areas>Áreas</Areas>
   <As>Como</As>
-  <Assign>Designar</Assign>
+  <Assign>Designações</Assign>
   <AssignByMeeting>Designar por Reunião</AssignByMeeting>
   <AssignByMonth>Designar por mês</AssignByMonth>
   <AssignByWeek>Designar por semana</AssignByWeek>
@@ -503,7 +503,7 @@
   <AssignmentsOtherPersonList>Designações - Lista de Outros</AssignmentsOtherPersonList>
   <AssignPrivilegesAndDuties>Atribuir Privilégios e Tarefas</AssignPrivilegesAndDuties>
   <Assistant>Ajudante</Assistant>
-  <AssistantCLM>Ajudante RVMC</AssistantCLM>
+  <AssistantCLM>Ajudante</AssistantCLM>
   <AtHome>Em casa</AtHome>
   <Attachment>Anexo</Attachment>
   <Attachments>Anexos</Attachments>
@@ -775,7 +775,7 @@
   <EnableLimitedFinancialMeans>Ativar meios financeiros limitados</EnableLimitedFinancialMeans>
   <EnablePublicSpeakerSharing>Habilitar Partilha de Oradores Públicos</EnablePublicSpeakerSharing>
   <EnableUserAccess>Ativar Acesso do Utilizador</EnableUserAccess>
-  <End>Fim</End>
+  <End>Termina às</End>
   <EndDate>Data final</EndDate>
   <EndTime>Fim do tempo</EndTime>
   <Enter>Entrar</Enter>
@@ -850,7 +850,7 @@
   <General>Geral</General>
   <GenerateS88>Gerar S-88</GenerateS88>
   <GettingDownload>A obter o Download</GettingDownload>
-  <GettingStarted>Começar</GettingStarted>
+  <GettingStarted>Início às</GettingStarted>
   <GettingStartedWithNWScheduler>Introdução ao NW Scheduler</GettingStartedWithNWScheduler>
   <Gold>Ouro</Gold>
   <GoToRequest>Ir para o Pedido</GoToRequest>
@@ -1169,7 +1169,7 @@
   <Paste>Colar</Paste>
   <PercentageCompleted>% Percentagem Concluída</PercentageCompleted>
   <Person>Publicador</Person>
-  <Persons>Publicadores</Persons>
+  <Persons>Pessoas</Persons>
   <PersonAlreadyShared>Publicador já compartilhado.</PersonAlreadyShared>
   <PersonAssignments>Designações do Publicador</PersonAssignments>
   <PersonData>Dados Pessoais</PersonData>
