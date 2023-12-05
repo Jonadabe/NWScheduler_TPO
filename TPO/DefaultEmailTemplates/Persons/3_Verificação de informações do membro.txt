@@ -1,8 +1,9 @@
-Prezado [TO_NAME],
+Prezado(a) [TO_NAME],
 
-Por favor, veja o [ATTACHMENT_NAME] anexado. Por favor, verifique essas informações, incluindo todos os Contatos de Emergência, e se necessário faça as alterações, atualizando os dados.
+Por favor, veja o ficheiro anexado: [ATTACHMENT_NAME].
+Verifique todas as informações, incluindo os Contatos de Emergência, e se necessário altere ou atualize os dados.
 
-Depois de terminar de verificar e fazer as alterações, agradeço que me envie.
+Depois de terminar de verificar e fazer as alterações, agradeço que me envie para atualizaçºao no registo da Congregação.
 
 Atenciosamente,
 [SENDER_NAME]
