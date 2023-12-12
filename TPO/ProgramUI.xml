@@ -57,8 +57,8 @@
   <Brother>Irmão</Brother>
   <Brothers>Irmãos</Brothers>
   <Campaign>Campanha</Campaign>
-  <Cart>Carrinho</Cart>
-  <CartNumber>Número do carrinho</CartNumber>
+  <Cart>Nº</Cart>
+  <CartNumber>Nº do carrinho</CartNumber>
   <Chairman>Presidente</Chairman>
   <ChairmanNotes>Notas do Presidente</ChairmanNotes>
   <ChairmanOutline>Esboço do Presidente</ChairmanOutline>
@@ -90,7 +90,7 @@
   <CongregationAnalysisReport>Relatório de Análise de Congregação</CongregationAnalysisReport>
   <CongregationAnnouncements>Anúncios Para a Congregação</CongregationAnnouncements>
   <CongregationAssignmentsUpdated>Designação da Congregação Atualizadas</CongregationAssignmentsUpdated>
-  <CongregationBibleStudy>Estudo Bíblico de Congregação</CongregationBibleStudy>
+  <CongregationBibleStudy>Estudo bíblico de congregação</CongregationBibleStudy>
   <CongregationData>Dados da Congregação</CongregationData>
   <CongregationDetails>Detalhes da Congregação</CongregationDetails>
   <CongregationEvent>Evento de Congregação</CongregationEvent>
@@ -101,7 +101,7 @@
   <CongregationFieldServiceSummary>Resumo do Serviço de Campo da Congregação</CongregationFieldServiceSummary>
   <CongregationForCircuitOverseer>Congregação para o Superintendente de Circuito</CongregationForCircuitOverseer>
   <CongregationInformation>Informações da Congregação</CongregationInformation>
-  <CongregationLanguage>Língua da Congregação</CongregationLanguage>
+  <CongregationLanguage>Idioma da Congregação</CongregationLanguage>
   <CongregationLicenseActive>Licença da Congregação Ativa</CongregationLicenseActive>
   <CongregationMeetings>Reuniões da Congregação</CongregationMeetings>
   <CongregationName>Congregação</CongregationName>
@@ -138,7 +138,7 @@
   <DetailsHostShepherdingMeals>Detalhes do anfitrião, visitas de pastoreio e arranjos de refeições</DetailsHostShepherdingMeals>
   <DidNotShareInMinistry>Não participou no ministério</DidNotShareInMinistry>
   <DifferentAPs>Pion. Aux. diferentes</DifferentAPs>
-  <DiggingForSpiritualGemsShort>Pérolas</DiggingForSpiritualGemsShort>
+  <DiggingForSpiritualGemsShort>Pérolas Espirituais</DiggingForSpiritualGemsShort>
   <Discussion>Discurso com participação</Discussion>
   <Disfellowshipped>Desassociado</Disfellowshipped>
   <DoesNotReportHere>Não relata aqui</DoesNotReportHere>
@@ -155,7 +155,7 @@
   <FieldServiceGroup>Grupo de Serviço de Campo</FieldServiceGroup>
   <FieldServiceGroups>Grupos de Serviço de Campo</FieldServiceGroups>
   <FieldServiceMeeting>Reunião para o Serviço de Campo</FieldServiceMeeting>
-  <FieldServiceMeetings>Reuniões para o Serviço de Campo</FieldServiceMeetings>
+  <FieldServiceMeetings>Reuniões - Serviço de Campo</FieldServiceMeetings>
   <FieldServiceNotScheduled>Serviço de campo não programado</FieldServiceNotScheduled>
   <FieldServicePrayers>Orações na reunião serviço de campo</FieldServicePrayers>
   <FieldServiceReport>Relatório de Serviço de Campo</FieldServiceReport>
@@ -258,7 +258,7 @@
   <NoTerritoriesOverdue>Nenhum território atrasado</NoTerritoriesOverdue>
   <OpenCongregation>Abrir Congregação</OpenCongregation>
   <OpeningComments>Comentários Iniciais</OpeningComments>
-  <OpeningCommentsCLM>Comentários de abertura (1 min.)</OpeningCommentsCLM>
+  <OpeningCommentsCLM>Comentários iniciais (1 min.)</OpeningCommentsCLM>
   <OpeningPrayer>Oração Inicial</OpeningPrayer>
   <OpeningSong>Cântico Inicial</OpeningSong>
   <OtherCongregation>Outra Congregação</OtherCongregation>
@@ -302,13 +302,13 @@
   <PublicTalkHistory>Histórico de Discursos Públicos</PublicTalkHistory>
   <PublicTalkHistoryByPerson>Histórico de discursos públicos por pessoa</PublicTalkHistoryByPerson>
   <PublicTalksAway>Discurso Público - Fora</PublicTalksAway>
-  <PublicTalksCombined>Discursos Públicos Confirmados</PublicTalksCombined>
+  <PublicTalksCombined>Discursos Públicos Local e Fora agrupados</PublicTalksCombined>
   <PublicTalksLocal>Discurso Público - Local</PublicTalksLocal>
   <PublicTalksNotScheduled>Discursos Públicos não agendadas</PublicTalksNotScheduled>
   <PublicTalkSchedule>Programa de Discursos Públicos</PublicTalkSchedule>
   <PublicWitnessing>Testemunho Público</PublicWitnessing>
   <PublicWitnessingLocation>Local de Testemunho Público</PublicWitnessingLocation>
-  <PublicWitnessingLocations>Locais de Testemunho Público</PublicWitnessingLocations>
+  <PublicWitnessingLocations>Locais de Test. Público</PublicWitnessingLocations>
   <PublicWitnessingReservation>Pedido de Testemunho Público</PublicWitnessingReservation>
   <PublicWitnessingReservations>Pedidos de Testemunho Público</PublicWitnessingReservations>
   <PublicWitnessingReservationsUpdated>Pedidos de testemunho público atualizadas</PublicWitnessingReservationsUpdated>
@@ -332,7 +332,7 @@
   <RenameCircuit>Renomear Circuito</RenameCircuit>
   <Reports>Relatórios</Reports>
   <ReportsServant>Servo de Relatórios</ReportsServant>
-  <ResetScripture>Redefinir as Escrituras</ResetScripture>
+  <ResetMeetingData>Redefinir dados da reunião</ResetMeetingData>
   <Review>Pontos Principais e Visão Geral da Próxima Semana</Review>
   <ReturnVisit>Revisita</ReturnVisit>
   <S13Terr>Terr.</S13Terr>
@@ -340,11 +340,11 @@
   <S21CongregationsPublisherRecord>REGISTO DE PUBLICADOR DE CONGREGAÇÃO</S21CongregationsPublisherRecord>
   <S21IfPioneerOrFieldMissionary>(Se pioneiro ou missionário de campo)</S21IfPioneerOrFieldMissionary>
   <S89NoteToStudent>Nota ao estudante</S89NoteToStudent>
-  <S89NoteToStudentText>A fonte de matéria e o ponto de conselho para a sua designação encontram-se no Manual de Atividades da Reunião Vida e Ministério. Por favor, trabalhe o ponto de conselho que é designado e que é abordado na brochura Leitura e Ensino.</S89NoteToStudentText>
+  <S89NoteToStudentText2024>A fonte de matéria e o ponto de conselho para a sua designação encontram-se no Manual de Atividades da Reunião Vida e Ministério. Por favor, recapitule as instruções para a designação tal como estão descritas nas Instruções para a Reunião Vida e Ministério Cristãos (S-38).</S89NoteToStudentText2024>
   <S89HeadingLine1>DESIGNAÇÃO PARA A REUNIÃO</S89HeadingLine1>
   <S89HeadingLine2>VIDA E MINISTÉRIO CRISTÃOS</S89HeadingLine2>
-  <S140ReviewText>Revisão / Antevisão / Anúncios (3 min.)</S140ReviewText>
-  <SampleCongregation>Amostra de Congregação</SampleCongregation>
+  <S140ReviewText>Comentários finais (3 min.)</S140ReviewText>
+  <SampleCongregation>Exemplo de Congregação</SampleCongregation>
   <SampleCongregationOnly>Apenas Exemplo de Congregação</SampleCongregationOnly>
   <School>Escola</School>
   <SchoolPart>Parte da escola</SchoolPart>
@@ -400,7 +400,7 @@
   <TerritoryNotes>Notas do território</TerritoryNotes>
   <TerritoryRequest>Pedido de território</TerritoryRequest>
   <TerritoryServant>Servo do Território</TerritoryServant>
-  <ToBeGivenIn>A ser apresentado no(a):</ToBeGivenIn>
+  <ToBeGivenIn>A ser apresentado no(a)</ToBeGivenIn>
   <Tracts>Tratados</Tracts>
   <TreasuresTalk>Discurso</TreasuresTalk>
   <TreasuresFromGodsWord>TESOUROS DA PALAVRA DE DEUS</TreasuresFromGodsWord>
@@ -413,7 +413,7 @@
   <VideoTutorials>Tutoriais em vídeo</VideoTutorials>
   <Watchtower>A Sentinela</Watchtower>
   <WatchtowerStudyConductor>Dirigente de A Sentinela</WatchtowerStudyConductor>
-  <WatchtowerReader>Leitor de A Sentinela</WatchtowerReader>
+  <WatchtowerReader>Leitor A Sentinela</WatchtowerReader>
   <WeekendCleaning>Limpeza de fim de semana</WeekendCleaning>
   <WeekendMeeting>Reunião de Fim de Semana</WeekendMeeting>
   <WeekendMeetingDay>Dia da Reunião Fim de Semana</WeekendMeetingDay>
@@ -436,8 +436,8 @@
   <AddFromFile>Adicionar do ficheiro</AddFromFile>
   <AddGroup>Adicionar Grupo</AddGroup>
   <AddMultipleApartmentNumbers>Adicionar vários números de apartamento</AddMultipleApartmentNumbers>
-  <AddPerson>Adicionar Publicador</AddPerson>
-  <AddPersons>Adicionar pessoas</AddPersons>
+  <AddPerson>Adicionar Pessoa</AddPerson>
+  <AddPersons>Adicionar Pessoas</AddPersons>
   <AddUpdate>Adicionar / Atualizar</AddUpdate>
   <Address>Endereço</Address>
   <Addresses>Endereços</Addresses>
@@ -452,10 +452,10 @@
   <All>Todos</All>
   <AllDatesAvailable>Todas as datas disponíveis</AllDatesAvailable>
   <AllFuture>Todo no futuro</AllFuture>
-  <AllGroups>Todos os Grupos</AllGroups>
+  <AllGroups>Todos Grupos</AllGroups>
   <AllPersons>Todas os Publicadores</AllPersons>
-  <AllPioneers>Todos os Pioneiros</AllPioneers>
-  <AllPublishers>Todos os Publicadores</AllPublishers>
+  <AllPioneers>Todos Pioneiros</AllPioneers>
+  <AllPublishers>Todos Publicadores</AllPublishers>
   <AllSlips>Todas as Designações</AllSlips>
   <AllowEditAddressNotes>Permitir Editar Notas de Endereço</AllowEditAddressNotes>
   <AllowHospitalityRequests>Permitir pedido de hospitalidade</AllowHospitalityRequests>
@@ -487,7 +487,7 @@
   <AppPersonsWithOldVersion>Pessoas com aplicação com versão antiga</AppPersonsWithOldVersion>
   <AppQuickSteps>Etapas rápidas da aplicação</AppQuickSteps>
   <AppSummary>Resumo da aplicação</AppSummary>
-  <AppVersion>Versão da aplicação</AppVersion>
+  <AppVersion>Versão</AppVersion>
   <Area>Área</Area>
   <Areas>Áreas</Areas>
   <As>Como</As>
@@ -514,9 +514,9 @@
   <Available>Disponível</Available>
   <Availability>Disponibilidade</Availability>
   <AvailableForHospitality>Disponível para Hospitalidade</AvailableForHospitality>
-  <AvailableFrom>Disponível desde</AvailableFrom>
+  <AvailableFrom>Disponível de</AvailableFrom>
   <AvailableTerritories>Territórios Disponíveis</AvailableTerritories>
-  <AvailableTo>Disponível até</AvailableTo>
+  <AvailableTo>até</AvailableTo>
   <Average>Média</Average>
   <AverageAttendanceEachWeek>Assistência média por semana</AverageAttendanceEachWeek>
   <AverageAttendanceEachMonth>Assistência média por mês</AverageAttendanceEachMonth>
@@ -625,7 +625,7 @@
   <Connection>Ligação</Connection>
   <Contact>Contato</Contact>
   <ContactDetails>Detalhes do Contacto</ContactDetails>
-  <ContactInformation> - Informações de Contacto</ContactInformation>
+  <ContactInformation> Informações de Contacto</ContactInformation>
   <ContactName>Nome de Contacto</ContactName>
   <ContactUs>Contacte-nos</ContactUs>
   <ConvertAddressesToLetterWriting>Converter endereços para escrita de cartas</ConvertAddressesToLetterWriting>
@@ -636,7 +636,7 @@
   <CopyFromFamilyHead>Cópia do chefe de família</CopyFromFamilyHead>
   <CopyNotesFromPublisherToNotes>Copiar comentários do publicador para notas</CopyNotesFromPublisherToNotes>
   <CopyToLastPublisherRecord>Copiar para o último registo do Publicador</CopyToLastPublisherRecord>
-  <Count>Número</Count>
+  <Count>Total</Count>
   <Country>País</Country>
   <Create>Criar</Create>
   <Created>Feito</Created>
@@ -662,8 +662,8 @@
   <DataToSend>Dados a Enviar</DataToSend>
   <DataTransfer>Transferência de Dados</DataTransfer>
   <DataWaiting>Dados a Aguardar</DataWaiting>
-  <DataWaitingToReceive>Dados esperando para receber</DataWaitingToReceive>
-  <DataWaitingToSend>Dados esperando para enviar</DataWaitingToSend>
+  <DataWaitingToReceive>Dados por receber</DataWaitingToReceive>
+  <DataWaitingToSend>Dados por enviar</DataWaitingToSend>
   <Date>Data</Date>
   <DateAssigned>Levantado em</DateAssigned>
   <DateCompleted>Devolvido em</DateCompleted>
@@ -775,12 +775,12 @@
   <EnableLimitedFinancialMeans>Ativar meios financeiros limitados</EnableLimitedFinancialMeans>
   <EnablePublicSpeakerSharing>Habilitar Partilha de Oradores Públicos</EnablePublicSpeakerSharing>
   <EnableUserAccess>Ativar Acesso do Utilizador</EnableUserAccess>
-  <End>Termina às</End>
+  <End>Finalizar</End>
   <EndDate>Data final</EndDate>
   <EndTime>Fim do tempo</EndTime>
   <Enter>Entrar</Enter>
   <EnterPassword>Digite a Senha</EnterPassword>
-  <EnterPublicTalksMessage>Digite os números dos Dicursos Públicos, separados por vírgula</EnterPublicTalksMessage>
+  <EnterPublicTalksMessage>Digite os números dos discursos, separados por vírgulas</EnterPublicTalksMessage>
   <Enter6DigitSharingPersonPIN>Digite o seu PIN de partilha de 6 dígitos</Enter6DigitSharingPersonPIN>
   <Error>Erro</Error>
   <ErrorDetails>Detalhes do erro</ErrorDetails>
@@ -804,7 +804,7 @@
   <Expecting>À Espera</Expecting>
   <Expert>Especialista</Expert>
   <Expired>O tempo expirou</Expired>
-  <ExpiryDate>Data de validade</ExpiryDate>
+  <ExpiryDate>Validade</ExpiryDate>
   <Export>Exportação</Export>
   <ExportAddresses>Endereços de exportação</ExportAddresses>
   <ExportAllPersons>Exportar todos os publicadores</ExportAllPersons>
@@ -827,14 +827,14 @@
   <FilterBySelectedOutline>Filtrar por Esboço Selecionado</FilterBySelectedOutline>
   <FinalTalk>Discurso Final</FinalTalk>
   <FindAddress>Encontrar endereço</FindAddress>
-  <FirstName>Primeiro Nome</FirstName>
+  <FirstName>Nome</FirstName>
   <FontSize>Tamanho da Letra</FontSize>
   <ForMoreDetails>Para mais Detalhes.</ForMoreDetails>
   <Free>Gratuito</Free>
   <FreeText>Texto livre</FreeText>
   <FreeTrial>Teste gratuito</FreeTrial>
   <FrequentlyAskedQuestions>Perguntas Frequentes</FrequentlyAskedQuestions>
-  <From>de</From>
+  <From>De</From>
   <FromAutomaticBackup>de Backup Automático</FromAutomaticBackup>
   <FromDate>Da data</FromDate>
   <FromFile>de ficheiro</FromFile>
@@ -850,7 +850,7 @@
   <General>Geral</General>
   <GenerateS88>Gerar S-88</GenerateS88>
   <GettingDownload>A obter o Download</GettingDownload>
-  <GettingStarted>Início às</GettingStarted>
+  <GettingStarted>Iniciar</GettingStarted>
   <GettingStartedWithNWScheduler>Introdução ao NW Scheduler</GettingStartedWithNWScheduler>
   <Gold>Ouro</Gold>
   <GoToRequest>Ir para o Pedido</GoToRequest>
@@ -935,13 +935,13 @@
   <InstallOnAppleMac>Instalar em Apple Mac</InstallOnAppleMac>
   <Installing>Instalar</Installing>
   <Invitation>Convite</Invitation>
-  <IsNowAvailable>Está agora disponivel!</IsNowAvailable>
+  <IsNowAvailable>Está agora disponível!</IsNowAvailable>
   <ItemNumber>Número de item</ItemNumber>
   <KeepOpen>Mantenha aberto</KeepOpen>
   <Label>Rótulo</Label>
   <Labels>Etiquetas</Labels>
-  <Language>Língua</Language>
-  <Languages>línguas</Languages>
+  <Language>Idioma</Language>
+  <Languages>Idiomas</Languages>
   <LargePrint>Letras grandes</LargePrint>
   <Last3Months>Últimos 3 meses</Last3Months>
   <Last6Months>Últimos 6 meses</Last6Months>
@@ -1021,8 +1021,8 @@
   <Microphone>Microfone</Microphone>
   <Microphones>Microfones</Microphones>
   <MiddleName>Nome do Meio</MiddleName>
-  <MinimumTimeBetweenCLMNonSchoolParts>Tempo mínimo entre as designações - VMC</MinimumTimeBetweenCLMNonSchoolParts>
-  <MinimumTimeBetweenCLMSchoolParts>Tempo mínimo entre as designações de estudante - VMC</MinimumTimeBetweenCLMSchoolParts>
+  <MinimumTimeBetweenCLMNonSchoolParts>Tempo mínimo entre as designações - RVMC</MinimumTimeBetweenCLMNonSchoolParts>
+  <MinimumTimeBetweenCLMSchoolParts>Tempo mínimo entre as designações de estudante - RVMC</MinimumTimeBetweenCLMSchoolParts>
   <Minutes>min.</Minutes>
   <MinutesAgo>minutos atrás</MinutesAgo>
   <MinutesLeft>minutos restantes</MinutesLeft>
@@ -1116,7 +1116,7 @@
   <NotificationsLog>Registo de Notificações</NotificationsLog>
   <NotificationsToSend>Notificações para enviar</NotificationsToSend>
   <NoVolunteersFound>Nenhum voluntário encontrado</NoVolunteersFound>
-  <Number>Número</Number>
+  <Number>Nº</Number>
   <NumberOfMeetings>Número de reuniões</NumberOfMeetings>
   <NumberOfReports>Número de relatórios</NumberOfReports>
   <NWSchedulerFile>Ficheiro NW Scheduler</NWSchedulerFile>
@@ -1160,6 +1160,7 @@
   <PartsToAutoAssign>Designações - Auto Designar</PartsToAutoAssign>
   <PartsNotScheduled>Designações não programadas</PartsNotScheduled>
   <PartHistory>Histórico de Designações</PartHistory>
+  <PartNo>Parte não.</PartNo>
   <PartType>Tipo Designação</PartType>
   <Password>Senha</Password>
   <PasswordIncorrect>Senha Incorreta</PasswordIncorrect>
@@ -1168,7 +1169,7 @@
   <PastHistory>Histórico passado</PastHistory>
   <Paste>Colar</Paste>
   <PercentageCompleted>% Percentagem Concluída</PercentageCompleted>
-  <Person>Publicador</Person>
+  <Person>Pessoa</Person>
   <Persons>Pessoas</Persons>
   <PersonAlreadyShared>Publicador já compartilhado.</PersonAlreadyShared>
   <PersonAssignments>Designações do Publicador</PersonAssignments>
@@ -1217,9 +1218,9 @@
   <ProcessingPayment>Processando o pagamento</ProcessingPayment>
   <ProcessReceivedAppData>Processar dados recebidos da aplicação</ProcessReceivedAppData>
   <Program>Programa</Program>
-  <ProgramLanguage>Língua do Programa</ProgramLanguage>
+  <ProgramLanguage>Idioma do Programa</ProgramLanguage>
   <ProgramStatus>Status do Programa</ProgramStatus>
-  <ProgramVersion>Versão do Programa</ProgramVersion>
+  <ProgramVersion>Versão</ProgramVersion>
   <PublicNotes>Notas Públicas</PublicNotes>
   <PublicSpeakersAvailability>Disponibilidade de oradores públicos</PublicSpeakersAvailability>
   <PublicSpeakersList>Lista de Oradores Públicos</PublicSpeakersList>
@@ -1256,7 +1257,7 @@
   <RefreshDevices>Atualizar dispositivos</RefreshDevices>
   <RefreshInformation>Atualizar Informações</RefreshInformation>
   <RefreshLocalData>Atualizar dados locais</RefreshLocalData>
-  <RefreshPerson>Atualizar publicador</RefreshPerson>
+  <RefreshPerson>Atualizar pessoa</RefreshPerson>
   <RefreshMeetingData>Atualizar Dados da Reunião</RefreshMeetingData>
   <RefreshingMeetingData>Atualizando dados da reunião...</RefreshingMeetingData>
   <RefundPolicy>Politica de reembolso</RefundPolicy>
@@ -1285,7 +1286,7 @@
   <RemoveAll>Apagar tudo</RemoveAll>
   <RemoveDelegate>Remover Delegado</RemoveDelegate>
   <RemoveDevice>Remover dispositivo</RemoveDevice>
-  <RemovePerson>Remover Publicador</RemovePerson>
+  <RemovePerson>Remover Pessoa</RemovePerson>
   <RemoveRegistrationKey>Remover chave de registo</RemoveRegistrationKey>
   <Renew>Renovar</Renew>
   <RenewUntil>Renovar até</RenewUntil>
@@ -1301,7 +1302,7 @@
   <RequestDetails>Pedir Detalhes</RequestDetails>
   <Requested>Solicitados</Requested>
   <RequestJoin>Solicitar adesão</RequestJoin>
-  <RequestNewLanguage>Solicitar uma nova língua</RequestNewLanguage>
+  <RequestNewLanguage>Solicitar um novo idioma</RequestNewLanguage>
   <RequestPersonalHelp>Solicitar ajuda pessoal</RequestPersonalHelp>
   <RequestStatus>Pedido de Situação</RequestStatus>
   <ResendVerificationCode>Reenviar código de verificação</ResendVerificationCode>
@@ -1318,7 +1319,7 @@
   <RestoreCongregation>Restaurar Congregação</RestoreCongregation>
   <RestoreData>Restaurar dados</RestoreData>
   <RestoredCongregationFromBackup>Congregação restaurada do backup</RestoredCongregationFromBackup>
-  <RestorePersons>Restaurar publicadores</RestorePersons>
+  <RestorePersons>Restaurar Pessoas</RestorePersons>
   <Roles>Funções</Roles>
   <Rural>Rural</Rural>
   <Save>Guardar</Save>
@@ -1335,7 +1336,7 @@
   <SeparateByGroup>Separado por Grupo</SeparateByGroup>
   <Schedule>Agendar</Schedule>
   <Schedules>Tabelas</Schedules>
-  <ScheduleVersion>Versão do programa</ScheduleVersion>
+  <ScheduleVersion>Versão</ScheduleVersion>
   <Search>Procurar</Search>
   <Seconds>segundos</Seconds>
   <Secondary>Secundário</Secondary>
@@ -1404,7 +1405,7 @@
   <SharedPerson>Publicador com partilha</SharedPerson>
   <SharedPersons>Publicadores com partilha</SharedPersons>
   <SharedPersonsNotConnected>Publicadores com partilha não ligados</SharedPersonsNotConnected>
-  <SharedPersonsReVerifyPeriod>Período de re-verificação da partilha</SharedPersonsReVerifyPeriod>
+  <SharedPersonsReVerifyPeriod>Período reverificação - Partilha</SharedPersonsReVerifyPeriod>
   <Sharing>Partilha</Sharing>
   <SharingAdministrator>Administrador de partilha</SharingAdministrator>
   <SharingErrors>Erros de partilha</SharingErrors>
@@ -1421,6 +1422,7 @@
   <ShowContactDetails>Mostrar detalhes de contato</ShowContactDetails>
   <ShowContactDetailsOnCLMAssignmentSlips>Mostrar detalhes de contato nas folhas de designações de VMC</ShowContactDetailsOnCLMAssignmentSlips>
   <ShowBrothers>Mostrar irmãos</ShowBrothers>
+  <ShowDetails>Mostrar detalhes</ShowDetails>
   <ShowEveryone>Mostrar todos</ShowEveryone>
   <ShowFamilies>Mostrar famílias</ShowFamilies>
   <ShowLabels>Mostrar rótulos</ShowLabels>
@@ -1452,7 +1454,7 @@
   <SpecialWeek>Semana Especial</SpecialWeek>
   <Spiritual>Espiritual</Spiritual>
   <Standard>Padrão</Standard>
-  <Start>Começar</Start>
+  <Start>Iniciar</Start>
   <StartDate>Data de Início</StartDate>
   <StartTime>hora de início</StartTime>
   <StateProvince>Província do Estado</StateProvince>
@@ -1484,7 +1486,7 @@
   <ThankYou>Obrigado!</ThankYou>
   <Theme>Tema</Theme>
   <TickShowAllOutlines>Marque Mostrar todos os tópicos abaixo</TickShowAllOutlines>
-  <Time>Horário</Time>
+  <Time>Agenda</Time>
   <TimeOfDay>Hora do dia</TimeOfDay>
   <TimeOfRequest>Hora do Pedido</TimeOfRequest>
   <Timing>Cronómetro</Timing>
@@ -1511,7 +1513,7 @@
   <TotalTerritories>Territórios Totais</TotalTerritories>
   <Transfer>Transferir</Transfer>
   <TransferPersons>Transferir Publicadores</TransferPersons>
-  <TranslationOrLanguages>Tradução ou Línguas</TranslationOrLanguages>
+  <TranslationOrLanguages>Tradução ou Idiomas</TranslationOrLanguages>
   <TwelveHourTime>12 horas</TwelveHourTime>
   <TwentyFourHourTime>24 horas</TwentyFourHourTime>
   <Type>Tipo</Type>
@@ -1537,7 +1539,7 @@
   <Updating>Atualizar</Updating>
   <UpdatingCLMSchedule>Atualizar a programação VMC</UpdatingCLMSchedule>
   <UpdatingPublicTalkOutlines>Atualizar Esboços de Discursos Públicos</UpdatingPublicTalkOutlines>
-  <UpdatingTranslationsAndLanguages>Atualizar traduções e línguas</UpdatingTranslationsAndLanguages>
+  <UpdatingTranslationsAndLanguages>Atualizar traduções e idioma</UpdatingTranslationsAndLanguages>
   <Upgrade>Melhoria</Upgrade>
   <UpgradeUntil>Atualizar até</UpgradeUntil>
   <UpgradeRenew>Atualizar e renovar</UpgradeRenew>
@@ -1605,7 +1607,7 @@
   <StudentAbbreviation>EST</StudentAbbreviation>
   <SpecialPioneerAbbreviation>PE</SpecialPioneerAbbreviation>
   <UnbaptisedPublisherAbbreviation>PNB</UnbaptisedPublisherAbbreviation>
-  <WatchtowerReaderAbbreviation>Leitor WT</WatchtowerReaderAbbreviation>
+  <WatchtowerReaderAbbreviation>Leitor A Sentinela</WatchtowerReaderAbbreviation>
   <CircuitOverseerAbbreviationName>Nome do SC</CircuitOverseerAbbreviationName>
   <CircuitOverseerAbbreviationWifeName>Nome da Esposa</CircuitOverseerAbbreviationWifeName>
   <EmergencyContactAbbreviation>CE</EmergencyContactAbbreviation>
@@ -1712,8 +1714,8 @@
   <AwayPeriodsApplyToAllFamilyPersons>Este publicador é um chefe de família. Você gostaria de aplicar seus Períodos Ausentes a todas os membros da família?</AwayPeriodsApplyToAllFamilyPersons>
   <AwayPeriodsApplyToAllFamilyRequest>Esta pessoa solicitou a aplicação deste período de ausência a todos os membros da família.</AwayPeriodsApplyToAllFamilyRequest>
   <BackupReminderMessage1>IMPORTANTE: Faça uma CÓPIA DE SEGURANÇA EXTERNA dos seus dados REGULARMENTE!</BackupReminderMessage1>
-  <BackupReminderMessage2>O NW Scheduler cria uma cópia de segurança automática cada vez que o programa é fechado. Este é guardado apenas no seu computador local. RECOMENDAMOS VIVAMENTE que crie também REGULARMENTE uma Cópia de Segurança EXTERNA para uma unidade USB portátil no caso do seu computador congelar, ficar danificado, ser roubado ou se os seus dados estiverem danificados ou corrompidos.</BackupReminderMessage2>
-  <BackupReminderMessage3>RECOMENDAMOS FORTEMENTE que você também crie REGULARMENTE um backup FORA DO LOCAL para uma unidade USB portátil, caso seu computador falhe, seja danificado, roubado ou se seus dados forem danificados ou corrompidos.</BackupReminderMessage3>
+  <BackupReminderMessage2>O NW Scheduler cria uma cópia de segurança automática cada vez que o programa é fechado. Este é guardado apenas no seu computador local.</BackupReminderMessage2>
+  <BackupReminderMessage3>RECOMENDAMOS FORTEMENTE que você também crie REGULARMENTE um backup FORA DO LOCAL para uma unidade USB portátil, caso seu computador falhe, seja danificado, roubado ou se os seus dados forem danificados ou corrompidos.</BackupReminderMessage3>
   <BackupReminderMessage4>Gostaria de criar um backup externo agora? (Primeiro insira uma unidade USB portátil)</BackupReminderMessage4>
   <BeforeImportPleaseBackup>Antes de importar, faça uma cópia de segurança dos seus dados!</BeforeImportPleaseBackup>
   <BetaCurrentlyUsing>No momento, você está usando uma versão beta do NW Scheduler</BetaCurrentlyUsing>
@@ -1808,6 +1810,7 @@
   <ContactInformationCheckNotYetReturned>Informações de verificação de contato ainda não foi confirmada</ContactInformationCheckNotYetReturned>
   <ContactInformationForAllPublishers>Informações de contato para todos os publicadores</ContactInformationForAllPublishers>
   <CreateNewCongregationEnableRegistration>Por favor, crie uma Nova Congregação para habilitar o Registro</CreateNewCongregationEnableRegistration>
+  <CreateMeetingDataFromAnotherLanguage>Crie dados de reunião de outro idioma</CreateMeetingDataFromAnotherLanguage>
   <CSVFileAlreadyOpen>Ficheiro CSV já aberto. Feche antes de importar.</CSVFileAlreadyOpen>
   <DataCouldNotBeDecrypted>Os dados não puderam ser desencriptados.</DataCouldNotBeDecrypted>
   <DataEditedWhileNotConnected>Os dados foram editados enquanto NÃO LIGADOS à partilha da Congregação e não puderam ser enviados. Aviso! Isso provavelmente causará problemas de sincronização ou erros de dados!</DataEditedWhileNotConnected>
@@ -1819,7 +1822,7 @@
   <DeleteAllFromAppMessage2>Os dados são removidos automaticamente da aplicação após um período de tempo, portanto, deve usar esta opção APENAS se houver erros graves de dados na aplicação e se eles não puderem ser corrigidos no NW Scheduler.</DeleteAllFromAppMessage2>
   <DeleteAllPersonsSchedules>Você gostaria de excluir também todas os publicadores e horários?</DeleteAllPersonsSchedules>
   <DeletePersonsAndSchedules>Excluir publicadores e horários</DeletePersonsAndSchedules>
-  <DifferentCongLangauge>(Pode ser diferente da língua da sua Congregação)</DifferentCongLangauge>
+  <DifferentCongLangauge>(Pode ser diferente do idioma da sua Congregação)</DifferentCongLangauge>
   <DisableAppMessage>Esta congregação desativou a aplicação NW Scheduler. Deseja também desativar a aplicação NW Scheduler?</DisableAppMessage>
   <DisableSharingMessage>Esta congregação desativou a partilha de congregações. Gostaria também de desativar a partilha de congregação?</DisableSharingMessage>
   <DisablePublicSpeakerSharingMessage>Isso fará com que a sua congregação e oradores públicos sejam removidos de todas as Congregações Partilhadas no seu circuito.</DisablePublicSpeakerSharingMessage>
@@ -1852,7 +1855,7 @@
   <FeatureExceeded500Territories>Excedeu 500 territórios. Não é possível adicionar um novo território. Consulte Eu &gt; Registro.</FeatureExceeded500Territories>
   <FeatureExceeded1000Territories>Excedeu 1000 territórios. Não é possível adicionar novo território.</FeatureExceeded1000Territories>
   <FeatureNotAvailableInIndividualVersion>Desculpe, este recurso não está disponível na versão Individual. Por favor, veja Eu &gt; Registo.</FeatureNotAvailableInIndividualVersion>
-  <FeedbackMessageAllowOnWebsite>Eu permito que meu comentário positivo seja compartilhado com outras pessoas e colocado no site do NW Scheduler com meu país, região e nome.</FeedbackMessageAllowOnWebsite>
+  <FeedbackMessageAllowOnWebsite>Eu permito que meu comentário positivo seja partilhado com outras pessoas e colocado no site do NW Scheduler com meu país, região e nome.</FeedbackMessageAllowOnWebsite>
   <FeedbackMessageGreatlyAppreciate>Agradecemos imensamente todos os comentários positivos e incentivos! Obrigada!</FeedbackMessageGreatlyAppreciate>
   <FeedbackMessageInsteadPleaseClick>Em vez disso, clique em</FeedbackMessageInsteadPleaseClick>
   <FeedbackMessagePleaseBeSpecific>Por favor, seja o mais específico e detalhado possível.</FeedbackMessagePleaseBeSpecific>
@@ -1872,12 +1875,12 @@
   <GraphsCannotBeIncluded>Desculpe, os gráficos só podem ser incluídos se você selecionar 15 pessoas ou menos. Selecione menos pessoas ou desmarque 'Incluir gráficos'.</GraphsCannotBeIncluded>
   <GroupAlreadyHasAssistant>Este grupo já tem um Ajudante de Grupo</GroupAlreadyHasAssistant>
   <GroupAlreadyHasOverseer>Este grupo já tem um Superintendente de Grupo ou Servo de Grupo</GroupAlreadyHasOverseer>
-  <HelpOfferPersonalHelpAgreeMessage1>Sou um usuário confiante ou experiente do NW Scheduler e estou disposto a ajudar voluntariamente os irmãos que solicitarem ajuda</HelpOfferPersonalHelpAgreeMessage1>
+  <HelpOfferPersonalHelpAgreeMessage1>Sou um utilizador confiante ou experiente do NW Scheduler e estou disposto a ajudar voluntariamente os irmãos que solicitarem ajuda</HelpOfferPersonalHelpAgreeMessage1>
   <HelpOfferPersonalHelpAgreeMessage2>Concordo que minhas informações pessoais sejam armazenadas em um banco de dados que possa ser pesquisado por outros irmãos.</HelpOfferPersonalHelpAgreeMessage2>
   <HelpOfferPersonalHelpAgreeMessage3>Eu concordo em ajudar voluntariamente aqueles que entrarem em contato comigo para obter assistência.</HelpOfferPersonalHelpAgreeMessage3>
   <HelpOfferPersonalHelpAgreeMessage4>Serei paciente e amoroso e falarei positivamente sobre a aplicação NW Scheduler e NW Publisher.</HelpOfferPersonalHelpAgreeMessage4>
   <HelpOfferPersonalHelpAppreciationMessage>Apreciamos muito o amor abnegado demonstrado por aqueles que se voluntariam para ajudar os outros</HelpOfferPersonalHelpAppreciationMessage>
-  <HelpOfferPersonalHelpExplanationMessage1>Este é um acordo em que os irmãos podem se oferecer voluntariamente para ajudar aqueles que precisam de assistência pessoal com a aplicação NW Scheduler ou NW Publisher.</HelpOfferPersonalHelpExplanationMessage1>
+  <HelpOfferPersonalHelpExplanationMessage1>Este é um arranjo em que os irmãos podem se oferecer voluntariamente para ajudar aqueles que precisam de assistência pessoal com a aplicação NW Scheduler ou NW Publisher.</HelpOfferPersonalHelpExplanationMessage1>
   <HelpOfferPersonalHelpExplanationMessage2>Se você concordar, seu nome e detalhes de contato serão adicionados a um banco de dados que pode ser pesquisado por irmãos em sua área que precisam de ajuda.</HelpOfferPersonalHelpExplanationMessage2>
   <HelpOfferPersonalHelpCancelExplanation>Todas as suas informações de Oferta de Ajuda Pessoal serão removidas. Você não estará mais oferecendo ajuda voluntariamente.</HelpOfferPersonalHelpCancelExplanation>
   <HelpOfferPersonalHelpConfidentExplanation>'Confiante' significa que você está muito familiarizado com esse recurso e o usa regularmente. Você também está muito familiarizado com o que a Ajuda diz sobre esse recurso.</HelpOfferPersonalHelpConfidentExplanation>
@@ -1959,14 +1962,14 @@
   <LogFileSavedSuccessfully>Ficheiro de registo guardado com sucesso!</LogFileSavedSuccessfully>
   <LoggedInSuccesfully>Ligado com sucesso!</LoggedInSuccesfully>
   <MajorProblemsPleaseReplyOrContactUs>Se houver grandes problemas, responda ao nosso e-mail de Instruções de importação ou entre em contato conosco. Você DEVE incluir o Log de Importação ao responder ou entrar em contato conosco.</MajorProblemsPleaseReplyOrContactUs>
-  <ManuallyCreateMeetingData1>Criar dados de reunião manualmente (não recomendado)</ManuallyCreateMeetingData1>
-  <ManuallyCreateMeetingWarning>Se você criar manualmente os dados da reunião e posteriormente a Manual de Atividades da reunião ficar disponível, ela NÃO será atualizada automaticamente!</ManuallyCreateMeetingWarning>
+  <ManuallyCreateMeetingData>Criar dados de reunião manualmente</ManuallyCreateMeetingData>
+  <ManuallyCreateMeetingWarning1>Se você fizer isso e posteriormente os dados da Pasta de Trabalho da Reunião ficarem disponíveis, os Dados da Reunião NÃO serão atualizados automaticamente!</ManuallyCreateMeetingWarning1>
   <MapCacheEnabledMessage>Recomendamos enfaticamente que habilite o Map Cache.</MapCacheEnabledMessage>
   <MapDownloadFailedMessage>Falha no download do mapa. Verifique sua conexão com a Internet e tente novamente. Se o problema persistir, você precisará remover e adicionar novamente o mapa.</MapDownloadFailedMessage>
   <MapFileTooBig>Desculpe, este ficheiro é muito grande. Os mapas devem ter 200 KB ou menos.</MapFileTooBig>
   <MaximumDelegatesMessage>Desculpe, esta pessoa já tem 5 delegados.</MaximumDelegatesMessage>
   <MeetingWorkbookDataNotAvailable>Os dados do Manual de Atividades da reunião ainda não estão disponíveis para este idioma</MeetingWorkbookDataNotAvailable>
-  <MeetingWorkbookDataNotAvailableOptions>Você tem 4 opções:</MeetingWorkbookDataNotAvailableOptions>
+  <MeetingWorkbookDataNotAvailable5Options>Você tem 5 opções:</MeetingWorkbookDataNotAvailable5Options>
   <MeetingWorkbookDataNotAvailableOption11>1. Aguarde pacientemente até que os dados do Manual de Atividades da reunião estejam disponíveis (recomendado)</MeetingWorkbookDataNotAvailableOption11>
   <MissingPersonInformation>Informações em falta sobre publicadores</MissingPersonInformation>
   <MoreInformationPleaseVisitDownload>Para obter mais informações, visite NWScheduler.com&gt; Download</MoreInformationPleaseVisitDownload>
@@ -2023,6 +2026,8 @@
   <PersonAlreadyHasAssignmentThisWeekend>O publicador já tem uma tarefa neste fim de semana.</PersonAlreadyHasAssignmentThisWeekend>
   <PersonAlreadyPartOfFamily>O publicador já faz parte de uma Família. Primeiro, defina a família como Nenhum.</PersonAlreadyPartOfFamily>
   <PersonHasPartsWhileAway>Este publicador tem designações agendadas enquanto está ausente .</PersonHasPartsWhileAway>
+  <PersonHasUpcomingLocalPublicTalks>Esta pessoa terá próximas palestras públicas locais. Primeiro remova essas atribuições.</PersonHasUpcomingLocalPublicTalks>
+  <PersonHasUpcomingAwayPublicTalks>Esta pessoa terá próximas palestras públicas fora de casa. Primeiro remova essas atribuições.</PersonHasUpcomingAwayPublicTalks>
   <PersonMissingPersonalInformation>Publicador sem informação pessoal</PersonMissingPersonalInformation>
   <PersonsMissingPersonalInformation>Publicadores sem informações pessoais</PersonsMissingPersonalInformation>
   <PersonMissingEmergencyContactInformation>Publicador sem informações de contato de emergência</PersonMissingEmergencyContactInformation>
@@ -2048,7 +2053,7 @@
   <PleaseFirstUpdateAndCloseKHS>Atualize primeiro o KHS para a versão mais recente e feche o KHS.</PleaseFirstUpdateAndCloseKHS>
   <PleaseIdentifyYourself>Por favor, identifique-se</PleaseIdentifyYourself>
   <PleaseSaveImportLog>Salve e verifique o Registo de Importação para obter informações detalhadas.</PleaseSaveImportLog>
-  <PleaseSelectProgramLanguage>Por favor, selecione a língua do programa</PleaseSelectProgramLanguage>
+  <PleaseSelectProgramLanguage>Por favor, selecione o idioma do programa</PleaseSelectProgramLanguage>
   <PleaseSelectYourCountry>Por favor selecione seu país</PleaseSelectYourCountry>
   <PleaseSyncAppReservations>Primeiro, sincronize os pedidos de TP da aplicação antes de fazer alterações nos pedidos de testemunho público.</PleaseSyncAppReservations>
   <PleaseTryAgain>Por favor verifique a sua ligação à Internet e tente novamente. Se o problema persistir, clique em Ajuda.</PleaseTryAgain>
@@ -2088,9 +2093,9 @@
   <PublicSpeakerSharingRemotelyDeleteData>Deseja que os dados do seu Orador Público sejam eliminados remotamente das Congregações Vizinhas que estão a partilhar consigo?</PublicSpeakerSharingRemotelyDeleteData>
   <PublicSpeakerSharingRemotelyDeleteRecommend>(Recomendamos selecionar Não. Caso contrário, pode causar problemas com quaisquer congregações para as quais tenha pedidos.)</PublicSpeakerSharingRemotelyDeleteRecommend>
   <PublicSpeakerSharingStillHaveRequests>Você ainda tem pedidos para este circuito. Deve CANCELAR ou RECUSAR todos os pedidos antes de sair.</PublicSpeakerSharingStillHaveRequests>
-  <PublicWitnessingNotKeyPerson>Desculpe, esta pessoa não é uma pessoa-chave.</PublicWitnessingNotKeyPerson>
+  <PublicWitnessingNotKeyPerson>Desculpe, esta pessoa não é um capitão.</PublicWitnessingNotKeyPerson>
   <PublicWitnessingReservationsWaitingToSend>Pedidos de Testemunho Público aguardando para serem enviadas. Envie primeiro os dados da aplicação antes de sincronizar.</PublicWitnessingReservationsWaitingToSend>
-  <PublisherInformedEmergencyContactMessage>O publicador informou que o seu contato de emergência será compartilhado com os anciãos da congregação,e que estes podem contatá-lo em caso de emergência, e que qualquer informação pessoal é tratada de acordo com a Política de Privacidade</PublisherInformedEmergencyContactMessage>
+  <PublisherInformedEmergencyContactMessage>O publicador informou que o seu contato de emergência será partilhado com os anciãos da congregação, e que estes podem contatá-lo em caso de emergência, e que qualquer informação pessoal é tratada de acordo com a Política de Privacidade</PublisherInformedEmergencyContactMessage>
   <PublishersStatusUpdated>Os seguintes publicadores terão os seus estados Ativo e Regular atualizados:</PublishersStatusUpdated>
   <PullDataMessage1>Isso substituirá seus dados LOCAL atuais e os substituirá pelos dados COMPARTILHADOS.</PullDataMessage1>
   <PullDataMessage2>Observação: você NÃO deve fazer isso com frequência, mas apenas se seus dados LOCAIS estiverem ausentes ou corrompidos. Se isso acontecer regularmente, clique em Ajuda.</PullDataMessage2>
@@ -2104,8 +2109,8 @@
   <ReducePDFSizeMessage3>2) Salve novamente com uma configuração de qualidade inferior</ReducePDFSizeMessage3>
   <ReducePDFSizeMessage4>3) Visite https://smallpdf.com/compress-pdf e compacte o PDF</ReducePDFSizeMessage4>
   <RefreshMasterMapMessage>Para atualizar os limites do mapa mestre, saia da janela Territórios e retorne à janela Territórios</RefreshMasterMapMessage>
-  <RegistrationAllCongregationBronzeFeatures>Todos os recursos Congregation Bronze</RegistrationAllCongregationBronzeFeatures>
-  <RegistrationAllCongregationSilverFeatures>Todos os recursos Congregation Silver</RegistrationAllCongregationSilverFeatures>
+  <RegistrationAllCongregationBronzeFeatures>Todos os recursos Congregação Bronze</RegistrationAllCongregationBronzeFeatures>
+  <RegistrationAllCongregationSilverFeatures>Todos os recursos Congregação Prata</RegistrationAllCongregationSilverFeatures>
   <RegistrationConfirmationAgreePolicies>Li e concordo com a Política de Privacidade, Contrato de Licença e Política de Reembolso</RegistrationConfirmationAgreePolicies>
   <RegistrationConfirmationCarefullyCheck>Por favor, verifique cuidadosamente se todos os elementos acima estão corretos, especialmente seu e-mail.</RegistrationConfirmationCarefullyCheck>
   <RegistrationConfirmationInformationCorrect>A informação acima está correta</RegistrationConfirmationInformationCorrect>
@@ -2162,11 +2167,11 @@
   <SubmitOldCongregationFieldServiceReport1>Está a tentar definir um antigo Relatório de Serviço de Campo da Congregação como 'Enviado para a Filial'. Isto fará com que todos os estados Ativo, Inativo e Irregular dos publicadores sejam atualizados como no momento deste antigo Relatório de Serviço de Campo. Recomendamos fortemente configurar os Relatórios de Serviço de Campo da Congregação mais antigos como 'Enviados para a Filial' na ordem inversa da data, terminando com o mês mais recente.</SubmitOldCongregationFieldServiceReport1>
   <SubmitOldCongregationFieldServiceReport2>Consulte Ajuda&gt; Relatório de Serviço de Campo da Congregação para obter mais informações.</SubmitOldCongregationFieldServiceReport2>
   <TemplateNotExist>Modelo Não Existe.</TemplateNotExist>
-  <TerritoryAddAddressInstructions>Clique com o botão direito para adicionar um endereço</TerritoryAddAddressInstructions>
+  <TerritoryAddAddressInstructions>Clique no botão direito para adicionar um endereço</TerritoryAddAddressInstructions>
   <TerritoryAddBoundaryInstructions>Clique para adicionar um ponto, clique duas vezes para terminar</TerritoryAddBoundaryInstructions>
   <TerritoryEditBoundaryInstructions>Clique em uma linha para adicionar um ponto, clique duas vezes em um ponto para remover. Clique em Editar para finalizar</TerritoryEditBoundaryInstructions>
   <TerritoryAddApartmentNumberRangeMessage>Isso adicionará números de apartamento de 1 a</TerritoryAddApartmentNumberRangeMessage>
-  <TerritoryAddRemoveLabelsInstructions>Clique com o botão direito do mouse para adicionar um rótulo, clique com o botão esquerdo em um rótulo para remover</TerritoryAddRemoveLabelsInstructions>
+  <TerritoryAddRemoveLabelsInstructions>Clique no botão direito do mouse para adicionar um rótulo, clique no botão esquerdo em um rótulo para remover</TerritoryAddRemoveLabelsInstructions>
   <TerritoryAssignmentsPublisherMaxMessage>Este Editor já possui no máximo 10 Territórios Atribuídos de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsPublisherMaxMessage>
   <TerritoryAssignmentsFieldServiceGroupMaxMessage>Este Grupo de Field Service já possui no máximo 10 Territórios Designados de uma só vez. Por favor, peça-lhes que completem seus outros territórios primeiro</TerritoryAssignmentsFieldServiceGroupMaxMessage>
   <TerritoryExceedAddressLimit>Desculpe, cada território pode ter no máximo 250 endereços.</TerritoryExceedAddressLimit>
@@ -2241,7 +2246,7 @@
   <QuickStepSendPublicTalkReminderConfirmationOrInvitation>Enviar lembrete, confirmação ou convite</QuickStepSendPublicTalkReminderConfirmationOrInvitation>
   <QuickStepSendPublishersReportNotReceivedReminders>Enviar lembrete a publicador - relatórios de serviço de campo ainda não recebidos</QuickStepSendPublishersReportNotReceivedReminders>
   <QuickStepSendFieldServiceGroupReportNotReceivedReminders>Enviar lembretes de relatório de grupo de serviço de campo não recebido</QuickStepSendFieldServiceGroupReportNotReceivedReminders>
-  <QuickStepSendInvitationEmailToNotConnectedSharedPersons>Enviar e-mail de convite para publicadores compartilhadas não ligadas</QuickStepSendInvitationEmailToNotConnectedSharedPersons>
+  <QuickStepSendInvitationEmailToNotConnectedSharedPersons>Enviar e-mail de convite para pessoas compartilhadas não ligadas</QuickStepSendInvitationEmailToNotConnectedSharedPersons>
   <QuickStepSendAppInvitationEmailToCO>Enviar e-mail de convite de aplicação para o superintendente de circuito</QuickStepSendAppInvitationEmailToCO>
   <QuickStepSendAppInvitationEmailToNotConnectedAppPersons>Enviar e-mail de convite da aplicação para pessoas não ligadas à aplicação</QuickStepSendAppInvitationEmailToNotConnectedAppPersons>
   <QuickStepSendEmailToAppPersonsWithOldVersion>Enviar e-mail para pessoas da aplicação com versão antiga</QuickStepSendEmailToAppPersonsWithOldVersion>
