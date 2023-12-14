@@ -4,5 +4,6 @@ Por favor veja o ficheiro em anexo ([ATTACHMENT_NAME]), do seu grupo de serviço
 
 Por favor, pastoreie aqueles que não enviaram relatórios nos meses anteriores e/ou ofereça ajuda prática.
 
+
 Atenciosamente,
 [SENDER_NAME]
