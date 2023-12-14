@@ -1,8 +1,9 @@
 Prezado [TO_NAME],
 
-Por favor veja o ficheiro em anexo ([ATTACHMENT_NAME]) relativo ao seu grupo de serviço de campo nos últimos 6 meses.
+Por favor veja o ficheiro em anexo ([ATTACHMENT_NAME]), do seu grupo de serviço de campo, relativo aos últimos 6 meses.
 
-Por favor, pasteoreie aqueles que não enviaram relatórios nos meses anteriores e/ou ofereça ajuda prática.
+Por favor, pastoreie aqueles que não enviaram relatórios nos meses anteriores e/ou ofereça ajuda prática.
+
 
 Atenciosamente,
 [SENDER_NAME]
