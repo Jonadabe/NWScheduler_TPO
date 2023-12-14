@@ -1,6 +1,6 @@
 Prezado [TO_NAME],
 
-Este é um lembrete de que você tem as seguintes Designações na Reunião Vida e Ministério:
+Este é um lembrete de que tem as seguintes Designações na Reunião Vida e Ministério:
 
 [CLM_ASSIGNMENTS_SCHOOL]
 
