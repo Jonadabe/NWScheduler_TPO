@@ -880,6 +880,7 @@
   <ImportedSuccesfully>Importado com sucesso</ImportedSuccesfully>
   <Importing>A Importar...</Importing>
   <ImportAddresses>Endereços de importação</ImportAddresses>
+  <ImportedAppData>Dados de aplicativos importados</ImportedAppData>
   <ImportBoundaryFromKML>Importar limite de KML</ImportBoundaryFromKML>
   <ImportCompleted>Importação Concluída</ImportCompleted>
   <ImportCongregation>Importar Congregação</ImportCongregation>
@@ -1842,6 +1843,7 @@
   <ErrorMessageCrash>Desculpe! O NW Scheduler encontrou um erro. Por favor, tente novamente. Se esse erro persistir, clique em Ajuda&gt; Verificar atualizações. Se o erro persistir após a atualização, faça uma captura de ecrã e entre em contacto connosco.</ErrorMessageCrash>
   <ErrorRemovingdFromServer>Erro ao remover a congregação. Por favor, tente novamente.</ErrorRemovingdFromServer>
   <ErrorReportCouldNotBeCreated>Desculpe, este relatório não pôde ser criado.</ErrorReportCouldNotBeCreated>
+  <EventEndDateWithin60Days>A Data de Término deve ser dentro de 60 dias da Data de Início. Nenhum evento dura mais de 60 dias.</EventEndDateWithin60Days>
   <ExceptAttachmentsAndMaps>Exceto Anexos e Mapas</ExceptAttachmentsAndMaps>
   <ExistingPersonsFound>Publicadores existentes encontradas. Se você abrir uma Congregação a partir de um ficheiro, todas os Publicadores anteriores serão excluídos.</ExistingPersonsFound>
   <ExportPersonsMessage>Você está prestes a exportar X Pessoas de sua congregação.</ExportPersonsMessage>
@@ -1869,6 +1871,7 @@
   <FirstContactUsForInstructionsImportPersonsFromKHS>Por favor, primeiro entre em contato conosco e peça instruções para importar pessoas da KHS.</FirstContactUsForInstructionsImportPersonsFromKHS>
   <FirstContactUsForInstructionsImportPublicSpeakersFromKHS>Entre em contacto connosco primeiro e peça instruções para importar oradores públicos do KHS.</FirstContactUsForInstructionsImportPublicSpeakersFromKHS>
   <FirstCreateAndSelectTheCongregation>Por favor, primeiro crie e selecione a Congregação</FirstCreateAndSelectTheCongregation>
+  <FolderNotValidOrNoAccess>A pasta não é válida ou o NW Scheduler não tem acesso a esta pasta. Salve em outra pasta.</FolderNotValidOrNoAccess>
   <GiveInformationToTheCOBE>Dê informações ao CCA</GiveInformationToTheCOBE>
   <GivePasswordToOthers>Esta senha deve ser dada a outros irmãos designados que se ligarão a esta congregação.</GivePasswordToOthers>
   <GivePINToOthers>Este PIN deve ser dado aos publicadores para permitir que eles se liguem usando a aplicação NW Scheduler.</GivePINToOthers>
@@ -1994,6 +1997,7 @@
   <NoPublicTalkCoordinatorFound>Nenhum e-mail do Coordenador de Discursos Públicos encontrado.</NoPublicTalkCoordinatorFound>
   <NoPublicTalkCoordinatorFoundMessage>Por favor, clique em Congregação &gt; Congregações Vizinhas e Oradores Públicos para adicionar o Coordenador de Discursos Públicos.</NoPublicTalkCoordinatorFoundMessage>
   <NoSaveButton>Nota: Não há um botão para guardar. Todos os dados são guardados automaticamente!</NoSaveButton>
+  <NotEnoughMemoryError>Não há memória suficiente para salvar. Selecione menos dados para salvar de uma vez ou desmarque 'Combinar'.</NotEnoughMemoryError>
   <NotSendIndividually>Você optou por NÃO enviar individualmente. Todas as informações serão enviadas num único ficheiro.</NotSendIndividually>
   <NoUpcomingCOVisits>Nenhuma próxima visita do Superintendente de Circuito.</NoUpcomingCOVisits>
   <ObtainInformationFromSecretary>Obtenha informações do Secretário</ObtainInformationFromSecretary>
