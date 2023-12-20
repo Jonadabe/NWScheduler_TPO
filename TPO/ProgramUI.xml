@@ -1612,11 +1612,11 @@
   <CircuitOverseerAbbreviationWifeName>Nome da Esposa</CircuitOverseerAbbreviationWifeName>
   <EmergencyContactAbbreviation>CE</EmergencyContactAbbreviation>
   <EmailAbbreviation>@</EmailAbbreviation>
-  <HomePhoneAbbreviation>Cas-</HomePhoneAbbreviation>
+  <HomePhoneAbbreviation>Tel-</HomePhoneAbbreviation>
   <MobilePhoneAbbreviation>Tlm-</MobilePhoneAbbreviation>
   <WorkPhoneAbbreviation>Trab-</WorkPhoneAbbreviation>
   <HourAbbreviation>H</HourAbbreviation>
-  <BibleReadingAbbreviation>BR</BibleReadingAbbreviation>
+  <BibleReadingAbbreviation>LB</BibleReadingAbbreviation>
   <BibleStudyAbbreviation>EB</BibleStudyAbbreviation>
   <LetterWritingAbbreviation>EsCrt</LetterWritingAbbreviation>
   <AtHomeAbbreviation>EmC</AtHomeAbbreviation>
