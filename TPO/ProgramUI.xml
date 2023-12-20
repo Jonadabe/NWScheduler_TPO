@@ -30,15 +30,15 @@
   <AudioVideoSupportCoordinator>Coordenador do Audiovisual</AudioVideoSupportCoordinator>
   <Auxiliary1Short>Sala 1</Auxiliary1Short>
   <Auxiliary2Short>Sala 2</Auxiliary2Short>
-  <AuxiliaryClassroom>Sala Auxiliar</AuxiliaryClassroom>
-  <AuxiliaryClassroom1>Sala Auxiliar 1</AuxiliaryClassroom1>
-  <AuxiliaryClassroom2>Sala Auxiliar 2</AuxiliaryClassroom2>
-  <AuxiliaryClassroomCounselor>Conselheiro Sala Auxiliar 1</AuxiliaryClassroomCounselor>
-  <AuxiliaryClassroomCounselorShort>Conselheiro Sala Aux.</AuxiliaryClassroomCounselorShort>
+  <AuxiliaryClassroom>Sala Adicional</AuxiliaryClassroom>
+  <AuxiliaryClassroom1>Sala Adicional 1</AuxiliaryClassroom1>
+  <AuxiliaryClassroom2>Sala Adicional 2</AuxiliaryClassroom2>
+  <AuxiliaryClassroomCounselor>Conselheiro Sala Adicional 1</AuxiliaryClassroomCounselor>
+  <AuxiliaryClassroomCounselorShort>Conselheiro Sala Adi.</AuxiliaryClassroomCounselorShort>
   <AuxiliaryCounselor>Conselheiro Assistente</AuxiliaryCounselor>
   <AuxiliaryPioneer>Pioneiro Auxiliar</AuxiliaryPioneer>
   <AuxiliaryPioneers>Pioneiros Auxiliares</AuxiliaryPioneers>
-  <AuxOnly>Apenas Sala Auxiliar</AuxOnly>
+  <AuxOnly>Apenas Sala Adicional</AuxOnly>
   <AverageMeetingAttendance>Média de assistência à reunião</AverageMeetingAttendance>
   <AverageWeekendMeetingAttendance>Média da Assistência às Reuniões de fim de semana</AverageWeekendMeetingAttendance>
   <Baptised>Batizado</Baptised>
