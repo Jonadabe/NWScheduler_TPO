@@ -114,6 +114,7 @@
   <CongregationOverview>Visão Geral da Congregação</CongregationOverview>
   <CongregationPerson>Publicador da Congregação</CongregationPerson>
   <CongregationPIN>PIN da Congregação</CongregationPIN>
+  <CongregationPINIncorrect>PIN da congregação incorreto</CongregationPINIncorrect>
   <CongregationPublisherRecord>Registo Publicador </CongregationPublisherRecord>
   <CongregationPublisherRecords>Registos de Publicadores da Congregação</CongregationPublisherRecords>
   <CongregationResponsibilities>Responsabilidades na Congregação</CongregationResponsibilities>
@@ -338,7 +339,7 @@
   <S13Terr>Terr.</S13Terr>
   <S13No>n.º</S13No>
   <S21CongregationsPublisherRecord>REGISTO DE PUBLICADOR DE CONGREGAÇÃO</S21CongregationsPublisherRecord>
-  <S21IfPioneerOrFieldMissionary>(Se pioneiro ou missionário de campo)</S21IfPioneerOrFieldMissionary>
+  <S21IfPioneerOrFieldMissionary>(Se pioneiro ou missionário)</S21IfPioneerOrFieldMissionary>
   <S89NoteToStudent>Nota ao estudante</S89NoteToStudent>
   <S89NoteToStudentText2024>A fonte de matéria e o ponto de conselho para a sua designação encontram-se no Manual de Atividades da Reunião Vida e Ministério. Por favor, recapitule as instruções para a designação tal como estão descritas nas Instruções para a Reunião Vida e Ministério Cristãos (S-38).</S89NoteToStudentText2024>
   <S89HeadingLine1>DESIGNAÇÃO PARA A REUNIÃO</S89HeadingLine1>
@@ -453,7 +454,7 @@
   <AllDatesAvailable>Todas as datas disponíveis</AllDatesAvailable>
   <AllFuture>Todo no futuro</AllFuture>
   <AllGroups>Todos Grupos</AllGroups>
-  <AllPersons>Todas os Publicadores</AllPersons>
+  <AllPersons>Todas Pessoas</AllPersons>
   <AllPioneers>Todos Pioneiros</AllPioneers>
   <AllPublishers>Todos Publicadores</AllPublishers>
   <AllSlips>Todas as Designações</AllSlips>
@@ -619,11 +620,12 @@
   <Conflicts>conflitos</Conflicts>
   <Connect>Ligar</Connect>
   <ConnectToCongregation>Ligar-se à Congregação</ConnectToCongregation>
+  <ConnectToNWPublisherapp>Conecte-se à aplicação NW Publisher</ConnectToNWPublisherapp>
   <Connected>Ligado</Connected>
   <ConnectedTo>Ligado a</ConnectedTo>
   <Connecting>A Ligar...</Connecting>
   <Connection>Ligação</Connection>
-  <Contact>Contato</Contact>
+  <Contact>Contacto</Contact>
   <ContactDetails>Detalhes do Contacto</ContactDetails>
   <ContactInformation> Informações de Contacto</ContactInformation>
   <ContactName>Nome de Contacto</ContactName>
@@ -721,7 +723,7 @@
   <DoNotReceiveBetaUpdates>Não receber atualizações beta</DoNotReceiveBetaUpdates>
   <DowngradeRenew>Rebaixar e renovar</DowngradeRenew>
   <DowngradeRenewUntil>Rebaixar e renovar até</DowngradeRenewUntil>
-  <DownloadAppLogs>Baixar logs de aplicaçãos</DownloadAppLogs>
+  <Download>Download logs aplicação</Download>
   <Downloaded>Transferido</Downloaded>
   <DownloadNow>Descarregue agora</DownloadNow>
   <DoYouAgree>Você concorda?</DoYouAgree>
@@ -747,7 +749,7 @@
   <EditPassword>Editar Senha</EditPassword>
   <EditYourCongregationInCongregationInformation>Edite sua congregação em Informações da Congregação</EditYourCongregationInCongregationInformation>
   <Editing>Editando</Editing>
-  <Elderly>Idoso</Elderly>
+  <ElderlyInfirm>Idosos/Enfermos</ElderlyInfirm>
   <Email>E-mail</Email>
   <EmailAttachments>Anexos de E-mail</EmailAttachments>
   <EmailDocument>Enviar Documento por E-mail</EmailDocument>
@@ -765,7 +767,7 @@
   <Emergency>Emergência</Emergency>
   <EmergencyContact>Contacto de Emergência</EmergencyContact>
   <EmergencyContacts>Contactos de Emergência</EmergencyContacts>
-  <EmergencyContactInformation>Informações para contato de emergência</EmergencyContactInformation>
+  <EmergencyContactInformation>Informações para contacto de emergência</EmergencyContactInformation>
   <EmergencyContactList>Lista Contactos de Emergência</EmergencyContactList>
   <EmergencyContactListCondensed>Lista Contactos de Emergência Condensada</EmergencyContactListCondensed>
   <EmergencyContactNotLinked>O Publicador indicou que esta pessoa está nesta congregação, mas eles não foram vinculados.</EmergencyContactNotLinked>
@@ -880,7 +882,7 @@
   <ImportedSuccesfully>Importado com sucesso</ImportedSuccesfully>
   <Importing>A Importar...</Importing>
   <ImportAddresses>Endereços de importação</ImportAddresses>
-  <ImportedAppData>Dados de aplicativos importados</ImportedAppData>
+  <ImportedAppData>Dados da aplicação importados</ImportedAppData>
   <ImportBoundaryFromKML>Importar limite de KML</ImportBoundaryFromKML>
   <ImportCompleted>Importação Concluída</ImportCompleted>
   <ImportCongregation>Importar Congregação</ImportCongregation>
@@ -926,13 +928,13 @@
   <IncludingAuxiliaryPioneers>Incluindo Pioneiros Auxiliares</IncludingAuxiliaryPioneers>
   <IncomingSpeakers>Oradores Visitantes</IncomingSpeakers>
   <Individual>Individual</Individual>
-  <Infirm>Enfermo</Infirm>
+  <InfirmPioneer>Enfermo</InfirmPioneer>
   <Information>Informação</Information>
   <InformationBoard>Painel de Informações</InformationBoard>
   <InformationBoardUpdated>Painel de informações atualizado</InformationBoardUpdated>
   <InitialSyncronization>Sincronização Inicial</InitialSyncronization>
   <InitialView>Vista Inicial</InitialView>
-  <InPerson>Em pessoa</InPerson>
+  <InPerson>Presencial</InPerson>
   <InstallOnAppleMac>Instalar em Apple Mac</InstallOnAppleMac>
   <Installing>Instalar</Installing>
   <Invitation>Convite</Invitation>
@@ -1031,8 +1033,8 @@
   <MissingReportList>Lista de Relatórios não Recebidos</MissingReportList>
   <MissingReport>Relatório em Falta</MissingReport>
   <MissingReports>Relatórios em Falta</MissingReports>
-  <FieldMissionary>Missionário de Campo</FieldMissionary>
-  <FieldMissionaries>Missionários de Campo</FieldMissionaries>
+  <FieldMissionary>Missionário</FieldMissionary>
+  <FieldMissionaries>Missionários</FieldMissionaries>
   <Mobile>Telemóvel</Mobile>
   <Month>Mês</Month>
   <Months>Meses</Months>
@@ -1051,6 +1053,7 @@
   <NA>N/A</NA>
   <Name>Nome</Name>
   <NameFormat>Formato do Nome</NameFormat>
+  <NavigateByCoordinates>Navegue por Coordenadas</NavigateByCoordinates>
   <NeighborCongregation>Congregação Vizinha</NeighborCongregation>
   <NeighborCongregations>Congregações Vizinhas</NeighborCongregations>
   <NeighborCongregationsOnly>Apenas congregações vizinhas</NeighborCongregationsOnly>
@@ -1420,8 +1423,8 @@
   <ShowAddresses>Mostrar endereços</ShowAddresses>
   <ShowAllOutlines>Mostrar todos os Esboços</ShowAllOutlines>
   <ShowAssignmentAndDutyConflicts>Mostrar Conflitos de Designações e Tarefas</ShowAssignmentAndDutyConflicts>
-  <ShowContactDetails>Mostrar detalhes de contato</ShowContactDetails>
-  <ShowContactDetailsOnCLMAssignmentSlips>Mostrar detalhes de contato nas folhas de designações de VMC</ShowContactDetailsOnCLMAssignmentSlips>
+  <ShowContactDetails>Mostrar detalhes de contacto</ShowContactDetails>
+  <ShowContactDetailsOnCLMAssignmentSlips>Mostrar detalhes de contacto nas folhas de designações de VMC</ShowContactDetailsOnCLMAssignmentSlips>
   <ShowBrothers>Mostrar irmãos</ShowBrothers>
   <ShowDetails>Mostrar detalhes</ShowDetails>
   <ShowEveryone>Mostrar todos</ShowEveryone>
@@ -1430,7 +1433,7 @@
   <ShowFieldServiceSchedule>Mostrar cronograma de serviço de campo</ShowFieldServiceSchedule>
   <ShowFirstEmergencyContactOnly>Mostrar apenas o primeiro contacto de emergência</ShowFirstEmergencyContactOnly>
   <ShowMeetingDates>Mostrar datas de reunião</ShowMeetingDates>
-  <ShowMyContactInformation>Mostrar minhas informações de contato</ShowMyContactInformation>
+  <ShowMyContactInformation>Mostrar minhas informações de contacto</ShowMyContactInformation>
   <PanAndZoomControls>Controles de panorâmica e zoom</PanAndZoomControls>
   <ShowPassword>Mostrar Senha</ShowPassword>
   <ShowPublicWitnessing>Mostrar Testemunho Público</ShowPublicWitnessing>
@@ -1484,6 +1487,7 @@
   <Template>Modelo</Template>
   <TemplateName>Nome do modelo</TemplateName>
   <Templates>Modelos</Templates>
+  <Text>Texto</Text>
   <ThankYou>Obrigado!</ThankYou>
   <Theme>Tema</Theme>
   <TickShowAllOutlines>Marque Mostrar todos os tópicos abaixo</TickShowAllOutlines>
@@ -1493,6 +1497,7 @@
   <Timing>Cronómetro</Timing>
   <TimeFormat>Formato da hora</TimeFormat>
   <TimeZone>Fuso horário</TimeZone>
+  <TipMoney>Dica</TipMoney>
   <Tips>Dicas</Tips>
   <Title>Título</Title>
   <To>Para</To>
@@ -1656,7 +1661,7 @@
   <AllPublicTalksScheduled>Todos os Discursos Públicos agendados</AllPublicTalksScheduled>
   <AllPublishersAssignedFieldServiceGroup>Todos os publicadores estão designados a um grupo de serviço de campo.</AllPublishersAssignedFieldServiceGroup>
   <AllPublishersPersonalInformationUpToDate>Todas as informações pessoais dos publicadores estão atualizadas.</AllPublishersPersonalInformationUpToDate>
-  <AllPublishersHaveEmergencyContactInformation>Todos os publicadores têm informações de contato de emergência.</AllPublishersHaveEmergencyContactInformation>
+  <AllPublishersHaveEmergencyContactInformation>Todos os publicadores têm informações de contacto de emergência.</AllPublishersHaveEmergencyContactInformation>
   <AllSharedPersonsRecentlyConnected>Todos os publicadores com partilha ligados recentemente</AllSharedPersonsRecentlyConnected>
   <AllWeekendAssignmentsScheduled>Todas as designações de fim de semana programadas</AllWeekendAssignmentsScheduled>
   <AlsoDisableApp>Desativar também a aplicação?</AlsoDisableApp>
@@ -1690,9 +1695,9 @@
   <AppNoDataFoundMessage1>Estas são três maneiras pelas quais isso pode acontecer:</AppNoDataFoundMessage1>
   <AppNoDataFoundMessage2>1. Um administrador de aplicação em sua congregação clicou em Desativar aplicação</AppNoDataFoundMessage2>
   <AppNoDataFoundMessage3>2. Você não usa a aplicação NW Publisher há 3 meses e os dados do seu aplicação foram excluídos automaticamente</AppNoDataFoundMessage3>
-  <AppNoDataFoundMessage4>3. Você entrou em contato com o suporte do NW Scheduler e nos pediu para redefinir os dados do seu aplicação</AppNoDataFoundMessage4>
+  <AppNoDataFoundMessage4>3. Você entrou em contacto com o suporte do NW Scheduler e nos pediu para redefinir os dados do seu aplicação</AppNoDataFoundMessage4>
   <AppNoDataFoundMessage5>Você precisará clicar em Enviar para reconfigurar a aplicação</AppNoDataFoundMessage5>
-  <AppNotDoneOftenMessage>Isso NÃO deve ser feito com frequência. Se você precisar fazer isso com frequência, clique em Ajuda ou Fale Conosco.</AppNotDoneOftenMessage>
+  <AppNotDoneOftenMessage>Isso NÃO deve ser feito com frequência. Se você precisar fazer isso com frequência, clique em Ajuda ou Fale Connosco.</AppNotDoneOftenMessage>
   <AppProcessReceivedAppDataErrors>Ocorreram alguns erros ao receber dados da aplicação. Verifique os 'Registros da aplicação - Recebidos'.</AppProcessReceivedAppDataErrors>
   <AppRefreshPersonMessage>Você só deve fazer isso se essa pessoa estiver com problemas de dados da aplicação.</AppRefreshPersonMessage>
   <AppRememberSendAppData>Lembre-se de enviar dados da aplicação, caso contrário, nenhum dado aparecerá na aplicação.</AppRememberSendAppData>
@@ -1712,7 +1717,7 @@
   <AttachmentTooLarge>Desculpe, este ficheiro é muito grande. O ficheiro deve ter 2 MB ou menos.</AttachmentTooLarge>
   <AutoAssignNotEnoughPersonsAvailable>Observação: nem todas as designações foram atribuídas automaticamente, pois não havia publicadores suficientes disponíveis para o seguinte:</AutoAssignNotEnoughPersonsAvailable>
   <AvailableFullVersionOnly>Disponível apenas na versão completa</AvailableFullVersionOnly>
-  <AwayPeriodsApplyToAllFamilyPersons>Este publicador é um chefe de família. Você gostaria de aplicar seus Períodos Ausentes a todas os membros da família?</AwayPeriodsApplyToAllFamilyPersons>
+  <AwayPeriodsApplyToAllFamilyPersons>Este publicador é um chefe de família. Você gostaria de aplicar seus Períodos Ausentes a todos os membros da família?</AwayPeriodsApplyToAllFamilyPersons>
   <AwayPeriodsApplyToAllFamilyRequest>Esta pessoa solicitou a aplicação deste período de ausência a todos os membros da família.</AwayPeriodsApplyToAllFamilyRequest>
   <BackupReminderMessage1>IMPORTANTE: Faça uma CÓPIA DE SEGURANÇA EXTERNA dos seus dados REGULARMENTE!</BackupReminderMessage1>
   <BackupReminderMessage2>O NW Scheduler cria uma cópia de segurança automática cada vez que o programa é fechado. Este é guardado apenas no seu computador local.</BackupReminderMessage2>
@@ -1764,7 +1769,7 @@
   <CongregationSharingConnectMessage>Se você não souber sua Região de partilha, ID de Congregação ou Senha de partilha de Congregação, pergunte a um Administrador de Congregação.</CongregationSharingConnectMessage>
   <CongregationSharingDataErrors>Desculpe, os seus dados de Partilha de Congregação têm erros. Por favor, tente novamente. Se este problema persistir, atualize para a versão mais recente do NW Scheduler e peça ao administrador da congregação para partilhar novamente consigo. Clique em Ajuda&gt; Partilha de Congregação para obter mais informações.</CongregationSharingDataErrors>
   <CongregationSharingDataRemotelyDeletedMessage>Se você acha que isso foi um erro, fale com o administrador local da sua congregação.</CongregationSharingDataRemotelyDeletedMessage>
-  <CongregationSharingRemotelyDeleteDataOnlyIfNotElder>Você só deve fazer isso se a pessoa NÃO for mais um ancião.</CongregationSharingRemotelyDeleteDataOnlyIfNotElder>
+  <CongregationSharingRemotelyDeleteDataWarning>Geralmente, você só deve escolher esta opção em circunstâncias extremas, por exemplo, uma pessoa é excluída como ancião e discorda da decisão.</CongregationSharingRemotelyDeleteDataWarning>
   <CongregationSharingEnableExplanation1>A partilha da Congregação permite que você partilhe e sincronize automaticamente todos os dados do NW Scheduler com outros irmãos designados na sua congregação. Isso é separado da aplicação NWS Publisher. A partilha de Congregação NÃO armazena informações confidenciais online.</CongregationSharingEnableExplanation1>
   <CongregationSharingEnableExplanation2>O NW Scheduler Congregation Sharing é totalmente compatível com o sfl e o Regulamento Geral de Proteção de Dados (RGPD) da União Europeia (UE).</CongregationSharingEnableExplanation2>
   <CongregationSharingExperiencedError>Desculpe, ocorreu um erro na sua Partilha de Congregação</CongregationSharingExperiencedError>
@@ -1808,8 +1813,11 @@
   <ConnectionErrorLicenseMessage>Por favor, tente novamente ou consulte a Ajuda de registo &gt; Problemas de conexão</ConnectionErrorLicenseMessage>
   <ConnectionErrorMessage1>O NW Scheduler não pode se ligar aos nossos servidores</ConnectionErrorMessage1>
   <ConnectionErrorMessage2>Clique em Religar e tente novamente ou clique em Testar ligação com a Internet ou consulte Problemas e soluções de ligação.</ConnectionErrorMessage2>
-  <ContactInformationCheckNotYetReturned>Informações de verificação de contato ainda não foi confirmada</ContactInformationCheckNotYetReturned>
-  <ContactInformationForAllPublishers>Informações de contato para todos os publicadores</ContactInformationForAllPublishers>
+  <ConnectToNWPublisherappMessage1>Insira o PIN da sua congregação para se conectar à aplicação NW Publisher.</ConnectToNWPublisherappMessage1>
+  <ConnectToNWPublisherappMessage2>Se não sabe o PIN da sua congregação, pergunte a um administrador da aplicação. Eles podem encontrar o PIN da congregação em Resumo do aplicação.</ConnectToNWPublisherappMessage2>
+  <ConnectToNWPublisherappMessage3>Caso contrário, consulte</ConnectToNWPublisherappMessage3>
+  <ContactInformationCheckNotYetReturned>Informações de verificação de contacto ainda não foi confirmada</ContactInformationCheckNotYetReturned>
+  <ContactInformationForAllPublishers>Informações de contacto para todos os publicadores</ContactInformationForAllPublishers>
   <CreateNewCongregationEnableRegistration>Por favor, crie uma Nova Congregação para habilitar o Registro</CreateNewCongregationEnableRegistration>
   <CreateMeetingDataFromAnotherLanguage>Crie dados de reunião de outro idioma</CreateMeetingDataFromAnotherLanguage>
   <CSVFileAlreadyOpen>Ficheiro CSV já aberto. Feche antes de importar.</CSVFileAlreadyOpen>
@@ -1821,7 +1829,7 @@
   <DeleteAllFromApp>Eliminar tudo da aplicação</DeleteAllFromApp>
   <DeleteAllFromAppMessage1>Isto irá remover da aplicação TODOS os dados futuros desse tipo. Precisará de os adicionar novamente ao NW Scheduler e reenviar para a aplicação.</DeleteAllFromAppMessage1>
   <DeleteAllFromAppMessage2>Os dados são removidos automaticamente da aplicação após um período de tempo, portanto, deve usar esta opção APENAS se houver erros graves de dados na aplicação e se eles não puderem ser corrigidos no NW Scheduler.</DeleteAllFromAppMessage2>
-  <DeleteAllPersonsSchedules>Você gostaria de excluir também todas os publicadores e horários?</DeleteAllPersonsSchedules>
+  <DeleteAllPersonsSchedules>Você gostaria de excluir também todos os publicadores e horários?</DeleteAllPersonsSchedules>
   <DeletePersonsAndSchedules>Excluir publicadores e horários</DeletePersonsAndSchedules>
   <DifferentCongLangauge>(Pode ser diferente do idioma da sua Congregação)</DifferentCongLangauge>
   <DisableAppMessage>Esta congregação desativou a aplicação NW Scheduler. Deseja também desativar a aplicação NW Scheduler?</DisableAppMessage>
@@ -1839,13 +1847,13 @@
   <EmailNotSetupMessage>E-mail não configurado. Clique em 'de' e, em seguida, configure e teste seu e-mail. Clique em Ajuda &gt; E-mail &gt; Configurar e-mail para obter mais informações.</EmailNotSetupMessage>
   <EmailsAlreadySent>E-mails já enviados.</EmailsAlreadySent>
   <EmailTagSpecialFeatures>Esta etiqueta de e-mail só pode ser usada para relatórios que suportam recursos especiais de e-mail.</EmailTagSpecialFeatures>
-  <EmergencyContactsMissing>Contatos de emergência em falta</EmergencyContactsMissing>
+  <EmergencyContactsMissing>Contactos de emergência em falta</EmergencyContactsMissing>
   <ErrorMessageCrash>Desculpe! O NW Scheduler encontrou um erro. Por favor, tente novamente. Se esse erro persistir, clique em Ajuda&gt; Verificar atualizações. Se o erro persistir após a atualização, faça uma captura de ecrã e entre em contacto connosco.</ErrorMessageCrash>
   <ErrorRemovingdFromServer>Erro ao remover a congregação. Por favor, tente novamente.</ErrorRemovingdFromServer>
   <ErrorReportCouldNotBeCreated>Desculpe, este relatório não pôde ser criado.</ErrorReportCouldNotBeCreated>
   <EventEndDateWithin60Days>A Data de Término deve ser dentro de 60 dias da Data de Início. Nenhum evento dura mais de 60 dias.</EventEndDateWithin60Days>
   <ExceptAttachmentsAndMaps>Exceto Anexos e Mapas</ExceptAttachmentsAndMaps>
-  <ExistingPersonsFound>Publicadores existentes encontradas. Se você abrir uma Congregação a partir de um ficheiro, todas os Publicadores anteriores serão excluídos.</ExistingPersonsFound>
+  <ExistingPersonsFound>Publicadores existentes encontradas. Se você abrir uma Congregação a partir de um ficheiro, todos os Publicadores anteriores serão excluídos.</ExistingPersonsFound>
   <ExportPersonsMessage>Você está prestes a exportar X Pessoas de sua congregação.</ExportPersonsMessage>
   <FamilyAlreadyHasFamilyHead>Esta família já tem um chefe de família</FamilyAlreadyHasFamilyHead>
   <FeatureAvailableInCongregationSilverOrGold>Este recurso está disponível apenas em Congregation Silver ou Congregation Gold. Consulte Eu &gt; Registro.</FeatureAvailableInCongregationSilverOrGold>
@@ -1868,7 +1876,7 @@
   <FileCurrentlyOpenPleaseClose>Ficheiro atualmente aberto, feche o ficheiro e tente novamente.</FileCurrentlyOpenPleaseClose>
   <FileNotValidCongregation>O ficheiro não é uma Congregação NW Scheduler válida.</FileNotValidCongregation>
   <FileNotValidSharedPersonsBackup>O ficheiro não é uma Cópia de Segurança de pessoas compartilhadas do NW Scheduler válido</FileNotValidSharedPersonsBackup>
-  <FirstContactUsForInstructionsImportPersonsFromKHS>Por favor, primeiro entre em contato conosco e peça instruções para importar pessoas da KHS.</FirstContactUsForInstructionsImportPersonsFromKHS>
+  <FirstContactUsForInstructionsImportPersonsFromKHS>Por favor, primeiro entre em contacto connosco e peça instruções para importar pessoas da KHS.</FirstContactUsForInstructionsImportPersonsFromKHS>
   <FirstContactUsForInstructionsImportPublicSpeakersFromKHS>Entre em contacto connosco primeiro e peça instruções para importar oradores públicos do KHS.</FirstContactUsForInstructionsImportPublicSpeakersFromKHS>
   <FirstCreateAndSelectTheCongregation>Por favor, primeiro crie e selecione a Congregação</FirstCreateAndSelectTheCongregation>
   <FolderNotValidOrNoAccess>A pasta não é válida ou o NW Scheduler não tem acesso a esta pasta. Salve em outra pasta.</FolderNotValidOrNoAccess>
@@ -1880,11 +1888,11 @@
   <GroupAlreadyHasOverseer>Este grupo já tem um Superintendente de Grupo ou Servo de Grupo</GroupAlreadyHasOverseer>
   <HelpOfferPersonalHelpAgreeMessage1>Sou um utilizador confiante ou experiente do NW Scheduler e estou disposto a ajudar voluntariamente os irmãos que solicitarem ajuda</HelpOfferPersonalHelpAgreeMessage1>
   <HelpOfferPersonalHelpAgreeMessage2>Concordo que minhas informações pessoais sejam armazenadas em um banco de dados que possa ser pesquisado por outros irmãos.</HelpOfferPersonalHelpAgreeMessage2>
-  <HelpOfferPersonalHelpAgreeMessage3>Eu concordo em ajudar voluntariamente aqueles que entrarem em contato comigo para obter assistência.</HelpOfferPersonalHelpAgreeMessage3>
+  <HelpOfferPersonalHelpAgreeMessage3>Eu concordo em ajudar voluntariamente aqueles que entrarem em contacto comigo para obter assistência.</HelpOfferPersonalHelpAgreeMessage3>
   <HelpOfferPersonalHelpAgreeMessage4>Serei paciente e amoroso e falarei positivamente sobre a aplicação NW Scheduler e NW Publisher.</HelpOfferPersonalHelpAgreeMessage4>
   <HelpOfferPersonalHelpAppreciationMessage>Apreciamos muito o amor abnegado demonstrado por aqueles que se voluntariam para ajudar os outros</HelpOfferPersonalHelpAppreciationMessage>
   <HelpOfferPersonalHelpExplanationMessage1>Este é um arranjo em que os irmãos podem se oferecer voluntariamente para ajudar aqueles que precisam de assistência pessoal com a aplicação NW Scheduler ou NW Publisher.</HelpOfferPersonalHelpExplanationMessage1>
-  <HelpOfferPersonalHelpExplanationMessage2>Se você concordar, seu nome e detalhes de contato serão adicionados a um banco de dados que pode ser pesquisado por irmãos em sua área que precisam de ajuda.</HelpOfferPersonalHelpExplanationMessage2>
+  <HelpOfferPersonalHelpExplanationMessage2>Se você concordar, seu nome e detalhes de contacto serão adicionados a uma base de dados que pode ser pesquisada por irmãos na sua área que precisam de ajuda.</HelpOfferPersonalHelpExplanationMessage2>
   <HelpOfferPersonalHelpCancelExplanation>Todas as suas informações de Oferta de Ajuda Pessoal serão removidas. Você não estará mais oferecendo ajuda voluntariamente.</HelpOfferPersonalHelpCancelExplanation>
   <HelpOfferPersonalHelpConfidentExplanation>'Confiante' significa que você está muito familiarizado com esse recurso e o usa regularmente. Você também está muito familiarizado com o que a Ajuda diz sobre esse recurso.</HelpOfferPersonalHelpConfidentExplanation>
   <HelpOfferPersonalHelpExpertExplanation>'Especialista' significa que você entende totalmente as partes mais avançadas desse recurso (por exemplo, etapas rápidas relacionadas, alertas da página Eu, modelos de e-mail, etc.). Você também é muito bom em diagnosticar ou resolver qualquer problema com esse recurso.</HelpOfferPersonalHelpExpertExplanation>
@@ -1964,7 +1972,7 @@
   <LogEmpty>O registo está vazio.</LogEmpty>
   <LogFileSavedSuccessfully>Ficheiro de registo guardado com sucesso!</LogFileSavedSuccessfully>
   <LoggedInSuccesfully>Ligado com sucesso!</LoggedInSuccesfully>
-  <MajorProblemsPleaseReplyOrContactUs>Se houver grandes problemas, responda ao nosso e-mail de Instruções de importação ou entre em contato conosco. Você DEVE incluir o Log de Importação ao responder ou entrar em contato conosco.</MajorProblemsPleaseReplyOrContactUs>
+  <MajorProblemsPleaseReplyOrContactUs>Se houver grandes problemas, responda ao nosso e-mail de Instruções de importação ou entre em contacto connosco. Você DEVE incluir o Log de Importação ao responder ou entrar em contacto connosco.</MajorProblemsPleaseReplyOrContactUs>
   <ManuallyCreateMeetingData>Criar dados de reunião manualmente</ManuallyCreateMeetingData>
   <ManuallyCreateMeetingWarning1>Se você fizer isso e posteriormente os dados da Pasta de Trabalho da Reunião ficarem disponíveis, os Dados da Reunião NÃO serão atualizados automaticamente!</ManuallyCreateMeetingWarning1>
   <MapCacheEnabledMessage>Recomendamos enfaticamente que habilite o Map Cache.</MapCacheEnabledMessage>
@@ -2014,9 +2022,10 @@
   <OtherRegistrationQuestions>Tenho outras dúvidas de registo</OtherRegistrationQuestions>
   <OutOfMemoryError>Erro de falta de memória</OutOfMemoryError>
   <OutOfMemoryErrorMessage1>Seu computador ficou sem memória ao desenhar o limite do Território. Por favor, tente novamente.</OutOfMemoryErrorMessage1>
-  <OutOfMemoryErrorMessage2>Se você ainda tiver esse problema, existem 2 maneiras de corrigir:</OutOfMemoryErrorMessage2>
-  <OutOfMemoryErrorMessage3>Opção 1: Alocar mais memória virtual para o NW Scheduler</OutOfMemoryErrorMessage3>
-  <OutOfMemoryErrorMessage4>Opção 2: Antes de traçar quaisquer novos limites do território, primeiro reduza o tamanho do ecrã do NW Scheduler</OutOfMemoryErrorMessage4>
+  <OutOfMemoryErrorMessageOptions>Se você ainda tiver esse problema, existem três maneiras de corrigir:</OutOfMemoryErrorMessageOptions>
+  <OutOfMemoryErrorMessageOption1>Opção 1: Use um sistema operacional Windows de 64 bits (recomendado)</OutOfMemoryErrorMessageOption1>
+  <OutOfMemoryErrorMessageOption2>Opção 2: Reservar mais memória virtual para o NW Scheduler</OutOfMemoryErrorMessageOption2>
+  <OutOfMemoryErrorMessageOption3>Opção 3: Antes de traçar quaisquer novos limites do território, primeiro reduza o tamanho do ecrã do NW Scheduler</OutOfMemoryErrorMessageOption3>
   <OverwriteAllSelectedDuties>Isto irá substituir todas as designações selecionadas a partir da data selecionada atual em diante</OverwriteAllSelectedDuties>
   <OverwriteAllSelectedParts>Isto irá substituir todas as designações selecionadas e apagar as futuras designações de partes selecionadas</OverwriteAllSelectedParts>
   <PasswordNotValid1>A senha deve ter 10 caracteres ou mais e incluir letras minúsculas, maiúsculas e números.</PasswordNotValid1>
@@ -2034,8 +2043,8 @@
   <PersonHasUpcomingAwayPublicTalks>Esta pessoa terá próximas palestras públicas fora de casa. Primeiro remova essas atribuições.</PersonHasUpcomingAwayPublicTalks>
   <PersonMissingPersonalInformation>Publicador sem informação pessoal</PersonMissingPersonalInformation>
   <PersonsMissingPersonalInformation>Publicadores sem informações pessoais</PersonsMissingPersonalInformation>
-  <PersonMissingEmergencyContactInformation>Publicador sem informações de contato de emergência</PersonMissingEmergencyContactInformation>
-  <PersonsMissingEmergencyContactInformation>Publicadores sem informações de contato de emergência</PersonsMissingEmergencyContactInformation>
+  <PersonMissingEmergencyContactInformation>Publicador sem informações de contacto de emergência</PersonMissingEmergencyContactInformation>
+  <PersonsMissingEmergencyContactInformation>Publicadores sem informações de contacto de emergência</PersonsMissingEmergencyContactInformation>
   <PersonsMissingInformation>Pessoas com informações - em falta</PersonsMissingInformation>
   <PersonNotAssignedGroup>Publicador não designado a um grupo de serviço de campo</PersonNotAssignedGroup>
   <PersonsNotAssignedGroup>Publicadores não designados a um grupo de serviço de campo</PersonsNotAssignedGroup>
@@ -2099,7 +2108,7 @@
   <PublicSpeakerSharingStillHaveRequests>Você ainda tem pedidos para este circuito. Deve CANCELAR ou RECUSAR todos os pedidos antes de sair.</PublicSpeakerSharingStillHaveRequests>
   <PublicWitnessingNotKeyPerson>Desculpe, esta pessoa não é um capitão.</PublicWitnessingNotKeyPerson>
   <PublicWitnessingReservationsWaitingToSend>Pedidos de Testemunho Público aguardando para serem enviadas. Envie primeiro os dados da aplicação antes de sincronizar.</PublicWitnessingReservationsWaitingToSend>
-  <PublisherInformedEmergencyContactMessage>O publicador informou que o seu contato de emergência será partilhado com os anciãos da congregação, e que estes podem contatá-lo em caso de emergência, e que qualquer informação pessoal é tratada de acordo com a Política de Privacidade</PublisherInformedEmergencyContactMessage>
+  <PublisherInformedEmergencyContactMessage>O publicador informou que o seu contacto de emergência será partilhado com os anciãos da congregação, e que estes podem contactá-lo em caso de emergência, e que qualquer informação pessoal é tratada de acordo com a Política de Privacidade</PublisherInformedEmergencyContactMessage>
   <PublishersStatusUpdated>Os seguintes publicadores terão os seus estados Ativo e Regular atualizados:</PublishersStatusUpdated>
   <PullDataMessage1>Isso substituirá seus dados LOCAL atuais e os substituirá pelos dados COMPARTILHADOS.</PullDataMessage1>
   <PullDataMessage2>Observação: você NÃO deve fazer isso com frequência, mas apenas se seus dados LOCAIS estiverem ausentes ou corrompidos. Se isso acontecer regularmente, clique em Ajuda.</PullDataMessage2>
@@ -2203,7 +2212,7 @@
   <UserAccessSorryNoAccess>Desculpe, você não tem acesso a isso</UserAccessSorryNoAccess>
   <UserAccessIfNeedAccess>Se precisar de acesso:</UserAccessIfNeedAccess>
   <UserAccessClickCongregationSharingUserAccess>Clique em partilha de Congregação &gt; Acesso do Utilizador</UserAccessClickCongregationSharingUserAccess>
-  <UserAccessContactCongregationAdministrator>Entre em contato com um administrador de congregação</UserAccessContactCongregationAdministrator>
+  <UserAccessContactCongregationAdministrator>Entre em contacto com um administrador de congregação</UserAccessContactCongregationAdministrator>
   <UserAccessPleaseSeeHelp>Consulte Ajuda &gt; Acesso do utilizador para obter mais informações</UserAccessPleaseSeeHelp>
   <UserAccessNone>Acesso do usuário: Nenhum</UserAccessNone>
   <UserAccessViewOnly1>Acesso do usuário: apenas VISUALIZAR</UserAccessViewOnly1>
@@ -2225,9 +2234,9 @@
   <QuickStepSendWeeklyOverviewToAppointedBrothers>Enviar Visão Geral Semanal aos irmãos designados</QuickStepSendWeeklyOverviewToAppointedBrothers>
   <QuickStepSendGroupFieldServiceSummaryToGroupOverseers>Enviar Resumo do Serviço de Campo do Grupo aos Superintendentes do Grupo</QuickStepSendGroupFieldServiceSummaryToGroupOverseers>
   <QuickStepSendCongregationFieldServiceSummaryToAllElders>Enviar Resumo do Serviço de Campo da Congregação a todos os Anciãos</QuickStepSendCongregationFieldServiceSummaryToAllElders>
-  <QuickStepSendGroupEmergencyContactListToGroupOverseers>Enviar Lista de Contatos de Emergência do Grupo aos Superintendentes do Grupo</QuickStepSendGroupEmergencyContactListToGroupOverseers>
-  <QuickStepSendCongregationEmergencyContactListToAllElders>Enviar Lista de Contatos de Emergência da Congregação para todos os Anciãos</QuickStepSendCongregationEmergencyContactListToAllElders>
-  <QuickStepSendMissingInformationOrEmergencyContactsToGroupOverseers>Enviar pedido de informações em falta ou contatos de emergência para superintendentes de grupo</QuickStepSendMissingInformationOrEmergencyContactsToGroupOverseers>
+  <QuickStepSendGroupEmergencyContactListToGroupOverseers>Enviar Lista de Contactos de Emergência do Grupo aos Superintendentes do Grupo</QuickStepSendGroupEmergencyContactListToGroupOverseers>
+  <QuickStepSendCongregationEmergencyContactListToAllElders>Enviar Lista de Contactos de Emergência da Congregação para todos os Anciãos</QuickStepSendCongregationEmergencyContactListToAllElders>
+  <QuickStepSendMissingInformationOrEmergencyContactsToGroupOverseers>Enviar pedido de informações em falta ou contactos de emergência para superintendentes de grupo</QuickStepSendMissingInformationOrEmergencyContactsToGroupOverseers>
   <QuickStepSendMissingReportsListToGroupOverseers>Enviar lista de relatórios NÃO recebidos para Superintendentes de Grupo</QuickStepSendMissingReportsListToGroupOverseers>
   <QuickStepSendFieldServiceCollectionToGroupOverseers>Enviar formulário de recolha de serviço de campo para Superintendentes de Grupo</QuickStepSendFieldServiceCollectionToGroupOverseers>
   <QuickStepCreateServiceOverseerVisitEvent>Criar evento de visita do Superintendente do Serviço</QuickStepCreateServiceOverseerVisitEvent>
@@ -2251,6 +2260,7 @@
   <QuickStepSendPublishersReportNotReceivedReminders>Enviar lembrete a publicador - relatórios de serviço de campo ainda não recebidos</QuickStepSendPublishersReportNotReceivedReminders>
   <QuickStepSendFieldServiceGroupReportNotReceivedReminders>Enviar lembretes de relatório de grupo de serviço de campo não recebido</QuickStepSendFieldServiceGroupReportNotReceivedReminders>
   <QuickStepSendInvitationEmailToNotConnectedSharedPersons>Enviar e-mail de convite para pessoas compartilhadas não ligadas</QuickStepSendInvitationEmailToNotConnectedSharedPersons>
+  <QuickStepSendAppInvitationEmail>Enviar e-mail de convite da aplicação</QuickStepSendAppInvitationEmail>
   <QuickStepSendAppInvitationEmailToCO>Enviar e-mail de convite de aplicação para o superintendente de circuito</QuickStepSendAppInvitationEmailToCO>
   <QuickStepSendAppInvitationEmailToNotConnectedAppPersons>Enviar e-mail de convite da aplicação para pessoas não ligadas à aplicação</QuickStepSendAppInvitationEmailToNotConnectedAppPersons>
   <QuickStepSendEmailToAppPersonsWithOldVersion>Enviar e-mail para pessoas da aplicação com versão antiga</QuickStepSendEmailToAppPersonsWithOldVersion>
