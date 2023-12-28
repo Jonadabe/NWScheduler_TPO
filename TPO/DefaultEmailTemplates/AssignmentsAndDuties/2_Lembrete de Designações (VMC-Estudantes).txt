@@ -1,4 +1,4 @@
-Prezado [TO_NAME],
+Olá [TO_GENDER_TITLE] [TO_FIRST_NAME],
 
 Este é um lembrete de que tem as seguintes Designações na Reunião Vida e Ministério:
 
