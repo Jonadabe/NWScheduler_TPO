@@ -348,20 +348,20 @@
     <CategoryName>Other</CategoryName>
     <ItemNumber>TPO</ItemNumber>
     <Symbol />
-    <Title>Manual de Actividades</Title>
+    <Title>Manual de Atividades</Title>
   </LiteratureItem>
   <LiteratureItem>
     <ID>100051</ID>
     <CategoryName>Other</CategoryName>
-    <ItemNumber />
+    <ItemNumber>TPO</ItemNumber>
     <Symbol />
-    <Title>A Sentinela (Estudo) - Letras Grandes</Title>
+    <Title>Sentinela (Estudo) - Letra Grande</Title>
   </LiteratureItem>
   <LiteratureItem>
     <ID>100052</ID>
     <CategoryName>Other</CategoryName>
-    <ItemNumber />
+    <ItemNumber>TPO</ItemNumber>
     <Symbol />
-    <Title>Apostila de Reunião - Letras Grandes</Title>
+    <Title>Manual de Atividades - Letra Grande</Title>
   </LiteratureItem>
 </ArrayOfLiteratureItem>
