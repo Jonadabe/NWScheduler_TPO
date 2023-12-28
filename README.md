@@ -1,10 +1,14 @@
-# NWScheduler_TPO version 7.3 #1328
+# NWScheduler_TPO version 7.4 #1330
 
 Ficheiros de tradução em português de Portugal do software New World Scheduler.
 A localização da pasta TPO deve ser a mesma da versão instalada localmente no
 computador. Em ambiente windows a hierarquia costuma ser a seguinte:
 ```
 C:\Program Files (x86)\New World Scheduler\ProgramData\TPO
+```
+ou nas versões mais recentes:
+```
+C:\Program Files\New World Scheduler\ProgramData\TPO
 ```
 
 ## Descarregar a última tradução
