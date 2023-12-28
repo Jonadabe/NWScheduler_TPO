@@ -1,8 +1,8 @@
 Prezado [TO_NAME],
 
-Por favor veja o ficheiro em anexo: [ATTACHMENT_NAME].
+Por favor, encontre o anexo [ATTACHMENT_NAME] para a Reunião de Vida e Ministério Cristão.
 
-Este ficheiro pode ajudá-lo a cumprir o seu papel como Presidente na Reunião Vida e Ministério Cristão.
+Este esboço pode ajudá-lo a cumprir seu papel como Presidente.
 
 Atenciosamente,
 [SENDER_NAME]

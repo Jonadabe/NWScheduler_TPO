@@ -1,6 +1,6 @@
 Prezado [TO_NAME],
 
-Informamos que tem uma nova Designação na Reunião Vida e Ministério Cristão. Por favor consulte o ficheiro em anexo:  [ATTACHMENT_NAME].
+Informamos que tem uma nova Designação na Reunião Vida e Ministério. Por favor consulte o [ATTACHMENT_NAME] anexado para obter detalhes.
 
 Se tiver dúvidas ou problemas sobre esta designação, responda a este e-mail.
 

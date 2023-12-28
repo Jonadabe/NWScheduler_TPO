@@ -1,6 +1,6 @@
 Prezado [TO_NAME],
 
-Este é um lembrete de que tem as seguintes Tarefas na reunião de Fim de Semana:
+Este é um lembrete de que tem as seguintes Tarefas de Fim de Semana:
 
 [WEEKEND_ASSIGNMENTS]
 

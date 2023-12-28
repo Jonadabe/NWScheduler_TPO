@@ -1,8 +1,8 @@
 Prezado [TO_NAME],
 
-Por favor veja o ficheiro em anexo: [ATTACHMENT_NAME] .
+Encontre o [ATTACHMENT_NAME] anexado para seu grupo.
 
-Reúna todos os dados pedidos no relatório e envie por favor até ao dia 10.
+Reúna todos os dados do relatório e retorne até o dia 10.
 
 Atenciosamente,
 [SENDER_NAME]

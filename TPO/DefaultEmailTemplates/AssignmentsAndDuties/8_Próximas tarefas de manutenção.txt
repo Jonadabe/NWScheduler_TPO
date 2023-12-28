@@ -1,6 +1,6 @@
 Caro [TO_GENDER_TITLE] [TO_LAST_NAME],
 
-Este é um lembrete de que tem as seguintes Tarefas de Manutenção.
+Este é um lembrete amigável de que você tem próximas Tarefas de Manutenção.
 
 Localize o [ATTACHMENT_NAME] em anexo.
 
