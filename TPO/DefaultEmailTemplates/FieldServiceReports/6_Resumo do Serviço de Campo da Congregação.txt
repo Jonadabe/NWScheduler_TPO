@@ -1,6 +1,8 @@
-Prezado [TO_NAME],
+Olá [TO_GENDER_TITLE] [TO_FIRST_NAME],
 
-Por favor veja o [ATTACHMENT_NAME] anexado, atividade da congregação, para sua referência.
+Por favor veja o ficheiro em anexo ([ATTACHMENT_NAME]).
+
+Ele retrata a atividade da congregação e deve servir apenas para sua referência.
 
 Atenciosamente,
 [SENDER_NAME]
