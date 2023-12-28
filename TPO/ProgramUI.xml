@@ -723,7 +723,7 @@
   <DoNotReceiveBetaUpdates>Não receber atualizações beta</DoNotReceiveBetaUpdates>
   <DowngradeRenew>Rebaixar e renovar</DowngradeRenew>
   <DowngradeRenewUntil>Rebaixar e renovar até</DowngradeRenewUntil>
-  <Download>Download logs aplicação</Download>
+  <Download>Download</Download>
   <Downloaded>Transferido</Downloaded>
   <DownloadNow>Descarregue agora</DownloadNow>
   <DoYouAgree>Você concorda?</DoYouAgree>
@@ -1769,7 +1769,7 @@
   <CongregationSharingConnectMessage>Se você não souber sua Região de partilha, ID de Congregação ou Senha de partilha de Congregação, pergunte a um Administrador de Congregação.</CongregationSharingConnectMessage>
   <CongregationSharingDataErrors>Desculpe, os seus dados de Partilha de Congregação têm erros. Por favor, tente novamente. Se este problema persistir, atualize para a versão mais recente do NW Scheduler e peça ao administrador da congregação para partilhar novamente consigo. Clique em Ajuda&gt; Partilha de Congregação para obter mais informações.</CongregationSharingDataErrors>
   <CongregationSharingDataRemotelyDeletedMessage>Se você acha que isso foi um erro, fale com o administrador local da sua congregação.</CongregationSharingDataRemotelyDeletedMessage>
-  <CongregationSharingRemotelyDeleteDataWarning>Geralmente, você só deve escolher esta opção em circunstâncias extremas, por exemplo, uma pessoa é excluída como ancião e discorda da decisão.</CongregationSharingRemotelyDeleteDataWarning>
+  <CongregationSharingRemotelyDeleteDataWarning>Geralmente, apenas deve escolher esta opção em circunstâncias extremas, por exemplo, quando um ancião é desqualificado e discorda da decisão.</CongregationSharingRemotelyDeleteDataWarning>
   <CongregationSharingEnableExplanation1>A partilha da Congregação permite que você partilhe e sincronize automaticamente todos os dados do NW Scheduler com outros irmãos designados na sua congregação. Isso é separado da aplicação NWS Publisher. A partilha de Congregação NÃO armazena informações confidenciais online.</CongregationSharingEnableExplanation1>
   <CongregationSharingEnableExplanation2>O NW Scheduler Congregation Sharing é totalmente compatível com o sfl e o Regulamento Geral de Proteção de Dados (RGPD) da União Europeia (UE).</CongregationSharingEnableExplanation2>
   <CongregationSharingExperiencedError>Desculpe, ocorreu um erro na sua Partilha de Congregação</CongregationSharingExperiencedError>
@@ -1814,7 +1814,7 @@
   <ConnectionErrorMessage1>O NW Scheduler não pode se ligar aos nossos servidores</ConnectionErrorMessage1>
   <ConnectionErrorMessage2>Clique em Religar e tente novamente ou clique em Testar ligação com a Internet ou consulte Problemas e soluções de ligação.</ConnectionErrorMessage2>
   <ConnectToNWPublisherappMessage1>Insira o PIN da sua congregação para se conectar à aplicação NW Publisher.</ConnectToNWPublisherappMessage1>
-  <ConnectToNWPublisherappMessage2>Se não sabe o PIN da sua congregação, pergunte a um administrador da aplicação. Eles podem encontrar o PIN da congregação em Resumo do aplicação.</ConnectToNWPublisherappMessage2>
+  <ConnectToNWPublisherappMessage2>Se não sabe o PIN da sua congregação, pergunte a um administrador da aplicação. Eles podem encontrar o PIN da congregação ao abrirem a aplicação NW Scheduler.</ConnectToNWPublisherappMessage2>
   <ConnectToNWPublisherappMessage3>Caso contrário, consulte</ConnectToNWPublisherappMessage3>
   <ContactInformationCheckNotYetReturned>Informações de verificação de contacto ainda não foi confirmada</ContactInformationCheckNotYetReturned>
   <ContactInformationForAllPublishers>Informações de contacto para todos os publicadores</ContactInformationForAllPublishers>
@@ -1892,7 +1892,7 @@
   <HelpOfferPersonalHelpAgreeMessage4>Serei paciente e amoroso e falarei positivamente sobre a aplicação NW Scheduler e NW Publisher.</HelpOfferPersonalHelpAgreeMessage4>
   <HelpOfferPersonalHelpAppreciationMessage>Apreciamos muito o amor abnegado demonstrado por aqueles que se voluntariam para ajudar os outros</HelpOfferPersonalHelpAppreciationMessage>
   <HelpOfferPersonalHelpExplanationMessage1>Este é um arranjo em que os irmãos podem se oferecer voluntariamente para ajudar aqueles que precisam de assistência pessoal com a aplicação NW Scheduler ou NW Publisher.</HelpOfferPersonalHelpExplanationMessage1>
-  <HelpOfferPersonalHelpExplanationMessage2>Se você concordar, seu nome e detalhes de contacto serão adicionados a uma base de dados que pode ser pesquisada por irmãos na sua área que precisam de ajuda.</HelpOfferPersonalHelpExplanationMessage2>
+  <HelpOfferPersonalHelpExplanationMessage2>Se estiver de acordo, o seu nome e alguns detalhes de contacto serão adicionados numa base de dados que pode ser pesquisada por irmãos na sua área que precisam de ajuda.</HelpOfferPersonalHelpExplanationMessage2>
   <HelpOfferPersonalHelpCancelExplanation>Todas as suas informações de Oferta de Ajuda Pessoal serão removidas. Você não estará mais oferecendo ajuda voluntariamente.</HelpOfferPersonalHelpCancelExplanation>
   <HelpOfferPersonalHelpConfidentExplanation>'Confiante' significa que você está muito familiarizado com esse recurso e o usa regularmente. Você também está muito familiarizado com o que a Ajuda diz sobre esse recurso.</HelpOfferPersonalHelpConfidentExplanation>
   <HelpOfferPersonalHelpExpertExplanation>'Especialista' significa que você entende totalmente as partes mais avançadas desse recurso (por exemplo, etapas rápidas relacionadas, alertas da página Eu, modelos de e-mail, etc.). Você também é muito bom em diagnosticar ou resolver qualquer problema com esse recurso.</HelpOfferPersonalHelpExpertExplanation>
@@ -2023,7 +2023,7 @@
   <OutOfMemoryError>Erro de falta de memória</OutOfMemoryError>
   <OutOfMemoryErrorMessage1>Seu computador ficou sem memória ao desenhar o limite do Território. Por favor, tente novamente.</OutOfMemoryErrorMessage1>
   <OutOfMemoryErrorMessageOptions>Se você ainda tiver esse problema, existem três maneiras de corrigir:</OutOfMemoryErrorMessageOptions>
-  <OutOfMemoryErrorMessageOption1>Opção 1: Use um sistema operacional Windows de 64 bits (recomendado)</OutOfMemoryErrorMessageOption1>
+  <OutOfMemoryErrorMessageOption1>Opção 1: Usar um sistema operativo Windows de 64 bits (recomendado)</OutOfMemoryErrorMessageOption1>
   <OutOfMemoryErrorMessageOption2>Opção 2: Reservar mais memória virtual para o NW Scheduler</OutOfMemoryErrorMessageOption2>
   <OutOfMemoryErrorMessageOption3>Opção 3: Antes de traçar quaisquer novos limites do território, primeiro reduza o tamanho do ecrã do NW Scheduler</OutOfMemoryErrorMessageOption3>
   <OverwriteAllSelectedDuties>Isto irá substituir todas as designações selecionadas a partir da data selecionada atual em diante</OverwriteAllSelectedDuties>
@@ -2260,7 +2260,7 @@
   <QuickStepSendPublishersReportNotReceivedReminders>Enviar lembrete a publicador - relatórios de serviço de campo ainda não recebidos</QuickStepSendPublishersReportNotReceivedReminders>
   <QuickStepSendFieldServiceGroupReportNotReceivedReminders>Enviar lembretes de relatório de grupo de serviço de campo não recebido</QuickStepSendFieldServiceGroupReportNotReceivedReminders>
   <QuickStepSendInvitationEmailToNotConnectedSharedPersons>Enviar e-mail de convite para pessoas compartilhadas não ligadas</QuickStepSendInvitationEmailToNotConnectedSharedPersons>
-  <QuickStepSendAppInvitationEmail>Enviar e-mail de convite da aplicação</QuickStepSendAppInvitationEmail>
+  <QuickStepSendAppInvitationEmail>Enviar e-mail de convite para a aplicação</QuickStepSendAppInvitationEmail>
   <QuickStepSendAppInvitationEmailToCO>Enviar e-mail de convite de aplicação para o superintendente de circuito</QuickStepSendAppInvitationEmailToCO>
   <QuickStepSendAppInvitationEmailToNotConnectedAppPersons>Enviar e-mail de convite da aplicação para pessoas não ligadas à aplicação</QuickStepSendAppInvitationEmailToNotConnectedAppPersons>
   <QuickStepSendEmailToAppPersonsWithOldVersion>Enviar e-mail para pessoas da aplicação com versão antiga</QuickStepSendEmailToAppPersonsWithOldVersion>
