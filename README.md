@@ -1,4 +1,4 @@
-# NWScheduler_TPO version 7.4 #1332
+# NWScheduler_TPO version 7.4 #1338
 
 Ficheiros de tradução em português de Portugal do software New World Scheduler.
 A localização da pasta TPO deve ser a mesma da versão instalada localmente no
